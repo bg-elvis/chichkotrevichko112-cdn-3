@@ -1,0 +1,77 @@
+<head><meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8" /></head><table border="0" cellpadding="1" cellspacing="1" width="550"><tr valign="bottom"><td><h1>Нотификация</h1></td></tr><tr><td><table cellspacing="1" cellpadding="1" width="100%" border="0" class="colltable"><tr><td><table cellspacing="1" cellpadding="1" width="100%" border="0"><tr><td class="Payment_textsml" width="50%">
+                      Incoming/Outgoing
+                    </td><td class="Payment_textsml" width="50%">OUT</td></tr><tr><td class="Payment_textsml">
+                      Sending Institution
+                    </td><td class="Payment_textsml"></td></tr><tr><td class="Payment_textsml">
+                      Receiving Institution
+                    </td><td class="Payment_textsml">BKAUATWWXXX</td></tr><tr><td class="Payment_textsml">
+                      Sender’s Reference
+                    </td><td class="Payment_textsml">8163101187</td></tr><tr><td class="Payment_textsml">
+                      Settlement Amount
+                    </td><td class="Payment_textsml">180613EUR1000,00</td></tr><tr><td class="Payment_textsml">
+                      Ordering Customer
+                    </td><td class="Payment_textsml">BG66UNCR70001521765243</td></tr><tr><td class="Payment_textsml" /><td class="Payment_textsml">TIBIEL EOOD</td></tr><tr><td class="Payment_textsml" /><td class="Payment_textsml">gr. Pernik 2300 PLOSHTAD SVETI IVANRILSKI No 1 PERNIK Bulgaria</td></tr><tr><td class="Payment_textsml">
+                      Ordering Institution
+                    </td><td class="Payment_textsml">UNCRBGSFXXX</td></tr><tr><td class="Payment_textsml" /><td class="Payment_textsml">UNICREDIT BULBANK AD</td></tr><tr><td class="Payment_textsml" /><td class="Payment_textsml">SVETA NEDELYA SQUARE 7</td></tr><tr><td class="Payment_textsml">
+                      Sender's Correspondent
+                    </td><td class="Payment_textsml"></td></tr><tr><td class="Payment_textsml">
+                      Receiver's Correspondent
+                    </td><td class="Payment_textsml"></td></tr><tr><td class="Payment_textsml">
+                      Intermediary Institution
+                    </td><td class="Payment_textsml"></td></tr><tr><td class="Payment_textsml">
+                      Account With Institution
+                    </td><td class="Payment_textsml">BUCUROBUXXX</td></tr><tr><td class="Payment_textsml" /><td class="Payment_textsml">ALPHA BANK ROMANIA SA</td></tr><tr><td class="Payment_textsml" /><td class="Payment_textsml">DOROBANTILOR STREET 237B</td></tr><tr><td class="Payment_textsml" /><td class="Payment_textsml">1ST DISTRICT</td></tr><tr><td class="Payment_textsml">
+                      Beneficiary Customer
+                    </td><td class="Payment_textsml">RO24BUCU1451215947359EUR</td></tr><tr><td class="Payment_textsml" /><td class="Payment_textsml">MOTOAERE ELECTRICE SRL</td></tr><tr><td class="Payment_textsml" /><td class="Payment_textsml">7th Popoveni str                   CRAIOVA Romania</td></tr><tr><td class="Payment_textsml" width="30%">
+                      EndToEnd Reference
+                    </td><td class="Payment_textsml" width="100%">V POLZA NA TBD TOVARNI PREVOZI LTD</td></tr><tr><td class="Payment_textsml" width="30%">
+                      Remittance Information
+                    </td><td class="Payment_textsml" width="100%">PROF.INVOICE 292/23.05.2018</td></tr><tr><td class="Payment_textsml" width="30%">
+                      Details of Charges
+                    </td><td class="Payment_textsml" width="100%">SHA</td></tr><tr><td class="Payment_textsml">
+                      Sender to Receiver Inf.
+                    </td><td class="Payment_textsml">/VD1/</td></tr><tr><td class="Payment_textsml">
+                      Debited account number
+                    </td><td class="Payment_textsml">BG66UNCR70001521765243</td></tr><tr><td class="Payment_textsml">
+                      Credited account number
+                    </td><td class="Payment_textsml"></td></tr><tr><td class="Payment_textsml" width="1">
+                      Feeder system reference
+                    </td><td class="Payment_textsml" width="100%">000NL00143901280</td></tr><tr><td class="Payment_textsml">
+                      Currency of the payment
+                    </td><td class="Payment_textsml">EURBGN</td></tr><tr><td class="Payment_textsml">
+                      Original amount and currency
+                    </td><td class="Payment_textsml"></td></tr><tr><td class="Payment_textsml">
+                      Exchange rate
+                    </td><td class="Payment_textsml">000000195850000000000000000000</td></tr><tr><td class="Payment_textsml" width="1">
+                      GPP fees
+                    </td><td class="Payment_textsml" width="100%">BGN19,56</td></tr><tr><td class="Payment_textsml" /><td class="Payment_textsml">BGN19,56</td></tr><tr><td class="Payment_textsml" /><td class="Payment_textsml">XXX0,00</td></tr><tr><td class="Payment_textsml">
+                      Charges/other banks
+                    </td><td class="Payment_textsml">FOREIGN CHG:</td></tr><tr><td class="Payment_textsml" width="1">
+                      SEPA identification
+                    </td><td class="Payment_textsml" width="100%">SPF</td></tr><tr><td class="Payment_textsml">
+                      Beneficiary ID
+                    </td><td class="Payment_textsml"></td></tr><tr><td class="Payment_textsml" width="1">
+                      Originator ID
+                    </td><td class="Payment_textsml" width="100%"></td></tr><tr><td class="Payment_textsml">
+                      Ultimate Creditor Name
+                    </td><td class="Payment_textsml"></td></tr><tr><td class="Payment_textsml" width="1">
+                      Ultimate Creditor ID
+                    </td><td class="Payment_textsml" width="100%"></td></tr><tr><td class="Payment_textsml" width="1">
+                      Ultimate Debtor Name
+                    </td><td class="Payment_textsml" width="100%"></td></tr><tr><td class="Payment_textsml" width="1">
+                      Ultimate Debtor ID
+                    </td><td class="Payment_textsml" width="100%"></td></tr><tr><td class="Payment_textsml" width="1">
+                      Purpose Code
+                    </td><td class="Payment_textsml" width="100%"></td></tr><tr><td class="Payment_textsml" width="1">
+                      Purpose
+                    </td><td class="Payment_textsml" width="100%"></td></tr><tr><td class="Payment_textsml" width="1">
+                      Category Purpose
+                    </td><td class="Payment_textsml" width="100%"></td></tr><tr><td class="Payment_textsml" width="1">
+                      Reject/Return/Original msg ID
+                    </td><td class="Payment_textsml" width="100%"></td></tr><tr><td class="Payment_textsml" width="1">
+                      Reject/Return/Originating Party
+                    </td><td class="Payment_textsml" width="100%"></td></tr><tr><td class="Payment_textsml" width="1">
+                      Return/Originating customer
+                    </td><td class="Payment_textsml" width="100%"></td></tr><tr><td class="Payment_textsml" width="1">
+                      Reject/Return/Reason Code
+                    </td><td class="Payment_textsml" width="100%"></td></tr></table></td></tr></table></td></tr></table>

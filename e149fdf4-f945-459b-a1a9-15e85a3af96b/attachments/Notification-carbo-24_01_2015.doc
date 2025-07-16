@@ -1,0 +1,63 @@
+<head><meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8" /></head><table border="0" cellpadding="1" cellspacing="1" class="table550"><tr valign="bottom"><td><h1>Нотификация</h1></td></tr><tr><td><table cellspacing="0" cellpadding="0" width="100%" border="0" class="colltable"><tr><td><table cellspacing="1" cellpadding="1" width="100%" border="0"><tr><td class="Payment_textsml" width="30%">
+                      Basic Header
+                    </td><td class="Payment_textsml" width="100%" colspan="2">F 01 UNCRBGSFAXXX 3629 815297</td></tr><tr><td class="Payment_textsml">
+                        Application Header
+                      </td><td class="Payment_textsml" colspan="2">I 103 INGBPLPWXXXX N</td></tr><tr><td class="Payment_textsml">
+                        User Header
+                      </td><td class="Payment_textsml" width="20%%">
+                        Service Code    103:
+                      </td><td class="Payment_textsml">TGT</td></tr><tr><td class="Payment_textsml" /><td class="Payment_textsml">
+                        Bank. Priority  113:
+                      </td><td class="Payment_textsml">NYNN</td></tr><tr><td class="Payment_textsml" /><td class="Payment_textsml">
+                        Msg User Ref.   108:
+                      </td><td class="Payment_textsml">15124071939E0300</td></tr><tr><td class="Payment_textsml" /><td class="Payment_textsml">
+                        Validation      119:
+                      </td><td class="Payment_textsml"></td></tr></table></td></tr><tr><td><table cellspacing="1" cellpadding="1" width="100%" border="0"><tr><td class="Payment_textsml" width="30%">
+                      Sender's Ref.
+                    </td><td class="Payment_textsml" width="10%" nowrap="nowrap" align="right">
+                      *20   :
+                    </td><td class="Payment_textsml">5024100035</td></tr><tr><td class="Payment_textsml">
+                      Bank Operation Code
+                    </td><td class="Payment_textsml" width="10%" nowrap="nowrap" align="right">
+                      *23 B :
+                    </td><td class="Payment_textsml">CRED</td></tr><tr><td class="Payment_textsml">
+                      Settlement Amount
+                    </td><td class="Payment_textsml" width="10%" nowrap="nowrap" align="right">
+                      *32 A :
+                    </td><td class="Payment_textsml">150126EUR2000,00</td></tr><tr><td class="Payment_textsml">
+                        Instructed Amount
+                      </td><td class="Payment_textsml" width="10%" nowrap="nowrap" align="right">
+                        33 B :
+                      </td><td class="Payment_textsml">EUR2000,00</td></tr><tr><td class="Payment_textsml">
+                      Ordering Customer
+                    </td><td class="Payment_textsml" width="10%" nowrap="nowrap" align="right">
+                      *50   :
+                    </td><td class="Payment_textsml">/BG66UNCR70001521765243</td></tr><tr><td class="Payment_textsml" /><td class="Payment_textsml" /><td class="Payment_textsml">TIBIEL EOOD</td></tr><tr><td class="Payment_textsml" /><td class="Payment_textsml" /><td class="Payment_textsml">GR. PERNIK 2300 PLOSHTAD SVETI IVAN</td></tr><tr><td class="Payment_textsml" /><td class="Payment_textsml" /><td class="Payment_textsml">RILSKI NO 1 PERNIK BULGARIA</td></tr><tr><td class="Payment_textsml">
+                        Ordering Institution
+                      </td><td class="Payment_textsml" width="10%" nowrap="nowrap" align="right">
+                        52   :
+                      </td><td class="Payment_textsml"></td></tr><tr><td class="Payment_textsml" /><td class="Payment_textsml" /><td class="Payment_textsml">UNCRBGSFXXX</td></tr><tr><td class="Payment_textsml">
+                      Beneficiary Customer
+                    </td><td class="Payment_textsml" width="10%" nowrap="nowrap" align="right">
+                      *59  :
+                    </td><td class="Payment_textsml">/PL26105013991000002293433666</td></tr><tr><td class="Payment_textsml" /><td class="Payment_textsml" /><td class="Payment_textsml">PKIMSA CARBOAUTOMATYKA S.A..43-100</td></tr><tr><td class="Payment_textsml" /><td class="Payment_textsml" /><td class="Payment_textsml">TYCHY  UL.BUDOWLANYCH 168</td></tr><tr><td class="Payment_textsml">
+                        Remittance Info.
+                      </td><td class="Payment_textsml" width="10%" nowrap="nowrap" align="right">
+                        70   :
+                      </td><td class="Payment_textsml">INVOICE   DP 2 PROE0000004 30.04.14</td></tr><tr><td class="Payment_textsml">
+                      Details of Charges
+                    </td><td class="Payment_textsml" width="10%" nowrap="nowrap" align="right">
+                      *71 A :
+                    </td><td class="Payment_textsml">SHA</td></tr><tr><td class="Payment_textsml">
+                      Trailer
+                    </td><td class="Payment_textsml" width="10%" nowrap="nowrap" align="right">
+                      MAC :
+                    </td><td class="Payment_textsml"></td></tr><tr><td class="Payment_textsml" /><td class="Payment_textsml" width="10%" nowrap="nowrap" align="right">
+                      CHK :
+                    </td><td class="Payment_textsml">N/A</td></tr><tr><td class="Payment_textsml" /><td class="Payment_textsml" width="10%" nowrap="nowrap" align="right">
+                      PDE :
+                    </td><td class="Payment_textsml"></td></tr><tr><td class="Payment_textsml" /><td class="Payment_textsml" width="10%" nowrap="nowrap" align="right">
+                      PDM :
+                    </td><td class="Payment_textsml"></td></tr><tr><td class="Payment_textsml" /><td class="Payment_textsml" width="10%" nowrap="nowrap" align="right">
+                      DLM :
+                    </td><td class="Payment_textsml"></td></tr></table></td></tr></table></td></tr></table>

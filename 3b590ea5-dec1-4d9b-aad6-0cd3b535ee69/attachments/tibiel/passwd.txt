@@ -1,0 +1,4 @@
+certificate password: T3a_v6F#1_D
+www site: https://cdp.bulgartransgaz.bg
+username: tibiel
+passwd: T3a_v6F

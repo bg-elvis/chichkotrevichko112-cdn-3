@@ -1,0 +1,26 @@
+Return-Path: <tbl_ood@mail.bg>
+Received: from mail.bg (php3w1.internal [10.0.0.27])
+	by mx4.mail.bg (Postfix) with ESMTPA id 3B6FBFDE885;
+	Fri, 18 Oct 2019 13:42:24 +0300 (EEST)
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=mail.bg; s=default;
+	t=1571395344; bh=gRwNWRHu2ZzWwdz42Xqj2eMYQRpUQoJr1DxEM3yU0AY=;
+	h=Message-ID:Date:Subject:From:To:MIME-Version:Content-Type;
+	b=Ldkyp3GZaNB8L6loneBgTp/Gap570k2AuEs9+jcET/BT7dhQn+JfISBS9JDNvrE0T
+	 4Y9JtTUUeIzXrPOz93dsILaZtKvfU7S3V8ZlYX5OoJy9vMnTNVLlwp6DXpalmjCN7a
+	 l1hrzw9CFE8o2r/+Cx8h9eiCfITRuTMh2+s54l60=
+Message-ID: <abe91d4a3cf98ccf414033a76bd5618f.mailbg@mail.bg>
+Date: Fri, 18 Oct 2019 10:42:24 -0000
+Subject:
+ =?utf-8?B?0YQt0YDQsCDQs9C+0LTQuNGI0LXQvSDQutCw0L/QsNGG0LjRgtC10YIg0Lwu?=
+ =?utf-8?B?MTAg0Lgg0L/RgNC40LvQvtC20LXQvdC40LUgMQ==?=
+From: tbl_ood@mail.bg
+To: petkov59@gmail.com <petkov59@gmail.com>,
+ customs.bg Notification <noreply@customs.bg>
+User-Agent: Mail.BG Webmail
+MIME-Version: 1.0
+Content-Type: multipart/mixed;boundary="----=_20191018104224_15531"
+X-Confirm-Reading-To: 
+Disposition-Notification-To: 
+X-Priority: 3 (Normal)
+Importance: Normal
+X-Composed: 2019-10-18T10:42:23+00:00

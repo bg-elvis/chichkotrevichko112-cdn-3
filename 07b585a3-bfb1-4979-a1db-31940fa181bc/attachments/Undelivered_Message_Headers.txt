@@ -1,0 +1,35 @@
+Return-Path: <tbl_ood@mail.bg>
+Received: from mail.bg (unknown [10.0.0.21])
+	by mx5.mail.bg (Postfix) with ESMTPA id 142F48098427;
+	Mon, 19 Dec 2022 10:25:02 +0200 (EET)
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=mail.bg; s=default;
+	t=1671438303; bh=lNbN2lr8TssKeNZYJpyNhg33YLEy387WtzPWeHLueV0=;
+	h=Message-ID:In-Reply-To:References:Date:Subject:From:To:
+	 MIME-Version:Content-Type;
+	b=H6oyTBOqtKAD32wue6XzqzGRnoX8OlvyUZkoffoSzQK4Lt910qpgYg47mWI7V9HnG
+	 8phA9oZBgXq2ULPhQ9WRAZ6F2vAVy+qiFpxgeGYz3aYnzT5UVnZy+fqiCRCgg0BVEm
+	 b/7AChco6bpuo8wNrOdrR3Z0wO4oqMy8wNHXImSM=
+Message-ID: <5f3923ccc6733bc529d20412f7ad3777.mailbg@mail.bg>
+In-Reply-To: <1777284965.3847037.1671433375806@nm42.abv.bg>
+References: <1777284965.3847037.1671433375806@nm42.abv.bg>
+Date: Mon, 19 Dec 2022 09:25:03 +0100
+Subject:
+ =?utf-8?B?0KLQmNCR0JjQldCbINCV0J7QntCUIC0g0LjRgdC60LDQvdC1INC30LAg0YE=?=
+ =?utf-8?B?0YrQtNC10LnRgdGC0LLQuNC1INC30LAg0L7RgtGB0YLRgNCw0L3Rj9Cy0LA=?=
+ =?utf-8?B?0L3QtSDQvdCwINC/0YDQvtC00YrQu9C20LDQstCw0YnQuCDRgNCw0LfQu9C4?=
+ =?utf-8?B?0LrQuCDQv9GA0Lgg0LTQvtGB0YLQsNCy0LrQuNGC0LUg0Lgg0L/QvtC00LA=?=
+ =?utf-8?B?0LLQsNC90LDRgtCwINC40L3RhNC+0YDQvNCw0YbQuNGPINC60YrQvCDQndCQ?=
+ =?utf-8?B?0J8g0LIg0L7QsdC10LrRgiDQkdC10L3Qt9C40L3QvtGB0YLQsNC90YbQuNGP?=
+ =?utf-8?B?ICLQk9Ch0Jwg0J/QtdGA0L3QuNC6LSDQntCkIg==?=
+From: tbl_ood@mail.bg
+To: office@nsys-bg.com <office@nsys-bg.com>,
+ b.georgieva@nsys-bg.com <b.georgieva@nsys-bg.com>,
+ servise@nsys-bg.com <servise@nsys-bg.com>
+User-Agent: Mail.BG Webmail
+MIME-Version: 1.0
+Content-Type: multipart/mixed;boundary="----=_20221219092503_74978"
+X-Confirm-Reading-To: 
+Disposition-Notification-To: 
+X-Priority: 3 (Normal)
+Importance: Normal
+X-Composed: 2022-12-19T09:25:02+01:00

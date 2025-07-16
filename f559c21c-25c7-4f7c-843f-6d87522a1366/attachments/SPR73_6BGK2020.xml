@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="WINDOWS-1251"?>
+<dec736>
+  <isterm>0</isterm>
+  <year>2020</year>
+  <part1>
+    <eik>205828150</eik>
+    <name>"Българиан газ къмпани" ЕООД</name>
+    <phone>0885851514</phone>
+    <reprname>Веселин Павлов Тодоров</reprname>
+    <reprident>8711096663</reprident>
+  </part1>
+  <part2>
+  <rowsenum>
+    <correctioncode>0</correctioncode>
+    <firstname>Веселин</firstname>
+    <secondname>Павлов</secondname>
+    <thirdname>Тодоров</thirdname>
+    <identtype>0</identtype>
+    <ident>8711096663</ident>
+    <ismainemployer>1</ismainemployer>
+    <incomedata>
+     <incomerows>
+    <rowsenum>
+      <incomecode>101</incomecode>
+      <employereik>205828150</employereik>
+      <employername>"Българиан газ къмпани" ЕООД</employername>
+      <income>60960.84</income>
+      <healthinsbg>4960.80</healthinsbg>
+      <advancetax>5600.04</advancetax>
+    </rowsenum>
+     </incomerows>
+    <taxbase251>56000.04</taxbase251>
+    <taxbase253>0.00</taxbase253>
+    <taxbase49>
+      <taxbase>56000.04</taxbase>
+      <taxbase491>56000.04</taxbase491>
+      <tax>5600.00</tax>
+      <diff18>0.00</diff18>
+      <sum19deducted>0.00</sum19deducted>
+      <sum19refund>0.00</sum19refund>
+    </taxbase49>
+     <sumtaxdeducted>5600.04</sumtaxdeducted>
+    </incomedata>
+  </rowsenum>
+  </part2>
+</dec736>
+

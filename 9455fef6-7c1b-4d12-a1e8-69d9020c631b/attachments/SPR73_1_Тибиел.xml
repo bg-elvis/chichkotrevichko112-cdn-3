@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<dec731 xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<isterm>0</isterm>
+<year>2024</year>
+<part1>
+<eik>106588084</eik>
+<name>ТИБИЕЛ ЕООД</name>
+</part1>
+<part2>
+<rowsenum>
+<correctioncode>0</correctioncode>
+<foreign>1</foreign>
+<identtype>0</identtype>
+<ident>8907300136</ident>
+<firstname>ЦВЕТИЗАРА</firstname>
+<secondname>ТИХОМИРОВА</secondname>
+<thirdname>НАЙДЕНОВА</thirdname>
+<countrycode>BG</countrycode>
+<incomecode>3073</incomecode>
+<income>86488.00</income>
+</rowsenum>
+<rowsenum>
+<correctioncode>0</correctioncode>
+<foreign>1</foreign>
+<identtype>1</identtype>
+<ident>0000000000</ident>
+<firstname>ГЮНТЕР</firstname>
+<thirdname>ПИТЕЛ</thirdname>
+<countrycode>AT</countrycode>
+<incomecode>3073</incomecode>
+<income>35204.94</income>
+</rowsenum>
+</part2>
+</dec731>

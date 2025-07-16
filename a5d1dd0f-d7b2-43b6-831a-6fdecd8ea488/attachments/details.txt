@@ -1,0 +1,15 @@
+Reporting-MTA: dns; mx4.mail.bg
+X-Postfix-Queue-ID: CDFBABD1A5
+X-Postfix-Sender: rfc822; tbl_ood@mail.bg
+Arrival-Date: Wed,  1 Jul 2020 11:19:14 +0300 (EEST)
+
+Final-Recipient: rfc822; petra_radeva@hotmail.com
+Original-Recipient: rfc822;petra_radeva@hotmail.com
+Action: failed
+Status: 5.7.1
+Remote-MTA: dns; hotmail-com.olc.protection.outlook.com
+Diagnostic-Code: smtp; 550 5.7.1 Unfortunately, messages from [193.201.172.120]
+    weren't sent. Please contact your Internet service provider since part of
+    their network is on our block list (S3150). You can also refer your
+    provider to http://mail.live.com/mail/troubleshooting.aspx#errors.
+    [VI1EUR06FT048.eop-eur06.prod.protection.outlook.com]

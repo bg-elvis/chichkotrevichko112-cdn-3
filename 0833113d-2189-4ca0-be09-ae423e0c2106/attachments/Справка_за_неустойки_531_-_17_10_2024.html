@@ -1,0 +1,338 @@
+<HTML>
+<HEAD>
+<TITLE>Справка за неустойки - 17.10.2024</TITLE>
+<script type="text/javascript" src="http://code.jquery.com/jquery-1.5.2.js"></script>
+<META content="text/html; charset=utf-8" http-equiv=Content-Type>
+<STYLE type="text/css">
+.gs0 {
+  background: #FFFFEB;
+  color: #000000;
+  vertical-align: top;
+ font-family: Segoe UI;
+ font-size: 11px;
+ font-style: normal;
+}
+.gs1 {
+  background: #F0F0F0;
+  color: #000000;
+  vertical-align: top;
+ font-family: Segoe UI;
+ font-size: 11px;
+ font-style: normal;
+}
+.gs2 {
+  background: #F0F0F0;
+  color: #000000;
+  vertical-align: top;
+ font-family: Segoe UI;
+ font-size: 11px;
+ font-style: normal;
+}
+.gs3 {
+  background: #A0A0A0;
+  color: #000000;
+  vertical-align: top;
+ font-family: Segoe UI;
+ font-size: 11px;
+ font-style: normal;
+}
+.gs4 {
+  background: #FFFFFF;
+  color: #808080;
+  vertical-align: top;
+ font-family: Segoe UI;
+ font-size: 11px;
+ font-style: normal;
+}
+.gs5 {
+  background: #FFFFFF;
+  color: #000000;
+  vertical-align: top;
+ font-family: Segoe UI;
+ font-size: 11px;
+ font-style: normal;
+}
+.gs6 {
+  background: #0078D7;
+  color: #FFFFFF;
+  vertical-align: top;
+ font-family: Segoe UI;
+ font-size: 11px;
+ font-style: normal;
+}
+.gs7 {
+  background: #F0F0F0;
+  color: #000000;
+  vertical-align: top;
+ font-family: Segoe UI;
+ font-size: 11px;
+ font-style: normal;
+}
+.gs8 {
+  background: #99B4D1;
+  color: #000000;
+  vertical-align: top;
+ font-family: Segoe UI;
+ font-size: 11px;
+ font-style: normal;
+}
+.gs9 {
+  background: #BFCDDB;
+  color: #000000;
+  vertical-align: top;
+ font-family: Segoe UI;
+ font-size: 11px;
+ font-style: normal;
+}
+.gs10 {
+  background: #008000;
+  color: #000000;
+  vertical-align: top;
+ font-family: Segoe UI;
+ font-size: 11px;
+ font-style: normal;
+}
+.gs11 {
+  background: #FFFFEB;
+  color: #000000;
+  vertical-align: top;
+ font-family: Segoe UI;
+ font-size: 11px;
+ font-style: normal;
+}
+.gs12 {
+  background: #C0DCC0;
+  color: #000000;
+  vertical-align: top;
+ font-family: Segoe UI;
+ font-size: 11px;
+ font-style: normal;
+}
+</STYLE>
+<script type="text/javascript">        
+$(window).load(function(){  
+function moveScroll(){ 
+    var scroll = $(window).scrollTop(); 
+    var anchor_top = $("#maintable").offset().top; 
+    var anchor_bottom = $("#bottom_anchor").offset().top;    
+    if (scroll>anchor_top && scroll<anchor_bottom) {  
+    clone_table = $("#clone");   
+    if(clone_table.length == 0){  
+        clone_table = $("#maintable").clone(); 
+        clone_table.attr("id", "clone");   
+        clone_table.css({position:"fixed",  
+                 "pointer-events": "none",    
+                 top:0});    
+        clone_table.offset({ top: -($("#table-cap").height()), left: $("#maintable").offset().left });   
+        clone_table.width($("#maintable").width());  
+        $("#table-container").append(clone_table);   
+        $("#clone").css({visibility:"hidden"});     
+        $("#clone thead").css({visibility:"visible"});  
+    }      
+    } else { 
+    $("#clone").remove(); 
+    } 
+}   
+$(window).scroll(moveScroll); 
+}); 
+</script> 
+</HEAD>
+<BODY class="olap0">
+<div id="table-container"><TABLE id="maintable" border=1 CELLPADDING=2 CELLSPACING=0><CAPTION id="table-cap">Справка за неустойки - 17.10.2024</CAPTION>
+<THEAD><TR>
+  <TH COLSPAN=8 class="gs1" align=center>&nbsp;</TH>
+  <TH class="gs10" align=center>Стойности</TH>
+</TR>
+<TR>
+
+  <TH class="gs8" align=center>Контрагент номер</TH>
+  <TH class="gs8" align=center>Контрагент</TH>
+  <TH class="gs8" align=center>Дата плащане</TH>
+  <TH class="gs8" align=center>Тип документ</TH>
+  <TH class="gs8" align=center>Договор №</TH>
+  <TH class="gs8" align=center>Документ №</TH>
+  <TH class="gs8" align=center>Дата документ</TH>
+  <TH class="gs8" align=center>Дата падеж</TH>
+  <TH class="gs2" align=left>Начално салдо преведени суми</TH>
+  <TH class="gs2" align=left>Начално салдо вземане</TH>
+  <TH class="gs2" align=left>Начално салдо неустойка</TH>
+  <TH class="gs2" align=left>Начислена неустойка</TH>
+  <TH class="gs2" align=left>Платена неустойка</TH>
+  <TH class="gs2" align=left>Платено вземане</TH>
+  <TH class="gs2" align=left>Усвоена преведена сума</TH>
+  <TH class="gs2" align=left>Крайно салдо преведени суми</TH>
+  <TH class="gs2" align=left>Крайно салдо вземане</TH>
+  <TH class="gs2" align=left>Крайно салдо неустойка</TH>
+</TR>
+</THEAD><TBODY>
+<TR>
+  <TD ROWSPAN=9 class="gs2" align=left>531</TD>
+  <TD ROWSPAN=9 class="gs2" align=left>ТИБИЕЛ ЕООД</TD>
+  <TD ROWSPAN=4 class="gs2" align=left>&nbsp;</TD>
+  <TD ROWSPAN=4 class="gs2" align=left>&nbsp;</TD>
+  <TD ROWSPAN=4 class="gs2" align=left>531-245</TD>
+  <TD class="gs2" align=left>2400003790</TD>
+  <TD class="gs2" align=left>02.09.2024</TD>
+  <TD class="gs2" align=left>16.09.2024</TD>
+
+  <TD class="gs11" NOWRAP align=right>0.00</TD>
+  <TD class="gs11" NOWRAP align=right>7.09</TD>
+  <TD class="gs11" NOWRAP align=right>0.03</TD>
+  <TD class="gs11" NOWRAP align=right>0.04</TD>
+  <TD class="gs11" NOWRAP align=right>0.07</TD>
+  <TD class="gs11" NOWRAP align=right>7.09</TD>
+  <TD class="gs11" NOWRAP align=right>0.00</TD>
+  <TD class="gs11" NOWRAP align=right>0.00</TD>
+  <TD class="gs11" NOWRAP align=right>0.00</TD>
+  <TD class="gs11" NOWRAP align=right>0.00</TD>
+</TR>
+
+<TR>
+  <TD class="gs2" align=left>2400004270</TD>
+  <TD class="gs2" align=left>02.10.2024</TD>
+  <TD class="gs2" align=left>07.10.2024</TD>
+
+  <TD class="gs11" NOWRAP align=right>0.00</TD>
+  <TD class="gs11" NOWRAP align=right>19 223.76</TD>
+  <TD class="gs11" NOWRAP align=right>0.00</TD>
+  <TD class="gs11" NOWRAP align=right>0.00</TD>
+  <TD class="gs11" NOWRAP align=right>0.00</TD>
+  <TD class="gs11" NOWRAP align=right>19 223.76</TD>
+  <TD class="gs11" NOWRAP align=right>0.00</TD>
+  <TD class="gs11" NOWRAP align=right>0.00</TD>
+  <TD class="gs11" NOWRAP align=right>0.00</TD>
+  <TD class="gs11" NOWRAP align=right>0.00</TD>
+</TR>
+
+<TR>
+  <TD class="gs2" align=left>2400004271</TD>
+  <TD class="gs2" align=left>02.10.2024</TD>
+  <TD class="gs2" align=left>15.10.2024</TD>
+
+  <TD class="gs11" NOWRAP align=right>0.00</TD>
+  <TD class="gs11" NOWRAP align=right>19 223.76</TD>
+  <TD class="gs11" NOWRAP align=right>0.00</TD>
+  <TD class="gs11" NOWRAP align=right>0.01</TD>
+  <TD class="gs11" NOWRAP align=right>0.00</TD>
+  <TD class="gs11" NOWRAP align=right>19 216.60</TD>
+  <TD class="gs11" NOWRAP align=right>0.00</TD>
+  <TD class="gs11" NOWRAP align=right>0.00</TD>
+  <TD class="gs11" NOWRAP align=right>7.16</TD>
+  <TD class="gs11" NOWRAP align=right>0.01</TD>
+</TR>
+
+<TR>
+  <TD COLSPAN=3 class="gs2" align=left>Общо</TD>
+
+  <TD class="gs11" NOWRAP align=right>0.00</TD>
+  <TD class="gs11" NOWRAP align=right>38 454.61</TD>
+  <TD class="gs11" NOWRAP align=right>0.03</TD>
+  <TD class="gs11" NOWRAP align=right>0.05</TD>
+  <TD class="gs11" NOWRAP align=right>0.07</TD>
+  <TD class="gs11" NOWRAP align=right>38 447.45</TD>
+  <TD class="gs11" NOWRAP align=right>0.00</TD>
+  <TD class="gs11" NOWRAP align=right>0.00</TD>
+  <TD class="gs11" NOWRAP align=right>7.16</TD>
+  <TD class="gs11" NOWRAP align=right>0.01</TD>
+</TR>
+
+<TR>
+  <TD class="gs2" align=left>07.10.2024</TD>
+  <TD class="gs2" align=left>БИ</TD>
+  <TD class="gs2" align=left>531-245</TD>
+  <TD class="gs2" align=left>2400004270</TD>
+  <TD class="gs2" align=left>&nbsp;</TD>
+  <TD class="gs2" align=left>&nbsp;</TD>
+
+  <TD class="gs11" NOWRAP align=right>19 223.76</TD>
+  <TD class="gs11" NOWRAP align=right>0.00</TD>
+  <TD class="gs11" NOWRAP align=right>0.00</TD>
+  <TD class="gs11" NOWRAP align=right>0.00</TD>
+  <TD class="gs11" NOWRAP align=right>0.00</TD>
+  <TD class="gs11" NOWRAP align=right>0.00</TD>
+  <TD class="gs11" NOWRAP align=right>19 223.76</TD>
+  <TD class="gs11" NOWRAP align=right>0.00</TD>
+  <TD class="gs11" NOWRAP align=right>0.00</TD>
+  <TD class="gs11" NOWRAP align=right>0.00</TD>
+</TR>
+
+<TR>
+  <TD ROWSPAN=3 class="gs2" align=left>15.10.2024</TD>
+  <TD ROWSPAN=3 class="gs2" align=left>БИ</TD>
+  <TD ROWSPAN=3 class="gs2" align=left>531-245</TD>
+  <TD class="gs2" align=left>2400003790</TD>
+  <TD class="gs2" align=left>&nbsp;</TD>
+  <TD class="gs2" align=left>&nbsp;</TD>
+
+  <TD class="gs11" NOWRAP align=right>7.16</TD>
+  <TD class="gs11" NOWRAP align=right>0.00</TD>
+  <TD class="gs11" NOWRAP align=right>0.00</TD>
+  <TD class="gs11" NOWRAP align=right>0.00</TD>
+  <TD class="gs11" NOWRAP align=right>0.00</TD>
+  <TD class="gs11" NOWRAP align=right>0.00</TD>
+  <TD class="gs11" NOWRAP align=right>7.16</TD>
+  <TD class="gs11" NOWRAP align=right>0.00</TD>
+  <TD class="gs11" NOWRAP align=right>0.00</TD>
+  <TD class="gs11" NOWRAP align=right>0.00</TD>
+</TR>
+
+<TR>
+  <TD class="gs2" align=left>2400004271</TD>
+  <TD class="gs2" align=left>&nbsp;</TD>
+  <TD class="gs2" align=left>&nbsp;</TD>
+
+  <TD class="gs11" NOWRAP align=right>19 216.60</TD>
+  <TD class="gs11" NOWRAP align=right>0.00</TD>
+  <TD class="gs11" NOWRAP align=right>0.00</TD>
+  <TD class="gs11" NOWRAP align=right>0.00</TD>
+  <TD class="gs11" NOWRAP align=right>0.00</TD>
+  <TD class="gs11" NOWRAP align=right>0.00</TD>
+  <TD class="gs11" NOWRAP align=right>19 216.60</TD>
+  <TD class="gs11" NOWRAP align=right>0.00</TD>
+  <TD class="gs11" NOWRAP align=right>0.00</TD>
+  <TD class="gs11" NOWRAP align=right>0.00</TD>
+</TR>
+
+<TR>
+  <TD COLSPAN=3 class="gs2" align=left>Общо</TD>
+
+  <TD class="gs11" NOWRAP align=right>19 223.76</TD>
+  <TD class="gs11" NOWRAP align=right>0.00</TD>
+  <TD class="gs11" NOWRAP align=right>0.00</TD>
+  <TD class="gs11" NOWRAP align=right>0.00</TD>
+  <TD class="gs11" NOWRAP align=right>0.00</TD>
+  <TD class="gs11" NOWRAP align=right>0.00</TD>
+  <TD class="gs11" NOWRAP align=right>19 223.76</TD>
+  <TD class="gs11" NOWRAP align=right>0.00</TD>
+  <TD class="gs11" NOWRAP align=right>0.00</TD>
+  <TD class="gs11" NOWRAP align=right>0.00</TD>
+</TR>
+
+<TR>
+  <TD COLSPAN=6 class="gs2" align=left>Общо</TD>
+
+  <TD class="gs11" NOWRAP align=right>38 447.52</TD>
+  <TD class="gs11" NOWRAP align=right>38 454.61</TD>
+  <TD class="gs11" NOWRAP align=right>0.03</TD>
+  <TD class="gs11" NOWRAP align=right>0.05</TD>
+  <TD class="gs11" NOWRAP align=right>0.07</TD>
+  <TD class="gs11" NOWRAP align=right>38 447.45</TD>
+  <TD class="gs11" NOWRAP align=right>38 447.52</TD>
+  <TD class="gs11" NOWRAP align=right>0.00</TD>
+  <TD class="gs11" NOWRAP align=right>7.16</TD>
+  <TD class="gs11" NOWRAP align=right>0.01</TD>
+</TR>
+
+</tbody></TABLE>
+  <div id="bottom_anchor"></div> 
+</div> 
+  <script>  
+  if (window.parent && window.parent.parent){   
+    window.parent.parent.postMessage(["resultsFrame", { 
+      height: document.body.getBoundingClientRect().height, 
+      slug: "QHQGF"  
+    }], "*")   
+  }  
+</script>  
+</BODY>
+</HTML>

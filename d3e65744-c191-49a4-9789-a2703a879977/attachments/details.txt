@@ -1,0 +1,11 @@
+Reporting-MTA: dns; mx4.mail.bg
+X-Postfix-Queue-ID: 3B6FBFDE885
+X-Postfix-Sender: rfc822; tbl_ood@mail.bg
+Arrival-Date: Fri, 18 Oct 2019 13:42:24 +0300 (EEST)
+
+Final-Recipient: rfc822; noreply@customs.bg
+Original-Recipient: rfc822;noreply@customs.bg
+Action: failed
+Status: 5.0.0
+Remote-MTA: dns; mail.customs.bg
+Diagnostic-Code: smtp; 550 #5.1.0 Address rejected.

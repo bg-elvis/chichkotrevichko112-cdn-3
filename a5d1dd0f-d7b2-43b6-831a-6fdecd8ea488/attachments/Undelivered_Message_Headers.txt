@@ -1,0 +1,28 @@
+Return-Path: <tbl_ood@mail.bg>
+Received: from mail.bg (php0w3.internal [10.0.0.33])
+	by mx4.mail.bg (Postfix) with ESMTPA id CDFBABD1A5
+	for <petra_radeva@hotmail.com>; Wed,  1 Jul 2020 11:19:14 +0300 (EEST)
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=mail.bg; s=default;
+	t=1593591554; bh=2cJk62m7QlVHKSQZcax4gZx5+z5PyMdVEdMMN2xLTQs=;
+	h=Message-ID:In-Reply-To:References:Date:Subject:From:To:
+	 MIME-Version:Content-Type;
+	b=ksjE0zTkNsvFMFy68FNh67t/BJ00K3C7yfY5xTnBHjOzD5prGQ8GOXUOaasIg7UlU
+	 dI3Wags+fKrxNuNEEUD2DZG6S6ntFcI6C9QPynUsfvP9eTyt04SK45n38Sn5O2jPli
+	 EAxV9yWENC6pP+BrTJp5QcOyFL9Wb0vOFq74ozdg=
+Message-ID: <8f1fe6463371321ea6fb3269818b62df.mailbg@mail.bg>
+In-Reply-To:
+ <VI1PR10MB204880281760FF7CC7C44EFAE76C0@VI1PR10MB2048.EURPRD10.PROD.OUTLOOK.COM>
+References:
+    <VI1PR10MB204880281760FF7CC7C44EFAE76C0@VI1PR10MB2048.EURPRD10.PROD.OUTLOOK.COM>
+Date: Wed, 1 Jul 2020 08:19:14 -0000
+Subject: =?utf-8?B?UkU6INC/0YDQvtCx0LA=?=
+From: tbl_ood@mail.bg
+To: petra radeva <petra_radeva@hotmail.com>
+User-Agent: Mail.BG Webmail
+MIME-Version: 1.0
+Content-Type: multipart/mixed;boundary="----=_20200701081914_97919"
+X-Confirm-Reading-To: 
+Disposition-Notification-To: 
+X-Priority: 3 (Normal)
+Importance: Normal
+X-Composed: 2020-07-01T08:19:14+00:00

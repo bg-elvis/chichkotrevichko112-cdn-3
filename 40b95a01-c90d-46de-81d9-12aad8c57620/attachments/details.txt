@@ -1,0 +1,11 @@
+Reporting-MTA: dns; mx5.mail.bg
+X-Postfix-Queue-ID: 881788108749
+X-Postfix-Sender: rfc822; tbl_ood@mail.bg
+Arrival-Date: Tue, 14 Apr 2020 09:51:59 +0300 (EEST)
+
+Final-Recipient: rfc822; monov@brikel-bg.com
+Original-Recipient: rfc822;monov@brikel-bg.com
+Action: failed
+Status: 5.0.0
+Remote-MTA: dns; brikel-bg.com
+Diagnostic-Code: smtp; 550 No such person at this address."

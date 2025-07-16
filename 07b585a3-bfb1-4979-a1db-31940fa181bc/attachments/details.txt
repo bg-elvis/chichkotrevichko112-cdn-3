@@ -1,0 +1,11 @@
+Reporting-MTA: dns; mx5.mail.bg
+X-Postfix-Queue-ID: 142F48098427
+X-Postfix-Sender: rfc822; tbl_ood@mail.bg
+Arrival-Date: Mon, 19 Dec 2022 10:25:02 +0200 (EET)
+
+Final-Recipient: rfc822; servise@nsys-bg.com
+Original-Recipient: rfc822;servise@nsys-bg.com
+Action: failed
+Status: 5.0.0
+Remote-MTA: dns; mail.nsys-bg.com
+Diagnostic-Code: smtp; 550 No Such User Here"

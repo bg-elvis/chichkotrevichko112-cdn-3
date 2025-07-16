@@ -1,0 +1,2250 @@
+{\rtf1\ansi\ansicpg1251\uc1\deflang1026\adeflang1026\deflangfe1026\deff4\stshfloch5\stshfhich5\stshfbi5\stshfdbch5
+{\fonttbl
+{\f0\froman\fcharset204 Times New Roman;}
+{\f1\froman\fcharset0 Times New Roman;}
+{\f2\froman\fcharset204 Georgia;}
+{\f3\froman\fcharset0 Georgia;}
+{\f4\fnil\fcharset204 Microsoft Sans Serif;}
+{\f5\fnil\fcharset0 Microsoft Sans Serif;}
+}
+{\colortbl
+;
+\red0\green0\blue0
+;
+\red0\green0\blue255
+;
+\red0\green255\blue255
+;
+\red0\green255\blue0
+;
+\red255\green0\blue255
+;
+\red255\green0\blue0
+;
+\red255\green255\blue0
+;
+\red255\green255\blue255
+;
+\red0\green0\blue128
+;
+\red0\green128\blue128
+;
+\red0\green128\blue0
+;
+\red128\green0\blue128
+;
+\red128\green0\blue0
+;
+\red128\green128\blue0
+;
+\red128\green128\blue128
+;
+\red192\green192\blue192
+;
+}
+{\*\defchp\fs24\afs24\loch\af5\hich\af5\dbch\af5}
+{\*\defpap\aspalpha\aspnum\faauto\adjustright\cgrid\li0\ri0\ltrpar\ql\fi0\sb0\sa0\sl240\slmult1}
+{\stylesheet
+{\aspalpha\aspnum\faauto\adjustright\cgrid\li0\ri0\ltrpar\ql\fi0\sb0\sa0\sl240\slmult1\lang1026\langfe1026\f4\fs24\afs24\charscalex100\expndtw0
+\cf1\dn0 Normal;}
+{\*\cs10\additive Default Paragraph Font;}
+{\*\cs15\additive\ul\cf9\sbasedon10 Hyperlink;}
+{\*\cs16\additive\f0\b\i0\ul0\strike0\scaps0\sbasedon10\slink28 \'C7\'E0\'E3\'EB\'E0\'E2\'E8\'E5 #1_;}
+{\*\cs17\additive\lang1024\langfe1024\f1\b0\i0\ul0\strike0\scaps0\fs20\afs20\sbasedon10\slink29 \'C4\'F0\'F3\'E3\'E8_;}
+{\*\cs18\additive\f0\b0\i0\ul0\strike0\scaps0\sbasedon10\slink30 \'CE\'F1\'ED\'EE\'E2\'E5\'ED \'F2\'E5\'EA\'F1\'F2 (2)_;}
+{\*\cs19\additive\f0\b\i0\ul0\strike0\scaps0\sbasedon18 \'CE\'F1\'ED\'EE\'E2\'E5\'ED \'F2\'E5\'EA\'F1\'F2 (2) + \'D3\'E4\'E5\'E1\'E5\'EB
+\'E5\'ED;}
+{\*\cs20\additive\f0\b\i0\ul\strike0\scaps0\sbasedon18 \'CE\'F1\'ED\'EE\'E2\'E5\'ED \'F2\'E5\'EA\'F1\'F2 (2) + \'D3\'E4\'E5\'E1\'E5\'EB
+\'E5\'ED;}
+{\*\cs21\additive\f0\b0\i0\ul0\strike0\scaps0\sbasedon18 \'CE\'F1\'ED\'EE\'E2\'E5\'ED \'F2\'E5\'EA\'F1\'F2 (2);}
+{\*\cs22\additive\f0\b0\i0\ul0\strike0\scaps0\fs8\afs8\sbasedon18 \'CE\'F1\'ED\'EE\'E2\'E5\'ED \'F2\'E5\'EA\'F1\'F2 (2) +
+ 4 pt;}
+{\*\cs23\additive\f0\b0\i0\ul0\strike0\scaps0\fs20\afs20\sbasedon10\slink31 \'C3\'EE\'F0\'E5\'ED \'E8\'EB\'E8 \'E4\'EE\'EB\'E5\'ED
+ \'EA\'EE\'EB\'EE\'ED\'F2\'E8\'F2\'F3\'EB_;}
+{\*\cs24\additive\f2\b0\i\ul0\strike0\scaps0\fs23\afs23\sbasedon18 \'CE\'F1\'ED\'EE\'E2\'E5\'ED \'F2\'E5\'EA\'F1\'F2 (2)
+ + Georgia,11,5 pt,\'CA\'F3\'F0\'F1\'E8\'E2;}
+{\*\cs25\additive\f0\b0\i0\ul0\strike0\scaps0\fs18\afs18\sbasedon10\slink32 \'C3\'EE\'F0\'E5\'ED \'E8\'EB\'E8 \'E4\'EE\'EB\'E5\'ED
+ \'EA\'EE\'EB\'EE\'ED\'F2\'E8\'F2\'F3\'EB (2)_;}
+{\*\cs26\additive\f0\b\i0\ul0\strike0\scaps0\sbasedon10\slink33 \'C7\'E0\'E3\'EB\'E0\'E2\'E8\'E5 \'ED\'E0 \'E8\'E7\'EE\'E1\'F0\'E0\'E6\'E5
+\'ED\'E8\'E5_;}
+{\*\cs27\additive\f0\b\i0\ul0\strike0\scaps0\sbasedon10\slink34 \'CE\'F1\'ED\'EE\'E2\'E5\'ED \'F2\'E5\'EA\'F1\'F2 (3)_;}
+{\s28\aspalpha\aspnum\faauto\adjustright\cgrid\cbpat8\fi-740\sa600\sl0\slmult0\outlinelevel0\f0\b\i0\ul0\strike0\scaps0\sbasedon0\slink16
+\'C7\'E0\'E3\'EB\'E0\'E2\'E8\'E5 #1;}
+{\s29\aspalpha\aspnum\faauto\adjustright\cgrid\cbpat8\lang1024\langfe1024\f1\b0\i0\ul0\strike0\scaps0\fs20\afs20\sbasedon0\slink17
+\'C4\'F0\'F3\'E3\'E8;}
+{\s30\aspalpha\aspnum\faauto\adjustright\cgrid\cbpat8\qj\fi-760\sb600\sa360\sl0\slmult0\f0\b0\i0\ul0\strike0\scaps0\sbasedon0\slink18
+\'CE\'F1\'ED\'EE\'E2\'E5\'ED \'F2\'E5\'EA\'F1\'F2 (2);}
+{\s31\aspalpha\aspnum\faauto\adjustright\cgrid\cbpat8\sl0\slmult0\f0\b0\i0\ul0\strike0\scaps0\fs20\afs20\sbasedon0\slink23
+\'C3\'EE\'F0\'E5\'ED \'E8\'EB\'E8 \'E4\'EE\'EB\'E5\'ED \'EA\'EE\'EB\'EE\'ED\'F2\'E8\'F2\'F3\'EB;}
+{\s32\aspalpha\aspnum\faauto\adjustright\cgrid\cbpat8\sl0\slmult0\f0\b0\i0\ul0\strike0\scaps0\fs18\afs18\sbasedon0\slink25
+\'C3\'EE\'F0\'E5\'ED \'E8\'EB\'E8 \'E4\'EE\'EB\'E5\'ED \'EA\'EE\'EB\'EE\'ED\'F2\'E8\'F2\'F3\'EB (2);}
+{\s33\aspalpha\aspnum\faauto\adjustright\cgrid\cbpat8\sl0\slmult0\f0\b\i0\ul0\strike0\scaps0\sbasedon0\slink26 \'C7\'E0\'E3\'EB\'E0\'E2
+\'E8\'E5 \'ED\'E0 \'E8\'E7\'EE\'E1\'F0\'E0\'E6\'E5\'ED\'E8\'E5;}
+{\s34\aspalpha\aspnum\faauto\adjustright\cgrid\cbpat8\sl0\slmult0\f0\b\i0\ul0\strike0\scaps0\sbasedon0\slink27 \'CE\'F1\'ED\'EE\'E2\'E5
+\'ED \'F2\'E5\'EA\'F1\'F2 (3);}
+}
+{\*\listtable
+{\list\listtemplateid0
+{\listlevel\levelnfc1\levelnfc1\levelnfcn1\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000001 \'02\'00.;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc1\levelnfc1\levelnfcn1\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000002 \'02\'00.;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc1\levelnfc1\levelnfcn1\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000003 \'02\'00.;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc1\levelnfc1\levelnfcn1\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000004 \'02\'00.;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc1\levelnfc1\levelnfcn1\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000005 \'02\'00.;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc1\levelnfc1\levelnfcn1\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000006 \'02\'00.;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc1\levelnfc1\levelnfcn1\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000007 \'02\'00.;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc1\levelnfc1\levelnfcn1\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000008 \'02\'00.;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc1\levelnfc1\levelnfcn1\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000009 \'02\'00.;}
+{\levelnumbers \'01;}
+}
+{\listname ;}
+\listid1}
+{\list\listtemplateid2
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000010 \'041.\'00.;}
+{\levelnumbers \'03;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000011 \'041.\'00.;}
+{\levelnumbers \'03;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000012 \'041.\'00.;}
+{\levelnumbers \'03;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000013 \'041.\'00.;}
+{\levelnumbers \'03;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000014 \'041.\'00.;}
+{\levelnumbers \'03;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000015 \'041.\'00.;}
+{\levelnumbers \'03;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000016 \'041.\'00.;}
+{\levelnumbers \'03;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000017 \'041.\'00.;}
+{\levelnumbers \'03;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000018 \'041.\'00.;}
+{\levelnumbers \'03;}
+}
+{\listname ;}
+\listid3}
+{\list\listtemplateid4
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000019 \'042.\'00.;}
+{\levelnumbers \'03;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000020 \'042.\'00.;}
+{\levelnumbers \'03;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000021 \'042.\'00.;}
+{\levelnumbers \'03;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000022 \'042.\'00.;}
+{\levelnumbers \'03;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000023 \'042.\'00.;}
+{\levelnumbers \'03;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000024 \'042.\'00.;}
+{\levelnumbers \'03;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000025 \'042.\'00.;}
+{\levelnumbers \'03;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000026 \'042.\'00.;}
+{\levelnumbers \'03;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000027 \'042.\'00.;}
+{\levelnumbers \'03;}
+}
+{\listname ;}
+\listid5}
+{\list\listtemplateid6
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000028 \'043.\'00.;}
+{\levelnumbers \'03;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000029 \'043.\'00.;}
+{\levelnumbers \'03;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000030 \'043.\'00.;}
+{\levelnumbers \'03;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000031 \'043.\'00.;}
+{\levelnumbers \'03;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000032 \'043.\'00.;}
+{\levelnumbers \'03;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000033 \'043.\'00.;}
+{\levelnumbers \'03;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000034 \'043.\'00.;}
+{\levelnumbers \'03;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000035 \'043.\'00.;}
+{\levelnumbers \'03;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000036 \'043.\'00.;}
+{\levelnumbers \'03;}
+}
+{\listname ;}
+\listid7}
+{\list\listtemplateid8
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000037 \'02\'00.;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat7\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000038 \'04\'00.\'01.;}
+{\levelnumbers \'01\'03;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat7\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000039 \'04\'00.\'01.;}
+{\levelnumbers \'01\'03;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat7\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000040 \'04\'00.\'01.;}
+{\levelnumbers \'01\'03;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat7\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000041 \'04\'00.\'01.;}
+{\levelnumbers \'01\'03;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat7\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000042 \'04\'00.\'01.;}
+{\levelnumbers \'01\'03;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat7\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000043 \'04\'00.\'01.;}
+{\levelnumbers \'01\'03;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat7\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000044 \'04\'00.\'01.;}
+{\levelnumbers \'01\'03;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat7\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000045 \'04\'00.\'01.;}
+{\levelnumbers \'01\'03;}
+}
+{\listname ;}
+\listid9}
+{\list\listtemplateid10
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000046 \'044.\'00.;}
+{\levelnumbers \'03;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000047 \'044.\'00.;}
+{\levelnumbers \'03;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000048 \'044.\'00.;}
+{\levelnumbers \'03;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000049 \'044.\'00.;}
+{\levelnumbers \'03;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000050 \'044.\'00.;}
+{\levelnumbers \'03;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000051 \'044.\'00.;}
+{\levelnumbers \'03;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000052 \'044.\'00.;}
+{\levelnumbers \'03;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000053 \'044.\'00.;}
+{\levelnumbers \'03;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000054 \'044.\'00.;}
+{\levelnumbers \'03;}
+}
+{\listname ;}
+\listid11}
+{\list\listtemplateid12
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000055 \'02\'00.;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000056 \'02\'00.;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000057 \'02\'00.;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000058 \'02\'00.;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000059 \'02\'00.;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000060 \'02\'00.;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000061 \'02\'00.;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000062 \'02\'00.;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000063 \'02\'00.;}
+{\levelnumbers \'01;}
+}
+{\listname ;}
+\listid13}
+{\list\listtemplateid14
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000064 \'02\'00.;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000065 \'02\'00.;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000066 \'02\'00.;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000067 \'02\'00.;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000068 \'02\'00.;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000069 \'02\'00.;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000070 \'02\'00.;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000071 \'02\'00.;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000072 \'02\'00.;}
+{\levelnumbers \'01;}
+}
+{\listname ;}
+\listid15}
+{\list\listtemplateid16
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000073 \'045.\'00.;}
+{\levelnumbers \'03;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000074 \'045.\'00.;}
+{\levelnumbers \'03;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000075 \'045.\'00.;}
+{\levelnumbers \'03;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000076 \'045.\'00.;}
+{\levelnumbers \'03;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000077 \'045.\'00.;}
+{\levelnumbers \'03;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000078 \'045.\'00.;}
+{\levelnumbers \'03;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000079 \'045.\'00.;}
+{\levelnumbers \'03;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000080 \'045.\'00.;}
+{\levelnumbers \'03;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000081 \'045.\'00.;}
+{\levelnumbers \'03;}
+}
+{\listname ;}
+\listid17}
+{\list\listtemplateid18
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000082 \'02\'00.;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000083 \'02\'00.;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000084 \'02\'00.;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000085 \'02\'00.;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000086 \'02\'00.;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000087 \'02\'00.;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000088 \'02\'00.;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000089 \'02\'00.;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000090 \'02\'00.;}
+{\levelnumbers \'01;}
+}
+{\listname ;}
+\listid19}
+{\list\listtemplateid20
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000091 \'02\'00.;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000092 \'02\'00.;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000093 \'02\'00.;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000094 \'02\'00.;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000095 \'02\'00.;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000096 \'02\'00.;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000097 \'02\'00.;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000098 \'02\'00.;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000099 \'02\'00.;}
+{\levelnumbers \'01;}
+}
+{\listname ;}
+\listid21}
+{\list\listtemplateid22
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000100 \'046.\'00.;}
+{\levelnumbers \'03;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000101 \'046.\'00.;}
+{\levelnumbers \'03;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000102 \'046.\'00.;}
+{\levelnumbers \'03;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000103 \'046.\'00.;}
+{\levelnumbers \'03;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000104 \'046.\'00.;}
+{\levelnumbers \'03;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000105 \'046.\'00.;}
+{\levelnumbers \'03;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000106 \'046.\'00.;}
+{\levelnumbers \'03;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000107 \'046.\'00.;}
+{\levelnumbers \'03;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000108 \'046.\'00.;}
+{\levelnumbers \'03;}
+}
+{\listname ;}
+\listid23}
+{\list\listtemplateid24
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000109 \'047.\'00.;}
+{\levelnumbers \'03;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000110 \'047.\'00.;}
+{\levelnumbers \'03;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000111 \'047.\'00.;}
+{\levelnumbers \'03;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000112 \'047.\'00.;}
+{\levelnumbers \'03;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000113 \'047.\'00.;}
+{\levelnumbers \'03;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000114 \'047.\'00.;}
+{\levelnumbers \'03;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000115 \'047.\'00.;}
+{\levelnumbers \'03;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000116 \'047.\'00.;}
+{\levelnumbers \'03;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000117 \'047.\'00.;}
+{\levelnumbers \'03;}
+}
+{\listname ;}
+\listid25}
+{\list\listtemplateid26
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000118 \'048.\'00.;}
+{\levelnumbers \'03;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000119 \'048.\'00.;}
+{\levelnumbers \'03;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000120 \'048.\'00.;}
+{\levelnumbers \'03;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000121 \'048.\'00.;}
+{\levelnumbers \'03;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000122 \'048.\'00.;}
+{\levelnumbers \'03;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000123 \'048.\'00.;}
+{\levelnumbers \'03;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000124 \'048.\'00.;}
+{\levelnumbers \'03;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000125 \'048.\'00.;}
+{\levelnumbers \'03;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000126 \'048.\'00.;}
+{\levelnumbers \'03;}
+}
+{\listname ;}
+\listid27}
+{\list\listtemplateid28
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000127 \'049.\'00.;}
+{\levelnumbers \'03;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000128 \'049.\'00.;}
+{\levelnumbers \'03;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000129 \'049.\'00.;}
+{\levelnumbers \'03;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000130 \'049.\'00.;}
+{\levelnumbers \'03;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000131 \'049.\'00.;}
+{\levelnumbers \'03;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000132 \'049.\'00.;}
+{\levelnumbers \'03;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000133 \'049.\'00.;}
+{\levelnumbers \'03;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000134 \'049.\'00.;}
+{\levelnumbers \'03;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000135 \'049.\'00.;}
+{\levelnumbers \'03;}
+}
+{\listname ;}
+\listid29}
+{\list\listtemplateid30
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000136 \'0510.\'00.;}
+{\levelnumbers \'04;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000137 \'0510.\'00.;}
+{\levelnumbers \'04;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000138 \'0510.\'00.;}
+{\levelnumbers \'04;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000139 \'0510.\'00.;}
+{\levelnumbers \'04;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000140 \'0510.\'00.;}
+{\levelnumbers \'04;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000141 \'0510.\'00.;}
+{\levelnumbers \'04;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000142 \'0510.\'00.;}
+{\levelnumbers \'04;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000143 \'0510.\'00.;}
+{\levelnumbers \'04;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000144 \'0510.\'00.;}
+{\levelnumbers \'04;}
+}
+{\listname ;}
+\listid31}
+{\list\listtemplateid32
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000145 \'0512.\'00.;}
+{\levelnumbers \'04;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000146 \'0512.\'00.;}
+{\levelnumbers \'04;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000147 \'0512.\'00.;}
+{\levelnumbers \'04;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000148 \'0512.\'00.;}
+{\levelnumbers \'04;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000149 \'0512.\'00.;}
+{\levelnumbers \'04;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000150 \'0512.\'00.;}
+{\levelnumbers \'04;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000151 \'0512.\'00.;}
+{\levelnumbers \'04;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000152 \'0512.\'00.;}
+{\levelnumbers \'04;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000153 \'0512.\'00.;}
+{\levelnumbers \'04;}
+}
+{\listname ;}
+\listid33}
+{\list\listtemplateid34
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000154 \'02\'00.;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000155 \'02\'00.;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000156 \'02\'00.;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000157 \'02\'00.;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000158 \'02\'00.;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000159 \'02\'00.;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000160 \'02\'00.;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000161 \'02\'00.;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lang1026\langfe1026\f0\b0\i0\ul0\strike0\scaps0
+\fs24\afs24\charscalex100\expndtw0\cf1\dn0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000162 \'02\'00.;}
+{\levelnumbers \'01;}
+}
+{\listname ;}
+\listid35}
+}
+{\*\listoverridetable
+{\listoverride\listid1\listoverridecount0\ls1}
+{\listoverride\listid3\listoverridecount0\ls3}
+{\listoverride\listid5\listoverridecount0\ls5}
+{\listoverride\listid7\listoverridecount0\ls7}
+{\listoverride\listid9\listoverridecount0\ls9}
+{\listoverride\listid11\listoverridecount0\ls11}
+{\listoverride\listid13\listoverridecount0\ls13}
+{\listoverride\listid15\listoverridecount0\ls15}
+{\listoverride\listid17\listoverridecount0\ls17}
+{\listoverride\listid19\listoverridecount0\ls19}
+{\listoverride\listid21\listoverridecount0\ls21}
+{\listoverride\listid23\listoverridecount0\ls23}
+{\listoverride\listid25\listoverridecount0\ls25}
+{\listoverride\listid27\listoverridecount0\ls27}
+{\listoverride\listid29\listoverridecount0\ls29}
+{\listoverride\listid31\listoverridecount0\ls31}
+{\listoverride\listid33\listoverridecount0\ls33}
+{\listoverride\listid35\listoverridecount0\ls35}
+}
+{\info
+{\title}
+{\subject}
+{\author}
+{\keywords}
+}
+\paperw11900\paperh16840\margl360\margr360\margt360\margb360\gutter0\viewkind1\viewzk1\fet2\facingp\splytwnine\ftnlytwnine\htmautsp\useltbaln
+\alntblind\lytcalctblwd\lyttblrtgr\lnbrkrule\nobrkwrptbl\snaptogridincell\allowfieldendsel\wrppunct\asianbrkrule\newtblstyruls\nogrowautofit
+\usenormstyforlist\noindnmbrts\felnbrelev\nocxsptable\indrlsweleven\noafcnsttbl\afelev\utinl\hwelev\spltpgpar\notcvasp\notvatxbx\krnprsnet
+\cachedcolbal\noxlattoyen\noultrlspc\dntblnsbdb\nospaceforul\nolnhtadjtbl\notbrkcnstfrctbl\dgmargin\dghspace181\dgvspace181\dghshow1\dgvshow1
+\sectd\ltrsect\headery0\footery3\colsx720\sectlinegrid360\sftnbj\sftnrstcont
+\pard\plain\li2460\sl-240\slmult0\outlinelevel0\pvpg\phpg\posx1856\posy2382\overlay\s28\aspalpha\aspnum\faauto\adjustright\cgrid\f0\b\i0
+\ul0\strike0\scaps0
+{\*\bkmkstart bookmark0}
+{\cs16\lang1026\langfe1026\b\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'C4\'CE\'C3\'CE\'C2\'CE\'D0.}
+{\*\bkmkend bookmark0}
+\par
+\pard\plain\pvpg\phpg\posx7188\posy2049\overlay\aspalpha\aspnum\faauto\adjustright\cgrid
+\par
+\pard\plain\li720\qj\fi-720\sa257\sl-240\slmult0\pvpg\phpg\posx1856\posy3231\absh-8369\absw8438\overlay\s30\aspalpha\aspnum\faauto\adjustright
+\cgrid\f0\b0\i0\ul0\strike0\scaps0
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'C4\'ED\'E5\'F1, 16.02.2016
+ \'E3\'EE\'E4\'E8\'ED\'E0 \'E2 \'D2\'C5\'D6 "\'C1\'EE\'E1\'EE\'E2 \'E4\'EE\'EB" \'C5\'C0\'C4 \'EC\'E5\'E6\'E4\'F3:}
+\par
+\pard\plain\qj\sa244\sl-278\slmult0\pvpg\phpg\posx1856\posy3231\absh-8369\absw8438\overlay\s30\aspalpha\aspnum\faauto\adjustright\cgrid
+\f0\b0\i0\ul0\strike0\scaps0
+{\cs19\lang1026\langfe1026\b\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 "\'D2\'C8\'C1\'C8\'C5\'CB" \'C5\'CE\'CE\'C4
+ }
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'F1\'FA\'F1 \'F1\'E5\'E4\'E0\'EB\'E8\'F9
+\'E5 \'E8 \'E0\'E4\'F0\'E5\'F1 \'ED\'E0 \'F3\'EF\'F0\'E0\'E2\'EB\'E5\'ED\'E8\'E5 \'E3\'F0.\'CF\'E5\'F0\'ED\'E8\'EA, \'EF.\'EA.2300,\'EF
+\'EB \'92\'92\'F1\'E2.\'C8\'E2\'E0\'ED \'D0\'E8\'EB\'F1\'EA\'E8\'94\'B91, \'EE\'E1\'EB. \'CF\'E5\'F0\'ED\'E8\'EA, \'C5\'C8\'CA
+ 106588084, \'EF\'F0\'E5\'E4\'F1\'F2\'E0\'E2\'EB\'FF\'E2\'E0\'ED\'EE \'EE\'F2 \'D1\'F2\'E0\'ED\'E8\'F1\'EB\'E0\'E2 \'C8\'E2\'E0\'ED\'EE
+\'E2 \'CF\'EE\'EF\'EE\'E2 - \'D3\'EF\'F0\'E0\'E2\'E8\'F2\'E5\'EB, \'ED\'E0\'F0\'E8\'F7\'E0\'ED\'EE \'E7\'E0 \'EA\'F0\'E0\'F2\'EA\'EE\'F1
+\'F2 "\'CA\'F3\'EF\'F3\'E2\'E0\'F7" \'EE\'F2 \'E5\'E4\'ED\'E0 \'F1\'F2\'F0\'E0\'ED\'E0 \'E8}
+\par
+\pard\plain\qj\sa267\sl-274\slmult0\pvpg\phpg\posx1856\posy3231\absh-8369\absw8438\overlay\s30\aspalpha\aspnum\faauto\adjustright\cgrid
+\f0\b0\i0\ul0\strike0\scaps0
+{\cs19\lang1026\langfe1026\b\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'93\'C2\'FA\'E3\'EB\'E8\'F9\'E0
+ \'EF\'E5\'F0\'ED\'E8\'EA\'94 \'CE\'CE\'C4, }
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'F1 \'C5\'C8\'CA 113057835,
+ \'F1\'FA\'F1 \'F1\'E5\'E4\'E0\'EB\'E8\'F9\'E5 \'E8 \'E0\'E4\'F0\'E5\'F1 \'ED\'E0 \'F3\'EF\'F0\'E0\'E2\'EB\'E5\'ED\'E8\'E5
+ \'E3\'F0. \'CF\'E5\'F0\'ED\'E8\'EA, \'EE\'E1\'F9\'E8\'ED\'E0 \'CF\'E5\'F0\'ED\'E8\'EA , \'F0\'E5\'E3\'E8\'F1\'F2\'F0\'E8\'F0\'E0\'ED\'E0
+ \'EF\'EE \'F4.\'E4 \'B9 244/99 \'E3\'EE\'E4\'E8\'ED\'E0 \'EF\'EE \'EE\'EF\'E8\'F1 \'ED\'E0 \'F4\'E8\'F0\'EC\'E5\'ED\'EE
+ \'EE\'F2\'E4\'E5\'EB\'E5\'ED\'E8\'E5 \'EF\'F0\'E8 \'CF\'E5\'F0\'ED\'E8\'F8\'EA\'E8 \'EE\'EA\'F0\'FA\'E6\'E5\'ED \'F1\'FA\'E4,
+ \'EF\'F0\'E5\'E4\'F1\'F2\'E0\'E2\'EB\'FF\'E2\'E0\'ED\'E0 \'EE\'F2 \'E8\'ED\'E6. \'C3\'E5\'EE\'F0\'E3\'E8 \'CC\'E0\'ED\'EE\'EB\'EE\'E2
+ \'D1\'E5\'F0\'E3\'E8\'E5\'E2- \'D3\'EF\'F0\'E0\'E2\'E8\'F2\'E5\'EB, \'ED\'E0\'F0\'E8\'F7\'E0\'ED\'E0 \'E7\'E0 \'EA\'F0\'E0\'F2\'EA\'EE
+\'F1\'F2 "\'CF\'F0\'EE\'E4\'E0\'E2\'E0\'F7" \'EE\'F2 \'E4\'F0\'F3\'E3\'E0 \'F1\'F2\'F0\'E0\'ED\'E0, \'ED\'E0 \'EE\'F1\'ED\'EE\'E2\'E0\'ED
+\'E8\'E5 \'F0\'E0\'E7\'EF\'EE\'F0\'E5\'E4\'E1\'E8\'F2\'E5 \'ED\'E0 \'F7\'E0\'F1\'F2 \'F2\'F0\'E5\'F2\'E0 "\'D2\'FA\'F0\'E3\'EE\'E2\'F1\'EA
+\'E8 \'F1\'E4\'E5\'EB\'EA\'E8" \'EE\'F2 \'D2\'FA\'F0\'E3\'EE\'E2\'F1\'EA\'E8\'FF \'E7\'E0\'EA\'EE\'ED \'F1\'E5 \'F1\'EA\'EB\'FE\'F7\'E8
+ \'ED\'E0\'F1\'F2\'EE\'FF\'F9\'E8\'FF\'F2 \'E4\'EE\'E3\'EE\'E2\'EE\'F0 \'E7\'E0 \'F1\'EB\'E5\'E4\'ED\'EE\'F2\'EE:}
+\par
+\pard\plain\tx1076\li380\qj\sa261\sl-240\slmult0\outlinelevel0\pvpg\phpg\posx1856\posy3231\absh-8369\absw8438\overlay\s28\f0
+{\listtext\pard\plain I.\'09\tab}
+\ls1\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid\b\i0\ul0\strike0\scaps0
+{\*\bkmkstart bookmark1}
+{\cs16\lang1026\langfe1026\b\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'CF\'D0\'C5\'C4\'CC\'C5\'D2
+ \'CD\'C0 \'C4\'CE\'C3\'CE\'C2\'CE\'D0\'C0}
+{\*\bkmkend bookmark1}
+\par
+\pard\plain\tx669\li720\qj\fi-720\sa240\sl-274\slmult0\pvpg\phpg\posx1856\posy3231\absh-8369\absw8438\overlay\s30\f0
+{\listtext\pard\plain 1.1.\'09\tab}
+\ls3\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid\b0\i0\ul0\strike0\scaps0
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'CF\'F0\'E5\'E4\'EC\'E5\'F2
+ \'ED\'E0 \'F2\'EE\'E7\'E8 \'E4\'EE\'E3\'EE\'E2\'EE\'F0 \'E5 \'EF\'EE\'EA\'F3\'EF\'EA\'EE-\'EF\'F0\'EE\'E4\'E0\'E6\'E1\'E0\'F2\'E0
+ \'ED\'E0 \'E4\'EE\'E3\'EE\'E2\'EE\'F0\'E5\'ED\'EE \'EA\'EE\'EB\'E8\'F7\'E5\'F1\'F2\'E2\'EE \'E5\'ED\'E5\'F0\'E3\'E8\'E8\'ED\'E8
+ \'E2\'FA\'E3\'EB\'E8\'F9\'E0, \'EA\'EE\'E5\'F2\'EE \'CF\'F0\'EE\'E4\'E0\'E2\'E0\'F7\'FA\'F2 \'F1\'E5 \'E7\'E0\'E4\'FA\'EB\'E6\'E0\'E2\'E0
+ \'E4\'E0 \'EF\'F0\'EE\'E8\'E7\'E2\'E5\'E4\'E5, \'E4\'EE\'F1\'F2\'E0\'E2\'E8 , \'ED\'E0\'F2\'EE\'E2\'E0\'F0\'E8 \'ED\'E0
+ \'E3\'E0\'F0\'E0 \'84\'D0\'E0\'E7\'EF\'F0\'E5\'E4\'E5\'EB\'E8\'F2\'E5\'EB\'ED\'E0\'94 - \'E3\'F0. \'CF\'E5\'F0\'ED\'E8\'EA
+ \'E8 \'EF\'F0\'E5\'F5\'E2\'FA\'F0\'EB\'E8 \'E2 \'F1\'EE\'E1\'F1\'F2\'E2\'E5\'ED\'EE\'F1\'F2 \'ED\'E0 \'CA\'F3\'EF\'F3\'E2\'E0\'F7\'E0,
+ \'E0 \'EF\'EE\'F1\'EB\'E5\'E4\'ED\'E8\'FF\'F2 \'E5 \'E4\'EB\'FA\'E6\'E5\'ED \'E4\'E0 \'EF\'F0\'EE\'E2\'E5\'F0\'E8 }
+{\cs20\lang1026\langfe1026\b\i0\ul\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 (\'F1\'FA\'E3\'EB\'E0\'F1\'ED\'EE
+ \'CD\'D2\'C5\'C5\'D6\'CC \'F7\'EB. 319 \'F2!.\'C3}
+{\cs19\lang1026\langfe1026\b\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0  }
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'EF\'F0\'E8\'E5\'EC\'E5 \'E8
+ \'E7\'E0\'EF\'EB\'E0\'F2\'E8 \'E2\'FA\'E3\'EB\'E8\'F9\'E0\'F2\'E0 \'F1\'FA\'E3\'EB\'E0\'F1\'ED\'EE \'F1\'F0\'EE\'EA\'EE\'E2\'E5\'F2\'E5
+ \'E8 \'F3\'F1\'EB\'EE\'E2\'E8\'FF\'F2\'E0 \'ED\'E0 \'F2\'EE\'E7\'E8 \'C4\'EE\'E3\'EE\'E2\'EE\'F0.}
+\par
+\pard\plain\tx669\li720\qj\fi-720\sa236\sl-274\slmult0\pvpg\phpg\posx1856\posy3231\absh-8369\absw8438\overlay\s30\f0
+{\listtext\pard\plain 1.2.\'09\tab}
+\ls3\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid\b0\i0\ul0\strike0\scaps0
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'CA\'EE\'EB\'E8\'F7\'E5\'F1\'F2\'E2\'EE\'F2
+\'EE \'E2\'FA\'E3\'EB\'E8\'F9\'E0, \'EA\'EE\'E5\'F2\'EE \'F1\'F2\'F0\'E0\'ED\'E8\'F2\'E5 \'E4\'EE\'E3\'EE\'E2\'E0\'F0\'FF\'F2
+ \'F1 \'F2\'EE\'E7\'E8 \'C4\'EE\'E3\'EE\'E2\'EE\'F0, \'E5 \'E2 \'F0\'E0\'E7\'EC\'E5\'F0 \'E4\'EE 5200 (\'EF\'E5\'F2 \'F5\'E8\'EB\'FF\'E4
+\'E8 \'E8 \'E4\'E2\'E5\'F1\'F2\'E0) \'F2\'EE\'ED\'E0 \'F3\'F1\'EB\'EE\'E2\'ED\'EE \'E3\'EE\'F0\'E8\'E2\'EE. \'C4\'EE\'EF\'F3\'F1\'F2\'E8
+\'EC\'EE\'F2\'EE \'EE\'F2\'EA\'EB\'EE\'ED\'E5\'ED\'E8\'E5 \'EE\'F2 \'E4\'EE\'E3\'EE\'E2\'EE\'F0\'E5\'ED\'EE\'F2\'EE \'EA\'EE\'EB\'E8\'F7
+\'E5\'F1\'F2\'E2\'EE \'E5 \'EE\'F2 \'EF\'EB\'FE\'F1/\'EC\'E8\'ED\'F3\'F1 \'E4\'E5\'F1\'E5\'F2 \'EF\'F0\'EE\'F6\'E5\'ED\'F2\'E0
+ (\'B1 10%).}
+\par
+\pard\plain\tx669\li720\qj\fi-720\sl-278\slmult0\pvpg\phpg\posx1856\posy3231\absh-8369\absw8438\overlay\s30\f0
+{\listtext\pard\plain 1.3.\'09\tab}
+\ls3\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid\b0\i0\ul0\strike0\scaps0
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'CF\'EE\'EA\'F3\'EF\'EA\'EE-\'EF\'F0\'EE
+\'E4\'E0\'E6\'E1\'E0\'F2\'E0 \'ED\'E0 \'E4\'EE\'E3\'EE\'E2\'EE\'F0\'E5\'ED\'EE\'F2\'EE \'EA\'EE\'EB\'E8\'F7\'E5\'F1\'F2\'E2\'EE
+ \'E2\'FA\'E3\'EB\'E8\'F9\'E0 \'EF\'EE \'F7\'EB. 1.2. \'F1\'F2\'E0\'E2\'E0 \'F1\'FA\'E3\'EB\'E0\'F1\'ED\'EE \'E4\'EE\'E3\'EE\'E2\'EE\'F0
+\'E5\'ED\'E0\'F2\'E0 \'EC\'E5\'F1\'E5\'F7\'ED\'E0 \'EF\'F0\'EE\'E3\'F0\'E0\'EC\'E0 \'E2 \'D2\'E0\'E1\'EB\'E8\'F6\'E0 1:}
+\par
+\pard\plain\li8021\ri77\qj\fi-720\sl-240\slmult0\pvpg\phpg\posx1856\posy11867\overlay\s30\aspalpha\aspnum\faauto\adjustright\cgrid\f0\b0
+\i0\ul0\strike0\scaps0
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'D2\'E0\'E1\'EB\'E8\'F6\'E0
+ 1}
+\par
+{\trowd\trql\trrh-298\clvertalb\clbrdrl\brdrs\brdrw10\clbrdrt\brdrs\brdrw10\clcbpat8\clcbpatraw8\cellx941\clvertalb\clbrdrl\brdrs\brdrw10
+\clbrdrt\brdrs\brdrw10\clcbpat8\clcbpatraw8\cellx1627\clvertalb\clbrdrl\brdrs\brdrw10\clbrdrt\brdrs\brdrw10\clcbpat8\clcbpatraw8\cellx2318
+\clvertalb\clbrdrl\brdrs\brdrw10\clbrdrt\brdrs\brdrw10\clcbpat8\clcbpatraw8\cellx3000\clvertalb\clbrdrl\brdrs\brdrw10\clbrdrr\brdrs\brdrw10
+\clbrdrt\brdrs\brdrw10\clcbpat8\clcbpatraw8\cellx3696
+\pard\plain\intbl\sl-240\slmult0\pvpg\phpg\posx4188\posy12121\absh907\absw3696\overlay\s30\aspalpha\aspnum\faauto\adjustright\cgrid\f0\b0
+\i0\ul0\strike0\scaps0
+{\cs21\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'EC\'E5\'F1\'E5\'F6}
+\cell
+\pard\plain\intbl\li340\sl-240\slmult0\pvpg\phpg\posx4188\posy12121\absh907\absw3696\overlay\s30\aspalpha\aspnum\faauto\adjustright\cgrid
+\f0\b0\i0\ul0\strike0\scaps0
+{\cs21\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 1}
+\cell
+\pard\plain\intbl\li300\sl-240\slmult0\pvpg\phpg\posx4188\posy12121\absh907\absw3696\overlay\s30\aspalpha\aspnum\faauto\adjustright\cgrid
+\f0\b0\i0\ul0\strike0\scaps0
+{\cs21\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 2}
+\cell
+\pard\plain\intbl\li280\sl-240\slmult0\pvpg\phpg\posx4188\posy12121\absh907\absw3696\overlay\s30\aspalpha\aspnum\faauto\adjustright\cgrid
+\f0\b0\i0\ul0\strike0\scaps0
+{\cs21\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 3}
+\cell
+\pard\plain\intbl\li280\sl-240\slmult0\pvpg\phpg\posx4188\posy12121\absh907\absw3696\overlay\s30\aspalpha\aspnum\faauto\adjustright\cgrid
+\f0\b0\i0\ul0\strike0\scaps0
+{\cs21\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 4}
+\cell
+\row\trowd\trql\trrh-610\clvertalc\clbrdrl\brdrs\brdrw10\clbrdrt\brdrs\brdrw10\clbrdrb\brdrs\brdrw10\clcbpat8\clcbpatraw8\cellx941\clvertalt
+\clbrdrl\brdrs\brdrw10\clbrdrt\brdrs\brdrw10\clbrdrb\brdrs\brdrw10\clcbpat8\clcbpatraw8\cellx1627\clvertalt\clbrdrl\brdrs\brdrw10\clbrdrt
+\brdrs\brdrw10\clbrdrb\brdrs\brdrw10\clcbpat8\clcbpatraw8\cellx2318\clvertalt\clbrdrl\brdrs\brdrw10\clbrdrt\brdrs\brdrw10\clbrdrb\brdrs
+\brdrw10\clcbpat8\clcbpatraw8\cellx3000\clvertalt\clbrdrl\brdrs\brdrw10\clbrdrr\brdrs\brdrw10\clbrdrt\brdrs\brdrw10\clbrdrb\brdrs\brdrw10
+\clcbpat8\clcbpatraw8\cellx3696
+\pard\plain\intbl\sa60\sl-240\slmult0\pvpg\phpg\posx4188\posy12121\absh907\absw3696\overlay\s30\aspalpha\aspnum\faauto\adjustright\cgrid
+\f0\b0\i0\ul0\strike0\scaps0
+{\cs21\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'CA\'EE\'EB.}
+\par
+\pard\plain\intbl\sb60\sl-240\slmult0\pvpg\phpg\posx4188\posy12121\absh907\absw3696\overlay\s30\aspalpha\aspnum\faauto\adjustright\cgrid
+\f0\b0\i0\ul0\strike0\scaps0
+{\cs21\lang1033\langfe1033\f1\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 tyr,*10}
+{\cs21\lang1033\langfe1033\f1\super\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 3}
+\cell
+\pard\plain\intbl\qc\sl-80\slmult0\pvpg\phpg\posx4188\posy12121\absh907\absw3696\overlay\s30\aspalpha\aspnum\faauto\adjustright\cgrid\f0
+\b0\i0\ul0\strike0\scaps0
+{\cs22\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs8\afs8\charscalex100\expndtw0\cf1\dn0 ~}
+\cell
+\pard\plain\intbl\li300\sl-240\slmult0\pvpg\phpg\posx4188\posy12121\absh907\absw3696\overlay\s30\aspalpha\aspnum\faauto\adjustright\cgrid
+\f0\b0\i0\ul0\strike0\scaps0
+{\cs21\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 1,2}
+\cell
+\pard\plain\intbl\li280\sl-240\slmult0\pvpg\phpg\posx4188\posy12121\absh907\absw3696\overlay\s30\aspalpha\aspnum\faauto\adjustright\cgrid
+\f0\b0\i0\ul0\strike0\scaps0
+{\cs21\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 2,6}
+\cell
+\pard\plain\intbl\li280\sl-240\slmult0\pvpg\phpg\posx4188\posy12121\absh907\absw3696\overlay\s30\aspalpha\aspnum\faauto\adjustright\cgrid
+\f0\b0\i0\ul0\strike0\scaps0
+{\cs21\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'CC}
+\cell
+\row}
+\pard\plain\sl-200\slmult0\pvpg\phpg\posx10097\posy15158\overlay\s31\aspalpha\aspnum\faauto\adjustright\cgrid\f0\b0\i0\ul0\strike0\scaps0
+\fs20\afs20
+{\cs23\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs20\afs20\charscalex100\expndtw0\cf1\dn0 1}
+\par
+\pard\plain\wrapdefault\aspalpha\aspnum\faauto\adjustright\cgrid\fs2\afs2
+\sect
+\sectd\ltrsect\headery0\footery3\colsx720\sectlinegrid360\sftnbj\sftnrstcont
+\pard\plain\tx361\li740\qj\fi-740\sl-240\slmult0\outlinelevel0\pvpg\phpg\posx1842\posy2117\overlay\s28\f0
+{\listtext\pard\plain II.\'09\tab}
+\ls1\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid\b\i0\ul0\strike0\scaps0
+{\*\bkmkstart bookmark2}
+{\cs16\lang1026\langfe1026\b\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'D3\'D1\'CB\'CE\'C2\'C8\'DF
+ \'CD\'C0 \'C4\'CE\'D1\'D2\'C0\'C2\'DF\'CD\'C5}
+{\*\bkmkend bookmark2}
+\par
+\pard\plain\tx690\li740\qj\fi-740\sl-278\slmult0\pvpg\phpg\posx1842\posy2633\absh-1733\absw8458\overlay\s30\f0
+{\listtext\pard\plain 2.1.\'09\tab}
+\ls5\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid\b0\i0\ul0\strike0\scaps0
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'CA\'F3\'EF\'F3\'E2\'E0\'F7\'FA\'F2
+ \'E5 \'E4\'EB\'FA\'E6\'E5\'ED \'E4\'E0 \'EF\'F0\'E5\'E4\'EE\'F1\'F2\'E0\'E2\'FF \'ED\'E0 \'CF\'F0\'EE\'E4\'E0\'E2\'E0\'F7\'E0
+ \'ED\'E5 \'EF\'EE-\'EA\'FA\'F1\'ED\'EE \'EE\'F2 \'E4\'E2\'E0\'E4\'E5\'F1\'E5\'F2\'EE \'F7\'E8\'F1\'EB\'EE (20}
+{\cs18\lang1026\langfe1026\super\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'F2\'EE}
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 ) \'ED\'E0 \'E2\'F1\'E5\'EA\'E8
+ \'EA\'E0\'EB\'E5\'ED\'E4\'E0\'F0\'E5\'ED \'EC\'E5\'F1\'E5\'F6 \'E7\'E0\'FF\'E2\'EA\'E0 \'E7\'E0 \'F1\'EB\'E5\'E4\'E2\'E0\'F9\'E8\'FF
+ \'EA\'E0\'EB\'E5\'ED\'E4\'E0\'F0\'E5\'ED \'EC\'E5\'F1\'E5\'F6 \'EF\'F0\'E8 \'E4\'EE\'EF\'F3\'F1\'F2\'E8\'EC\'EE \'EE\'F2\'EA\'EB\'EE\'ED
+\'E5\'ED\'E8\'E5 \'EE\'F2 \'EF\'EB\'FE\'F1/\'EC\'E8\'ED\'F3\'F1 (\'B125%) \'EE\'F2 \'EA\'EE\'EB\'E8\'F7\'E5\'F1\'F2\'E2\'EE\'F2\'EE
+ \'E7\'E0 \'F1\'FA\'EE\'F2\'E2\'E5\'F2\'ED\'E8\'FF \'EC\'E5\'F1\'E5\'F6 \'E4\'EE\'E3\'EE\'E2\'EE\'F0\'E5\'ED\'EE \'E2 \'EC\'E5\'F1\'E5\'F7
+\'ED\'E0\'F2\'E0 \'EF\'F0\'EE\'E3\'F0\'E0\'EC\'E0 \'EF\'EE \'F7\'EB. 1.3. \'CF\'F0\'E8 \'ED\'E5\'EF\'EE\'E4\'E0\'E4\'E5\'ED\'E0
+ \'E8\'EB\'E8 \'ED\'E5\'EF\'EE\'F2\'E2\'FA\'F0\'E4\'E5\'ED\'E0 \'E7\'E0\'FF\'E2\'EA\'E0 , \'E2\'E0\'EB\'E8\'E4\'ED\'E8 \'EE\'F1\'F2\'E0
+\'E2\'E0\'F2 \'EA\'EE\'EB\'E8\'F7\'E5\'F1\'F2\'E2\'E0\'F2\'E0 \'E2 \'F7\'EB. 1.3. /\'D2\'E0\'E1\'EB\'E8\'F6\'E0 1/}
+\par
+\pard\plain\tx457\li740\qj\fi-740\sl-240\slmult0\outlinelevel0\pvpg\phpg\posx1842\posy4906\overlay\s28\f0
+{\listtext\pard\plain III.\'09\tab}
+\ls1\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid\b\i0\ul0\strike0\scaps0
+{\*\bkmkstart bookmark3}
+{\cs16\lang1026\langfe1026\b\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'CA\'C0\'D7\'C5\'D1\'D2\'C2\'CE}
+{\*\bkmkend bookmark3}
+\par
+\pard\plain\tx690\li740\qj\fi-740\sl-278\slmult0\pvpg\phpg\posx1842\posy5422\absh-615\absw8458\overlay\s30\f0
+{\listtext\pard\plain 3.1.\'09\tab}
+\ls7\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid\b0\i0\ul0\strike0\scaps0
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'C2\'F1\'FF\'EA\'E0 \'EF\'E0\'F0\'F2\'E8
+\'E4\'E0 \'EE\'F2 \'E2\'FA\'E3\'EB\'E8\'F9\'E0 \'EF\'EE \'F2\'EE\'E7\'E8 \'C4\'EE\'E3\'EE\'E2\'EE\'F0 \'F1\'EB\'E5\'E4\'E2\'E0
+ \'E4\'E0 \'EE\'F2\'E3\'EE\'E2\'E0\'F0\'FF \'ED\'E0 \'F1\'EB\'E5\'E4\'ED\'E8\'F2\'E5 \'F1\'EF\'E5\'F6\'E8\'F4\'E8\'EA\'E0\'F6\'E8\'E8:}
+\par
+\pard\plain\li740\ri1540\sl-274\slmult0\pvpg\phpg\posx1842\posy6261\absh-1719\absw8458\overlay\s30\aspalpha\aspnum\faauto\adjustright\cgrid
+\f0\b0\i0\ul0\strike0\scaps0
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'C2\'EB\'E0\'E3\'E0 \'EE\'E1\'F9\'E0
+ \'ED\'E0 \'F0\'E0\'E1\'EE\'F2\'ED\'E0 \'EC\'E0\'F1\'E0\line
+\'CF\'E5\'EF\'E5\'EB \'ED\'E0 \'F1\'F3\'F5\'E0 \'EC\'E0\'F1\'E0\line
+\'CE\'E1\'F9\'E0 \'F1\'FF\'F0\'E0}
+\par
+\pard\plain\li740\sl-274\slmult0\pvpg\phpg\posx1842\posy6261\absh-1719\absw8458\overlay\s30\aspalpha\aspnum\faauto\adjustright\cgrid\f0
+\b0\i0\ul0\strike0\scaps0
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'CB\'E5\'F2\'EB\'E8\'E2\'E8
+ \'E2\'E5\'F9\'E5\'F1\'F2\'E2\'E0 \'ED\'E0 \'F1\'F3\'F5\'E0 \'E1\'E5\'E7\'EF\'E5\'EF\'E5\'EB\'ED\'E0 \'EC\'E0\'F1\'E0\line
+\'CA\'E0\'EB\'EE\'F0\'E8\'F7\'ED\'EE\'F1\'F2 \'E4\'EE\'EB\'ED\'E0 \'ED\'E0 \'F0\'E0\'E1\'EE\'F2\'ED\'E0 \'EC\'E0\'F1\'E0\line
+\'D0\'E0\'E7\'EC\'E5\'F0\'E8}
+\par
+\pard\plain\li920\qr\sl-278\slmult0\pvpg\phpg\posx7952\posy6257\absh-1724\absw2026\overlay\s30\aspalpha\aspnum\faauto\adjustright\cgrid
+\f0\b0\i0\ul0\strike0\scaps0
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'E4\'EE 24 % \'E4\'EE 60 }
+{\cs24\lang1026\langfe1026\f2\b0\i\ul0\strike0\scaps0\fs23\afs23\charscalex100\expndtw0\cf1\dn0 % }
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'E4\'EE 1,7 % 50 %}
+\par
+\pard\plain\li720\fi-720\sl-278\slmult0\pvpg\phpg\posx7952\posy6257\absh-1724\absw2026\overlay\s30\aspalpha\aspnum\faauto\adjustright\cgrid
+\f0\b0\i0\ul0\strike0\scaps0
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 1800 +/-100 \'EA\'EA\'E0\'EB/\'EA\'E3
+ 0-80 \'EC\'EC}
+\par
+\pard\plain\tx690\li740\qj\fi-740\sl-274\slmult0\pvpg\phpg\posx1842\posy8205\absh-2276\absw8458\overlay\s30\f0
+{\listtext\pard\plain 3.2.\'09\tab}
+\ls7\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid\b0\i0\ul0\strike0\scaps0
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'C2\'F1\'FF\'EA\'E0 \'F1\'F2\'F0\'E0\'ED
+\'E0 \'EF\'EE \'C4\'EE\'E3\'EE\'E2\'EE\'F0\'E0 \'E5 \'E4\'EB\'FA\'E6\'ED\'E0 \'E4\'E0 \'E2\'E7\'E8\'EC\'E0, \'EF\'EE\'E4\'E3\'EE\'F2\'E2
+\'FF \'E8 \'E0\'ED\'E0\'EB\'E8\'E7\'E8\'F0\'E0 \'EF\'F0\'EE\'E1\'E8\'F2\'E5 \'EE\'F2 \'E2\'FA\'E3\'EB\'E8\'F9\'E0 \'EF\'EE
+ \'EF\'E0\'F0\'F2\'E8\'E4\'E8, \'EA\'E0\'F2\'EE \'F1\'EF\'E0\'E7\'E2\'E0 \'F1\'EB\'E5\'E4\'ED\'E8\'F2\'E5 \'F1\'F2\'E0\'ED\'E4\'E0\'F0\'F2
+\'E8: \'C1\'C4\'D1 (\'D1\'C8\'C2) 752-87, \'C1\'C4\'D1 (\'D1\'C8\'C2) 751-77, \'C1\'C4\'D1 (\'D1\'C8\'C2) 1461-78, \'C1\'C4\'D1
+ (\'D1\'C8\'C2) 1462-86 , \'C1\'C4\'D1 4737 - 79, \'C1\'C4\'D1 }
+{\cs18\lang1033\langfe1033\f1\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 ISO }
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 1988, \'C1\'C4\'D1 }
+{\cs18\lang1033\langfe1033\f1\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 ISO }
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 5068, \'C1\'C4\'D1 }
+{\cs18\lang1033\langfe1033\f1\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 ISO }
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 1171, \'C1\'C4\'D1 }
+{\cs18\lang1033\langfe1033\f1\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 ISO }
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 1928 , \'C1\'C4\'D1 }
+{\cs18\lang1033\langfe1033\f1\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 ISO }
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 925, \'C1\'C4\'D1 }
+{\cs18\lang1033\langfe1033\f1\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 ISO }
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 334, \'C1\'C4\'D1 }
+{\cs18\lang1033\langfe1033\f1\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 ISO }
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 5071-1, \'C1\'C4\'D1 }
+{\cs18\lang1033\langfe1033\f1\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 ISO }
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 19579, \'C1\'C4\'D1 }
+{\cs18\lang1033\langfe1033\f1\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 ISO }
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 29541 \'E8 \'C1\'C4\'D1 }
+{\cs18\lang1033\langfe1033\f1\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 ISO }
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 562. \'C0\'ED\'E0\'EB\'E8\'E7\'E8\'F2\'E5
+ \'ED\'E0 \'EF\'F0\'EE\'E1\'E8 \'E2\'E7\'E5\'F2\'E8, \'EF\'EE\'E4\'E3\'EE\'F2\'E2\'E5\'ED\'E8 \'E8 \'E0\'ED\'E0\'EB\'E8\'E7\'E8\'F0\'E0
+\'ED\'E8 \'E2 \'ED\'E0\'F0\'F3\'F8\'E5\'ED\'E8\'E5 \'ED\'E0 \'F3\'F1\'EB\'EE\'E2\'E8\'FF\'F2\'E0 \'ED\'E0 \'F2\'EE\'E7\'E8
+ \'E4\'EE\'E3\'EE\'E2\'EE\'F0, \'ED\'E5 \'F1\'E5 \'EF\'F0\'E8\'E7\'ED\'E0\'E2\'E0\'F2 \'E7\'E0 \'E2\'E0\'EB\'E8\'E4\'ED\'E8
+ \'EE\'F2 \'F1\'F2\'F0\'E0\'ED\'E8\'F2\'E5.}
+\par
+\pard\plain\tx690\li740\qj\fi-740\sl-278\slmult0\pvpg\phpg\posx1842\posy10697\absh-1450\absw8458\overlay\s30\f0
+{\listtext\pard\plain 3.3.\'09\tab}
+\ls7\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid\b0\i0\ul0\strike0\scaps0
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'CA\'F3\'EF\'F3\'E2\'E0\'F7\'FA\'F2
+ \'E2 \'EF\'F0\'E8\'F1\'FA\'F1\'F2\'E2\'E8\'E5 \'ED\'E0 \'EF\'F0\'E5\'E4\'F1\'F2\'E0\'E2\'E8\'F2\'E5\'EB \'ED\'E0 \'CF\'F0\'EE\'E4\'E0\'E2
+\'E0\'F7\'E0, \'E0 \'E0\'EA\'EE \'F2\'EE\'E9 \'EE\'F2\'F1\'FA\'F1\'F2\'E2\'E0, \'E2 \'EF\'F0\'E8\'F1\'FA\'F1\'F2\'E2\'E8\'E5
+ \'ED\'E0 \'ED\'E5\'E7\'E0\'E2\'E8\'F1\'E8\'EC \'EA\'EE\'ED\'F2\'F0\'EE\'EB\'E5\'ED \'EE\'F0\'E3\'E0\'ED, \'E4\'E0 \'EE\'EF\'F0\'E5\'E4
+\'E5\'EB\'FF \'EF\'E0\'F0\'F2\'E8\'E4\'E8\'F2\'E5 \'E8 \'E2\'E7\'E5\'EC\'E0 \'EF\'E0\'F0\'F2\'E8\'E4\'ED\'E8 \'EF\'F0\'EE\'E1\'E8
+ \'E7\'E0 \'EE\'F1\'ED\'EE\'E2\'ED\'E8, \'EA\'EE\'ED\'F2\'F0\'EE\'EB\'ED\'E8 \'E8 \'E0\'F0\'E1\'E8\'F2\'F0\'E0\'E6\'ED\'E8
+ \'E0\'ED\'E0\'EB\'E8\'E7\'E8 \'E2 \'F2\'EE\'F7\'EA\'E0\'F2\'E0 \'ED\'E0 \'F0\'E0\'E7\'F2\'EE\'E2\'E0\'F0\'E2\'E0\'ED\'E5.
+ \'CA\'F3\'EF\'F3\'E2\'E0\'F7\'FA\'F2 \'E2\'E7\'E5\'EC\'E0, \'EF\'EE\'E4\'E3\'EE\'F2\'E2\'FF \'E8 \'E0\'ED\'E0\'EB\'E8\'E7\'E8\'F0\'E0
+ \'E2\'F1\'FF\'EA\'E0 \'EA\'EE\'ED\'F2\'F0\'EE\'EB\'ED\'E0 \'EF\'F0\'EE\'E1\'E0 \'E7\'E0 \'F1\'E2\'EE\'FF \'F1\'EC\'E5\'F2\'EA\'E0.}
+\par
+\pard\plain\tx690\li740\qj\fi-740\sa240\sl-274\slmult0\pvpg\phpg\posx1842\posy12381\absh-2270\absw8458\overlay\s30\f0
+{\listtext\pard\plain 3.4.\'09\tab}
+\ls7\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid\b0\i0\ul0\strike0\scaps0
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'CF\'F0\'EE\'E4\'E0\'E2\'E0\'F7\'FA\'F2
+ \'E0\'ED\'E0\'EB\'E8\'E7\'E8\'F0\'E0 \'E2\'F1\'FF\'EA\'E0 \'EE\'F1\'ED\'EE\'E2\'ED\'E0 \'EF\'F0\'EE\'E1\'E0 \'E7\'E0 \'F1\'E2\'EE\'FF
+ \'F1\'EC\'E5\'F2\'EA\'E0 \'E8 \'E8\'E7\'E3\'EE\'F2\'E2\'FF \'F1\'E5\'F0\'F2\'E8\'F4\'E8\'EA\'E0\'F2 \'E7\'E0 \'EA\'E0\'F7\'E5\'F1\'F2\'E2
+\'EE \'ED\'E0 \'EF\'E0\'F0\'F2\'E8\'E4\'E0\'F2\'E0, \'EE\'F2 \'EA\'EE\'E5\'F2\'EE \'E2\'E5\'E4\'ED\'E0\'E3\'E0 \'E8\'E7\'EF\'F0\'E0\'F9
+\'E0 \'EA\'EE\'EF\'E8\'E5 \'ED\'E0 \'CA\'F3\'EF\'F3\'E2\'E0\'F7\'E0.}
+\par
+\pard\plain\tx690\li740\qj\fi-740\sl-274\slmult0\pvpg\phpg\posx1842\posy12381\absh-2270\absw8458\overlay\s30\f0
+{\listtext\pard\plain 3.5.\'09\tab}
+\ls7\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid\b0\i0\ul0\strike0\scaps0
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'C0\'EA\'EE \'F0\'E0\'E7\'EB\'E8\'EA\'E0
+\'F2\'E0 \'EC\'E5\'E6\'E4\'F3 \'F1\'E5\'F0\'F2\'E8\'F4\'E8\'EA\'E0\'F2\'E0 \'E7\'E0 \'EA\'E0\'F7\'E5\'F1\'F2\'E2\'EE \'ED\'E0
+ \'CF\'F0\'EE\'E4\'E0\'E2\'E0\'F7\'E0 \'E8 \'EA\'EE\'ED\'F2\'F0\'EE\'EB\'ED\'E8\'F2\'E5 \'E0\'ED\'E0\'EB\'E8\'E7\'E8 \'ED\'E0
+ \'EF\'E0\'F0\'F2\'E8\'E4\'E8\'F2\'E5 \'ED\'E0 \'CA\'F3\'EF\'F3\'E2\'E0\'F7\'E0 \'ED\'E5 \'ED\'E0\'E4\'E2\'E8\'F8\'E0\'E2\'E0
+ +/-\'E5\'E4\'E8\'ED \'E0\'E1\'F1\'EE\'EB\'FE\'F2\'ED\'E8 \'EF\'F0\'EE\'F6\'E5\'ED\'F2\'E0 (+/-1%) \'E7\'E0 \'EE\'E1\'F9\'E0
+ \'E2\'EB\'E0\'E3\'E0 \'E8 \'EF\'E5\'EF\'E5\'EB \'E8 0.2% \'E7\'E0 \'F1\'FF\'F0\'E0, \'F2\'EE \'EA\'F0\'E0\'E9\'ED\'E0\'F2\'E0
+ \'F6\'E5\'ED\'E0 \'EF\'EE \'F7\'EB. 7.2. \'E7\'E0 \'E4\'E0\'ED\'FA\'F7\'ED\'E0\'F2\'E0 \'F4\'E0\'EA\'F2\'F3\'F0\'E0 \'F1\'E5
+ \'E8\'E7\'F7\'E8\'F1\'EB\'FF\'E2\'E0 \'EF\'EE}
+\par
+\pard\plain\sl-180\slmult0\pvpg\phpg\posx10093\posy15144\overlay\s32\aspalpha\aspnum\faauto\adjustright\cgrid\f0\b0\i0\ul0\strike0\scaps0
+\fs18\afs18
+{\cs25\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs18\afs18\charscalex100\expndtw0\cf1\dn0 2}
+\par
+\pard\plain\wrapdefault\aspalpha\aspnum\faauto\adjustright\cgrid\fs2\afs2
+\sect
+\sectd\ltrsect\headery0\footery3\colsx720\sectlinegrid360\sftnbj\sftnrstcont
+\pard\plain\tx1430\li740\qj\sa275\sl-283\slmult0\pvpg\phpg\posx1839\posy2083\absh-12312\absw8462\overlay\s30\aspalpha\aspnum\faauto\adjustright
+\cgrid\f0\b0\i0\ul0\strike0\scaps0
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'F0\'E5\'E7\'F3\'EB\'F2\'E0\'F2\'E8\'F2\'E5
+ \'ED\'E0 \'CF\'F0\'EE\'E4\'E0\'E2\'E0\'F7\'E0. \'C2 \'EF\'F0\'EE\'F2\'E8\'E2\'E5\'ED \'F1\'EB\'F3\'F7\'E0\'E9, \'F4\'E0\'EA\'F2\'F3\'F0
+\'E0\'F2\'E0 \'F1\'E5 \'F1\'FA\'F1\'F2\'E0\'E2\'FF \'EF\'EE \'F0\'E5\'E7\'F3\'EB\'F2\'E0\'F2\'E8\'F2\'E5 \'EE\'F2 \'E0\'F0\'E1\'E8\'F2\'F0
+\'E0\'E6\'ED\'E8\'FF \'E0\'ED\'E0\'EB\'E8\'E7.}
+\par
+\pard\plain\tx691\li740\qj\fi-740\sa197\sl-240\slmult0\pvpg\phpg\posx1839\posy2083\absh-12312\absw8462\overlay\s30\f0
+{\listtext\pard\plain 3.6.\'09\tab}
+\ls7\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid\b0\i0\ul0\strike0\scaps0
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'C2 \'F1\'EB\'F3\'F7\'E0\'E9,
+ \'F7\'E5 \'E7\'E0 \'EF\'E0\'F0\'F2\'E8\'E4\'E0 \'EE\'F2 \'E2\'FA\'E3\'EB\'E8\'F9\'E0:}
+\par
+\pard\plain\tx1498\li1140\qj\fi-400\sl-278\slmult0\pvpg\phpg\posx1839\posy2083\absh-12312\absw8462\overlay\s30\f0
+{\listtext\pard\plain 1.\'09\tab}
+\ls9\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid\b0\i0\ul0\strike0\scaps0
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'F0\'E5\'E7\'F3\'EB\'F2\'E0\'F2\'E8\'F2\'E5
+ \'EE\'F2 \'E0\'ED\'E0\'EB\'E8\'E7\'E0 \'ED\'E0 \'EE\'E1\'F9\'E0 \'E2\'EB\'E0\'E3\'E0 \'F1\'E0 \'EF\'EE-\'E2\'E8\'F1\'EE\'EA\'E8
+ \'EE\'F2 \'F1\'F2\'EE\'E9\'ED\'EE\'F1\'F2\'E8\'F2\'E5 \'EF\'EE \'F7\'EB. \'C7.1., \'F2\'EE \'EA\'F0\'E0\'E9\'ED\'E0\'F2\'E0
+ \'F6\'E5\'ED\'E0 \'EF\'EE \'F7\'EB. 7.2. \'E7\'E0 \'E4\'E0\'ED\'FA\'F7\'ED\'E0\'F2\'E0 \'F4\'E0\'EA\'F2\'F3\'F0\'E0 \'F1\'E5
+ \'E8\'E7\'F7\'E8\'F1\'EB\'FF\'E2\'E0 \'EF\'F0\'E8 \'E1\'E0\'E7\'EE\'E2\'E0 \'F6\'E5\'ED\'E0 \'ED\'E0\'EC\'E0\'EB\'E5\'ED\'E0
+ \'F1 \'F2\'F0\'E8 \'EF\'F0\'EE\'F6\'E5\'ED\'F2\'E0 (3%) \'E7\'E0 \'E2\'F1\'E5\'EA\'E8 \'E5\'E4\'E8\'ED \'EF\'F0\'EE\'F6\'E5\'ED\'F2
+ (1%) \'F1 \'EA\'EE\'E9\'F2\'EE \'E5 \'ED\'E0\'E4\'E2\'E8\'F8\'E5\'ED \'F2\'EE\'E7\'E8 \'EB\'E8\'EC\'E8\'F2;}
+\par
+\pard\plain\tx1153\li1140\qj\fi-400\sl-278\slmult0\pvpg\phpg\posx1839\posy2083\absh-12312\absw8462\overlay\s30\f0
+{\listtext\pard\plain 2.\'09\tab}
+\ls9\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid\b0\i0\ul0\strike0\scaps0
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'F0\'E5\'E7\'F3\'EB\'F2\'E0\'F2\'E8\'F2\'E5
+ \'EE\'F2 \'E0\'ED\'E0\'EB\'E8\'E7\'E0 \'ED\'E0 \'EF\'E5\'EF\'E5\'EB \'F1\'E0 \'EF\'EE-\'E2\'E8\'F1\'EE\'EA\'E8:}
+\par
+\pard\plain\li1140\qj\fi380\sl-278\slmult0\pvpg\phpg\posx1839\posy2083\absh-12312\absw8462\overlay\s30\aspalpha\aspnum\faauto\adjustright
+\cgrid\f0\b0\i0\ul0\strike0\scaps0
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 -\'F1 \'E4\'EE 5% \'EE\'F2
+ \'F1\'F2\'EE\'E9\'ED\'EE\'F1\'F2\'E8\'F2\'E5 \'EF\'EE \'F7\'EB. \'C7.1., \'F2\'EE \'EA\'F0\'E0\'E9\'ED\'E0\'F2\'E0 \'F6\'E5\'ED\'E0
+ \'EF\'EE \'F7\'EB. 7.2. \'E7\'E0 \'E4\'E0\'ED\'FA\'F7\'ED\'E0\'F2\'E0 \'F4\'E0\'EA\'F2\'F3\'F0\'E0 \'F1\'E5 \'E8\'E7\'F7\'E8\'F1\'EB\'FF
+\'E2\'E0 \'EF\'F0\'E8 \'E1\'E0\'E7\'EE\'E2\'E0 \'F6\'E5\'ED\'E0 \'ED\'E0\'EC\'E0\'EB\'E5\'ED\'E0 \'F1 \'F2\'F0\'E8 \'EF\'F0\'EE\'F6\'E5
+\'ED\'F2\'E0 (3%) \'E7\'E0 \'E2\'F1\'E5\'EA\'E8 \'E5\'E4\'E8\'ED \'EF\'F0\'EE\'F6\'E5\'ED\'F2 (1%) \'F1 \'EA\'EE\'E9\'F2\'EE
+ \'E5 \'ED\'E0\'E4\'E2\'E8\'F8\'E5\'ED \'F2\'EE\'E7\'E8 \'EB\'E8\'EC\'E8\'F2}
+\par
+\pard\plain\li1140\qj\fi380\sl-278\slmult0\pvpg\phpg\posx1839\posy2083\absh-12312\absw8462\overlay\s30\aspalpha\aspnum\faauto\adjustright
+\cgrid\f0\b0\i0\ul0\strike0\scaps0
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 -\'ED\'E0\'E4 5% \'EE\'F2 \'F1\'F2\'EE\'E9
+\'ED\'EE\'F1\'F2\'E8\'F2\'E5 \'EF\'EE \'F7\'EB. \'C7.1., \'F2\'EE \'EA\'F0\'E0\'E9\'ED\'E0\'F2\'E0 \'F6\'E5\'ED\'E0 \'EF\'EE
+ \'F7\'EB. 7.2. \'E7\'E0 \'E4\'E0\'ED\'FA\'F7\'ED\'E0\'F2\'E0 \'F4\'E0\'EA\'F2\'F3\'F0\'E0 \'F1\'E5 \'E8\'E7\'F7\'E8\'F1\'EB\'FF\'E2\'E0
+ \'EF\'F0\'E8 \'E1\'E0\'E7\'EE\'E2\'E0 \'F6\'E5\'ED\'E0 \'ED\'E0\'EC\'E0\'EB\'E5\'ED\'E0 \'F1 50%.}
+\par
+\pard\plain\tx1498\li1140\qj\fi-400\sa240\sl-274\slmult0\pvpg\phpg\posx1839\posy2083\absh-12312\absw8462\overlay\s30\f0
+{\listtext\pard\plain 3.\'09\tab}
+\ls9\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid\b0\i0\ul0\strike0\scaps0
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'F1\'FA\'E4\'FA\'F0\'E6\'E0\'ED\'E8\'E5\'F2
+\'EE \'ED\'E0 \'EE\'E1\'F9\'E0 \'F1\'FF\'F0\'E0 \'ED\'E0\'E4\'E2\'E8\'F8\'E0\'E2\'E0 \'F1\'F2\'EE\'E9\'ED\'EE\'F1\'F2\'F2\'E0
+ \'EF\'EE \'F7\'EB. \'C7.1., \'F2\'EE \'EA\'F0\'E0\'E9\'ED\'E0\'F2\'E0 \'F6\'E5\'ED\'E0 \'EF\'EE \'F7\'EB. 7.2. \'E7\'E0
+ \'E4\'E0\'ED\'FA\'F7\'ED\'E0\'F2\'E0 \'F4\'E0\'EA\'F2\'F3\'F0\'E0 \'F1\'E5 \'E8\'E7\'F7\'E8\'F1\'EB\'FF\'E2\'E0 \'EF\'F0\'E8
+ \'E1\'E0\'E7\'EE\'E2\'E0 \'F6\'E5\'ED\'E0 \'ED\'E0\'EC\'E0\'EB\'E5\'ED\'E0 \'EF\'F0\'EE\'EF\'EE\'F0\'F6\'E8\'EE\'ED\'E0\'EB\'ED\'EE
+ \'F1 \'E5\'E4\'E8\'ED \'EF\'F0\'EE\'F6\'E5\'ED\'F2 (1%) \'E7\'E0 \'E2\'F1\'E5\'EA\'E8 \'ED\'F3\'EB\'E0 \'F6\'FF\'EB\'EE
+ \'E8 \'E4\'E2\'E0 \'EF\'F0\'EE\'F6\'E5\'ED\'F2\'E0 (0,2%), \'F1 \'EA\'EE\'E9\'F2\'EE \'E5 \'ED\'E0\'E4\'E2\'E8\'F8\'E5\'ED\'EE
+ \'E4\'EE\'E3\'EE\'E2\'EE\'F0\'E5\'ED\'EE\'F2\'EE \'ED\'E8\'E2\'EE;}
+\par
+\pard\plain\tx691\li740\qj\fi-740\sa267\sl-274\slmult0\pvpg\phpg\posx1839\posy2083\absh-12312\absw8462\overlay\s30\f0
+{\listtext\pard\plain 3.7.\'09\tab}
+\ls9\ilvl1\aspalpha\aspnum\faauto\adjustright\cgrid\b0\i0\ul0\strike0\scaps0
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'C2 \'F1\'EB\'F3\'F7\'E0\'E9,
+ \'F7\'E5 \'CF\'F0\'EE\'E4\'E0\'E2\'E0\'F7\'FA\'F2 \'E4\'EE\'EF\'F3\'F1\'ED\'E5 \'E4\'EE\'F1\'F2\'E0\'E2\'EA\'E0 \'ED\'E0
+ \'E2\'FA\'E3\'EB\'E8\'F9\'E0 \'F1 \'F0\'E0\'E7\'EC\'E5\'F0\'E8 \'ED\'E0\'E4 \'E4\'EE\'E3\'EE\'E2\'EE\'F0\'E5\'ED\'E8\'F2\'E5
+ \'EF\'EE \'F7\'EB.3.1, \'E8\'EB\'E8 \'F1 \'EF\'EB\'E0\'F1\'F2\'E8\'F7\'ED\'E8, \'E8\'EB\'E8 \'F2\'E5\'F7\'ED\'E8 \'EF\'F0\'E8\'EC\'E5\'F1
+\'E8, \'EA\'E0\'EA\'F2\'EE \'E8 \'F1 \'EC\'E5\'F5\'E0\'ED\'E8\'F7\'ED\'E8 \'EF\'F0\'E8\'EC\'E5\'F1\'E8 \'ED\'E5\'F1\'FA\'EF\'FA\'F2\'F1
+\'F2\'E2\'E0\'F9\'E8 \'E4\'EE\'E1\'E8\'E2\'E0, \'ED\'E0\'F0\'F3\'F8\'E5\'ED\'E8\'E5\'F2\'EE \'F1\'E5 \'EA\'EE\'ED\'F1\'F2\'E0\'F2\'E8\'F0
+\'E0 \'F1 \'E4\'E2\'F3\'F1\'F2\'F0\'E0\'ED\'ED\'EE \'EF\'EE\'E4\'EF\'E8\'F1\'E0\'ED \'EF\'F0\'EE\'F2\'EE\'EA\'EE\'EB \'EC\'E5\'E6\'E4\'F3
+ \'EF\'F0\'E5\'E4\'F1\'F2\'E0\'E2\'E8\'F2\'E5\'EB \'ED\'E0 \'CA\'F3\'EF\'F3\'E2\'E0\'F7\'E0 \'E8 \'CF\'F0\'EE\'E4\'E0\'E2\'E0\'F7\'E0
+ \'E8\'EB\'E8 \'ED\'E5\'E7\'E0\'E2\'E8\'F1\'E8\'EC \'EA\'EE\'ED\'F2\'F0\'EE\'EB\'E5\'ED \'EE\'F0\'E3\'E0\'ED, \'E2\'FA\'E3\'EB\'E8\'F9\'E0
+\'F2\'E0 \'EE\'F2 \'EF\'E0\'F0\'F2\'E8\'E4\'E0\'F2\'E0 \'F1\'E5 \'F0\'E0\'E7\'F2\'EE\'E2\'E0\'F0\'E2\'E0\'F2, \'EA\'E0\'F2\'EE
+ \'EA\'F0\'E0\'E9\'ED\'E0\'F2\'E0 \'F6\'E5\'ED\'E0 \'EF\'EE \'F7\'EB. 7.2. \'E7\'E0 \'E4\'E0\'ED\'FA\'F7\'ED\'E0\'F2\'E0
+ \'F4\'E0\'EA\'F2\'F3\'F0\'E0 \'F1\'E5 \'E8\'E7\'F7\'E8\'F1\'EB\'FF\'E2\'E0 \'EF\'F0\'E8 \'E1\'E0\'E7\'EE\'E2\'E0 \'F6\'E5\'ED\'E0
+ \'ED\'E0\'EC\'E0\'EB\'E5\'ED\'E0 \'F1 \'EF\'E5\'F2 \'EF\'F0\'EE\'F6\'E5\'ED\'F2\'E0 (5%).}
+\par
+\pard\plain\tx452\li740\qj\fi-740\sa197\sl-240\slmult0\outlinelevel0\pvpg\phpg\posx1839\posy2083\absh-12312\absw8462\overlay\s28\f0
+{\listtext\pard\plain IV.\'09\tab}
+\ls1\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid\b\i0\ul0\strike0\scaps0
+{\*\bkmkstart bookmark4}
+{\cs16\lang1026\langfe1026\b\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'CF\'D0\'C0\'C2\'C0 \'C8 \'C7\'C0\'C4\'DA
+\'CB\'C6\'C5\'CD\'C8\'DF \'CD\'C0 \'CF\'D0\'CE\'C4\'C0\'C2\'C0\'D7\'C0}
+{\*\bkmkend bookmark4}
+\par
+\pard\plain\tx691\li740\qj\fi-740\sl-278\slmult0\pvpg\phpg\posx1839\posy2083\absh-12312\absw8462\overlay\s30\f0
+{\listtext\pard\plain 4.1.\'09\tab}
+\ls11\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid\b0\i0\ul0\strike0\scaps0
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'CF\'F0\'EE\'E4\'E0\'E2\'E0\'F7\'FA\'F2
+ \'E8\'EC\'E0 \'F1\'EB\'E5\'E4\'ED\'E8\'F2\'E5 \'EF\'F0\'E0\'E2\'E0:}
+\par
+\pard\plain\tx1153\li1140\qj\fi-400\sl-278\slmult0\pvpg\phpg\posx1839\posy2083\absh-12312\absw8462\overlay\s30\f0
+{\listtext\pard\plain 1.\'09\tab}
+\ls13\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid\b0\i0\ul0\strike0\scaps0
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'E4\'E0 \'E8\'E7\'E8\'F1\'EA\'E2\'E0
+ \'EE\'F1\'E8\'E3\'F3\'F0\'FF\'E2\'E0\'ED\'E5 \'ED\'E0 \'EF\'F0\'E0\'E7\'ED\'E8 \'E2\'E0\'E3\'EE\'ED\'E8 \'E7\'E0 \'ED\'E0\'F2\'EE\'E2\'E0
+\'F0\'E2\'E0\'ED\'E5 \'E2 \'F1\'FA\'EE\'F2\'E2\'E5\'F2\'F1\'F2\'E2\'E8\'E5 \'F1 \'EC\'E5\'F1\'E5\'F7\'ED\'E8\'FF \'E3\'F0\'E0\'F4\'E8\'EA
+ \'EF\'EE \'F7\'EB. 6.5.;}
+\par
+\pard\plain\tx1153\li1140\qj\fi-400\sl-278\slmult0\pvpg\phpg\posx1839\posy2083\absh-12312\absw8462\overlay\s30\f0
+{\listtext\pard\plain 2.\'09\tab}
+\ls13\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid\b0\i0\ul0\strike0\scaps0
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'E4\'E0 \'EF\'EE\'EB\'F3\'F7\'E0\'E2\'E0
+ \'F3\'E3\'EE\'E2\'EE\'F0\'E5\'ED\'E0\'F2\'E0 \'F6\'E5\'ED\'E0 \'E7\'E0 \'E2\'F1\'FF\'EA\'E0 \'EF\'E0\'F0\'F2\'E8\'E4\'E0
+ \'EE\'F2 \'E2\'FA\'E3\'EB\'E8\'F9\'E0, \'F2\'E0\'EA\'E0 \'EA\'E0\'EA\'F2\'EE \'E5 \'EF\'F0\'E5\'E4\'E2\'E8\'E4\'E5\'ED\'EE
+ \'E2 \'C4\'EE\'E3\'EE\'E2\'EE\'F0\'E0;}
+\par
+\pard\plain\tx1153\li1140\qj\fi-400\sl-278\slmult0\pvpg\phpg\posx1839\posy2083\absh-12312\absw8462\overlay\s30\f0
+{\listtext\pard\plain 3.\'09\tab}
+\ls13\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid\b0\i0\ul0\strike0\scaps0
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'E4\'E0 \'E8\'EC\'E0 \'F1\'E2\'EE\'E9
+ \'EF\'F0\'E5\'E4\'F1\'F2\'E0\'E2\'E8\'F2\'E5\'EB \'EF\'F0\'E8 \'E2\'E7\'E5\'EC\'E0\'ED\'E5\'F2\'EE \'E8 \'F0\'E0\'E7\'F0\'E0\'E1\'EE\'F2
+\'E2\'E0\'ED\'E5\'F2\'EE \'ED\'E0 \'EF\'E0\'F0\'F2\'E8\'E4\'ED\'E8\'F2\'E5 \'EF\'F0\'EE\'E1\'E8;}
+\par
+\pard\plain\tx1153\li1140\qj\fi-400\sl-278\slmult0\pvpg\phpg\posx1839\posy2083\absh-12312\absw8462\overlay\s30\f0
+{\listtext\pard\plain 4.\'09\tab}
+\ls13\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid\b0\i0\ul0\strike0\scaps0
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'E4\'E0 \'EF\'EE\'EB\'F3\'F7\'E0\'E2\'E0
+ \'E4\'FA\'EB\'E6\'E8\'EC\'E8\'F2\'E5 \'ED\'E5\'F3\'F1\'F2\'EE\'E9\'EA\'E8 \'E8 \'EE\'E1\'E5\'E7\'F9\'E5\'F2\'E5\'ED\'E8\'FF
+ \'E7\'E0 \'E4\'EE\'EF\'F3\'F1\'ED\'E0\'F2\'EE \'ED\'E5\'E8\'E7\'EF\'FA\'EB\'ED\'E5\'ED\'E8\'E5 \'E8\'EB\'E8 \'ED\'E5\'F2\'EE\'F7\'ED\'EE
+ (\'E7\'E0\'E1\'E0\'E2\'E5\'ED\'EE \'E8\'EB\'E8 \'F7\'E0\'F1\'F2\'E8\'F7\'ED\'EE) \'E8\'E7\'EF\'FA\'EB\'ED\'E5\'ED\'E8\'E5
+ \'ED\'E0 \'EF\'EE\'E5\'F2\'E8\'F2\'E5 \'EE\'F2 \'CA\'F3\'EF\'F3\'E2\'E0\'F7\'E0 \'E7\'E0\'E4\'FA\'EB\'E6\'E5\'ED\'E8\'FF
+ \'EF\'EE \'C4\'EE\'E3\'EE\'E2\'EE\'F0\'E0;}
+\par
+\pard\plain\tx1153\li1140\qj\fi-400\sl-278\slmult0\pvpg\phpg\posx1839\posy2083\absh-12312\absw8462\overlay\s30\f0
+{\listtext\pard\plain 5.\'09\tab}
+\ls13\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid\b0\i0\ul0\strike0\scaps0
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'E4\'E0 \'EF\'F0\'E8\'F1\'FA\'F1\'F2\'E2
+\'E0 \'EF\'F0\'E8 \'E0\'F0\'E1\'E8\'F2\'F0\'E0\'E6\'ED\'E8\'F2\'E5 \'E0\'ED\'E0\'EB\'E8\'E7\'E8;}
+\par
+\pard\plain\tx1153\li1140\qj\fi-400\sl-278\slmult0\pvpg\phpg\posx1839\posy2083\absh-12312\absw8462\overlay\s30\f0
+{\listtext\pard\plain 6.\'09\tab}
+\ls13\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid\b0\i0\ul0\strike0\scaps0
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'E4\'E0 \'EF\'F0\'E5\'EA\'F0\'E0\'F2\'E8
+ \'C4\'EE\'E3\'EE\'E2\'EE\'F0\'E0 \'E2 \'F3\'E3\'EE\'E2\'EE\'F0\'E5\'ED\'E8\'F2\'E5 \'E2 \'ED\'E5\'E3\'EE \'F1\'EB\'F3\'F7\'E0\'E8;}
+\par
+\pard\plain\wrapdefault\aspalpha\aspnum\faauto\adjustright\cgrid\fs2\afs2
+\sect
+\sectd\ltrsect\headery0\footery3\colsx720\sectlinegrid360\sftnbj\sftnrstcont
+\pard\plain\sl-200\slmult0\pvpg\phpg\posx1842\posy2153\absh-246\absw8482\overlay\s31\aspalpha\aspnum\faauto\adjustright\cgrid\f0\b0\i0\ul0
+\strike0\scaps0\fs20\afs20
+{\cs23\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs20\afs20\charscalex100\expndtw0\cf1\dn0 4.2. \'CF\'F0\'EE\'E4\'E0\'E2\'E0\'F7\'FA
+\'F2 \'E8\'EC\'E0 \'F1\'EB\'E5\'E4\'ED\'E8\'F2\'E5 \'E7\'E0\'E4\'FA\'EB\'E6\'E5\'ED\'E8\'FF:}
+\par
+\pard\plain\tx1142\li400\qj\fi360\sl-274\slmult0\pvpg\phpg\posx1842\posy2689\absh-11648\absw8482\overlay\s30\f0
+{\listtext\pard\plain 1.\'09\tab}
+\ls15\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid\b0\i0\ul0\strike0\scaps0
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'E4\'E0 \'F1\'EF\'E0\'E7\'E2\'E0
+ \'EC\'E5\'F1\'E5\'F7\'ED\'E8\'F2\'E5 \'E7\'E0\'FF\'E2\'EA\'E8 \'EF\'EE \'F7\'EB. 2.1.}
+\par
+\pard\plain\tx1142\li400\qj\fi360\sl-274\slmult0\pvpg\phpg\posx1842\posy2689\absh-11648\absw8482\overlay\s30\f0
+{\listtext\pard\plain 2.\'09\tab}
+\ls15\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid\b0\i0\ul0\strike0\scaps0
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'E4\'E0 \'F1\'EF\'E0\'E7\'E2\'E0
+ \'EC\'E5\'F1\'E5\'F7\'ED\'E8\'FF\'F2 \'E3\'F0\'E0\'F4\'E8\'EA \'EF\'EE \'F7\'EB. 6.5.;}
+\par
+\pard\plain\tx1142\li400\qj\fi360\sl-274\slmult0\pvpg\phpg\posx1842\posy2689\absh-11648\absw8482\overlay\s30\f0
+{\listtext\pard\plain 3.\'09\tab}
+\ls15\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid\b0\i0\ul0\strike0\scaps0
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'E4\'E0 \'F1\'EF\'E0\'E7\'E2\'E0
+ \'EA\'E0\'F7\'E5\'F1\'F2\'E2\'E5\'ED\'E8\'F2\'E5 \'EF\'EE\'EA\'E0\'E7\'E0\'F2\'E5\'EB\'E8 \'EF\'EE \'F7\'EB. 3.1.}
+\par
+\pard\plain\tx1142\li1160\qj\fi-400\sl-274\slmult0\pvpg\phpg\posx1842\posy2689\absh-11648\absw8482\overlay\s30\f0
+{\listtext\pard\plain 4.\'09\tab}
+\ls15\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid\b0\i0\ul0\strike0\scaps0
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'E4\'E0 \'F0\'E0\'E7\'EF\'EE\'EB\'E0\'E3
+\'E0 \'E8\'EB\'E8 \'ED\'E0\'E5\'EC\'E0 \'F2\'FA\'F0\'E3\'EE\'E2\'F1\'EA\'E0 \'E6.\'EF. \'E2\'E5\'E7\'ED\'E0, \'F1\'FA\'E3\'EB\'E0\'F1\'ED
+\'EE \'E8\'E7\'E8\'F1\'EA\'E2\'E0\'ED\'E8\'FF\'F2\'E0 \'ED\'E0 \'C4\'EE\'E3\'EE\'E2\'EE\'F0\'E0;}
+\par
+\pard\plain\tx1142\li1160\qj\fi-400\sl-274\slmult0\pvpg\phpg\posx1842\posy2689\absh-11648\absw8482\overlay\s30\f0
+{\listtext\pard\plain 5.\'09\tab}
+\ls15\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid\b0\i0\ul0\strike0\scaps0
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'E4\'E0 \'F2\'EE\'E2\'E0\'F0\'E8
+ \'E2\'FA\'E3\'EB\'E8\'F9\'E0\'F2\'E0 \'E2 \'F2\'E5\'F5\'ED\'E8\'F7\'E5\'F1\'EA\'E8 \'E8\'E7\'EF\'F0\'E0\'E2\'ED\'E8 \'E8
+ \'EF\'EE\'F7\'E8\'F1\'F2\'E5\'ED\'E8 \'E2\'E0\'E3\'EE\'ED\'E8 \'E8\'EB\'E8 \'E0\'E2\'F2\'EE\'EC\'EE\'E1\'E8\'EB\'E8, \'EE\'F2\'E3\'EE\'E2
+\'E0\'F0\'FF\'F9\'E8 \'ED\'E0 \'EF\'F0\'EE\'EF\'F3\'F1\'EA\'E0\'F2\'E5\'EB\'ED\'E8\'FF \'F0\'E5\'E6\'E8\'EC \'ED\'E0 \'D2\'C5\'D6\'94\'C1
+\'EE\'E1\'EE\'E2 \'E4\'EE\'EB\'94 \'C5\'C0\'C4, \'EA\'E0\'F2\'EE \'ED\'E5 \'E4\'EE\'EF\'F3\'F1\'EA\'E0 \'EC\'E5\'F5\'E0\'ED\'E8\'F7\'ED
+\'E8 \'EF\'F0\'E8\'EC\'E5\'F1\'E8;}
+\par
+\pard\plain\tx1142\li1160\qj\fi-400\sl-274\slmult0\pvpg\phpg\posx1842\posy2689\absh-11648\absw8482\overlay\s30\f0
+{\listtext\pard\plain 6.\'09\tab}
+\ls15\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid\b0\i0\ul0\strike0\scaps0
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'E4\'E0 \'ED\'E5 \'E4\'EE\'EF\'F3\'F1\'EA
+\'E0 \'ED\'E0\'F2\'EE\'E2\'E0\'F0\'E2\'E0\'ED\'E5 \'ED\'E0 \'EA\'E0\'EB\'ED\'E8 \'E2\'FA\'E3\'EB\'E8\'F9\'E0 \'E8\'EB\'E8
+ \'E2\'FA\'E3\'EB\'E8\'F9\'E0 \'F1 \'F0\'E0\'E7\'EC\'E5\'F0\'E8 \'ED\'E0\'E4 \'E4\'EE\'E3\'EE\'E2\'EE\'F0\'E8\'F0\'E0\'ED\'E8\'F2\'E5
+ \'F1\'FA\'E3\'EB\'E0\'F1\'ED\'EE \'F7\'EB. 3.1 \'E8 \'ED\'E0\'F2\'EE\'E2\'E0\'F0\'E2\'E0\'ED\'E5 \'ED\'E0 \'F1\'EB\'EE\'E5\'E2\'E5
+ \'F1 \'F0\'E0\'E7\'EB\'E8\'F7\'ED\'EE \'EA\'E0\'F7\'E5\'F1\'F2\'E2\'EE ;}
+\par
+\pard\plain\tx1142\li1160\qj\fi-400\sl-274\slmult0\pvpg\phpg\posx1842\posy2689\absh-11648\absw8482\overlay\s30\f0
+{\listtext\pard\plain 7.\'09\tab}
+\ls15\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid\b0\i0\ul0\strike0\scaps0
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'E4\'E0 \'EF\'F0\'E5\'F2\'E5\'E3\'EB\'FF
+ \'E2\'E0\'E3\'EE\'ED\'E8\'F2\'E5 \'EE\'F2 \'E2\'F1\'FF\'EA\'E0 \'EF\'E0\'F0\'F2\'E8\'E4\'E0 \'EE\'F2 \'E2\'FA\'E3\'EB\'E8\'F9\'E0
+ \'F1\'FA\'E3\'EB\'E0\'F1\'ED\'EE \'E8\'E7\'E8\'F1\'EA\'E2\'E0\'ED\'E8\'FF\'F2\'E0 \'ED\'E0 \'C4\'EE\'E3\'EE\'E2\'EE\'F0\'E0;}
+\par
+\pard\plain\tx1142\li1160\qj\fi-400\sl-274\slmult0\pvpg\phpg\posx1842\posy2689\absh-11648\absw8482\overlay\s30\f0
+{\listtext\pard\plain 8.\'09\tab}
+\ls15\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid\b0\i0\ul0\strike0\scaps0
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'E4\'E0 \'EF\'EE\'F7\'E8\'F1\'F2\'E2\'E0
+ \'EF\'EB\'EE\'F9\'E0\'E4\'EA\'E8\'F2\'E5 \'ED\'E0 \'E2\'E0\'E3\'EE\'ED\'E8\'F2\'E5 \'EE\'F2 \'EF\'EE\'EF\'E0\'E4\'ED\'E0\'EB
+ \'EC\'E0\'F2\'E5\'F0\'E8\'E0\'EB \'E2\'FA\'F0\'F5\'F3 \'F2\'FF\'F5 \'EF\'F0\'E8 \'ED\'E0\'F2\'EE\'E2\'E0\'F0\'E2\'E0\'ED\'E5\'F2\'EE
+ \'E8\'EC;}
+\par
+\pard\plain\tx1142\li1160\qj\fi-400\sl-274\slmult0\pvpg\phpg\posx1842\posy2689\absh-11648\absw8482\overlay\s30\f0
+{\listtext\pard\plain 9.\'09\tab}
+\ls15\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid\b0\i0\ul0\strike0\scaps0
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'E4\'E0 \'E8\'E7\'E3\'EE\'F2\'E2\'FF
+ \'F1\'E5\'F0\'F2\'E8\'F4\'E8\'EA\'E0\'F2 \'E7\'E0 \'EA\'E0\'F7\'E5\'F1\'F2\'E2\'EE \'E7\'E0 \'E2\'F1\'FF\'EA\'E0 \'EF\'E0\'F0\'F2\'E8\'E4
+\'E0 \'E8 \'E4\'E0 \'E8\'E7\'EF\'F0\'E0\'F9\'E0 \'ED\'E0 \'CA\'F3\'EF\'F3\'E2\'E0\'F7\'E0 \'EA\'EE\'EF\'E8\'E5 \'EE\'F2 \'ED\'E5\'E3\'EE
+;}
+\par
+\pard\plain\tx1185\li1160\qj\fi-400\sl-274\slmult0\pvpg\phpg\posx1842\posy2689\absh-11648\absw8482\overlay\s30\f0
+{\listtext\pard\plain 10.\'09\tab}
+\ls15\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid\b0\i0\ul0\strike0\scaps0
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'E4\'E0 \'E8\'E7\'E4\'E0\'E2\'E0
+ \'E4\'E0\'ED\'FA\'F7\'ED\'E8 \'F4\'E0\'EA\'F2\'F3\'F0\'E8 \'F2\'EE\'F7\'ED\'EE \'EE\'F2\'E3\'EE\'E2\'E0\'F0\'FF\'F9\'E8
+ \'ED\'E0 \'EF\'E0\'F0\'F2\'E8\'E4\'E8\'F2\'E5 \'E8 \'E4\'E0 \'E8\'E7\'E2\'FA\'F0\'F8\'E2\'E0 \'EA\'EE\'F0\'E5\'EA\'F6\'E8\'E8
+ \'ED\'E0 \'EA\'F0\'E0\'E9\'ED\'E0\'F2\'E0 \'F6\'E5\'ED\'E0 \'E2 \'F1\'FA\'EE\'F2\'E2\'E5\'F2\'F1\'F2\'E2\'E8\'E5 \'F1 \'F3\'F1\'EB\'EE
+\'E2\'E8\'FF\'F2\'E0 \'ED\'E0 \'C4\'EE\'E3\'EE\'E2\'EE\'F0\'E0;}
+\par
+\pard\plain\li1160\qj\fi-400\sa267\sl-274\slmult0\pvpg\phpg\posx1842\posy2689\absh-11648\absw8482\overlay\s30\aspalpha\aspnum\faauto\adjustright
+\cgrid\f0\b0\i0\ul0\strike0\scaps0
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 12. \'E4\'E0 \'ED\'E5 \'EE\'F2\'EA\'EB\'EE
+\'ED\'FF\'E2\'E0 \'E8\'EB\'E8 \'E7\'E0\'E1\'E0\'E2\'FF \'EE\'F1\'E8\'E3\'F3\'F0\'E5\'ED\'E8\'F2\'E5 \'EC\'F3 \'EE\'F2 \'CA\'F3\'EF\'F3\'E2
+\'E0\'F7\'E0 \'EF\'F0\'E0\'E7\'ED\'E8 \'E2\'E0\'E3\'EE\'ED\'E8 \'E7\'E0 \'F2\'EE\'E2\'E0\'F0\'E5\'ED\'E5;}
+\par
+\pard\plain\tx1147\li400\qj\fi360\sa136\sl-240\slmult0\outlinelevel0\pvpg\phpg\posx1842\posy2689\absh-11648\absw8482\overlay\s28\f0
+{\listtext\pard\plain V.\'09\tab}
+\ls1\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid\b\i0\ul0\strike0\scaps0
+{\*\bkmkstart bookmark5}
+{\cs16\lang1026\langfe1026\b\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'CF\'D0\'C0\'C2\'C0 \'C8 \'C7\'C0\'C4\'DA
+\'CB\'C6\'C5\'CD\'C8\'DF \'CD\'C0 \'CA\'D3\'CF\'D3\'C2\'C0\'D7\'C0}
+{\*\bkmkend bookmark5}
+\par
+\pard\plain\tx691\qj\sl-274\slmult0\pvpg\phpg\posx1842\posy2689\absh-11648\absw8482\overlay\s30\f0
+{\listtext\pard\plain 5.1.\'09\tab}
+\ls17\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid\b0\i0\ul0\strike0\scaps0
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'CA\'F3\'EF\'F3\'E2\'E0\'F7\'FA\'F2
+ \'E8\'EC\'E0 \'F1\'EB\'E5\'E4\'ED\'E8\'F2\'E5 \'EF\'F0\'E0\'E2\'E0:}
+\par
+\pard\plain\tx1142\li400\qj\fi360\sl-274\slmult0\pvpg\phpg\posx1842\posy2689\absh-11648\absw8482\overlay\s30\f0
+{\listtext\pard\plain 1.\'09\tab}
+\ls19\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid\b0\i0\ul0\strike0\scaps0
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'E4\'E0 \'E8\'E7\'E8\'F1\'EA\'E2\'E0
+ \'F1\'EF\'E0\'E7\'E2\'E0\'ED\'E5 \'ED\'E0 \'EC\'E5\'F1\'E5\'F7\'ED\'E0\'F2\'E0 \'E7\'E0\'FF\'E2\'EA\'E0 \'EF\'EE \'F7\'EB.
+ 2.1.;}
+\par
+\pard\plain\tx1142\li400\qj\fi360\sl-274\slmult0\pvpg\phpg\posx1842\posy2689\absh-11648\absw8482\overlay\s30\f0
+{\listtext\pard\plain 2.\'09\tab}
+\ls19\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid\b0\i0\ul0\strike0\scaps0
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'E4\'E0 \'E8\'E7\'E8\'F1\'EA\'E2\'E0
+ \'F1\'EF\'E0\'E7\'E2\'E0\'ED\'E5 \'ED\'E0 \'EC\'E5\'F1\'E5\'F7\'ED\'E8\'FF \'E3\'F0\'E0\'F4\'E8\'EA \'EF\'EE \'F7\'EB. 6.5.;}
+\par
+\pard\plain\tx1142\li1160\qj\fi-400\sl-274\slmult0\pvpg\phpg\posx1842\posy2689\absh-11648\absw8482\overlay\s30\f0
+{\listtext\pard\plain 3.\'09\tab}
+\ls19\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid\b0\i0\ul0\strike0\scaps0
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'E4\'E0 \'EE\'EF\'F0\'E5\'E4\'E5\'EB\'FF
+ \'E2\'E0\'E3\'EE\'ED\'E8\'F2\'E5 \'E2 \'F1\'FA\'F1\'F2\'E0\'E2\'E0 \'ED\'E0 \'E2\'F1\'FF\'EA\'E0 \'E5\'E4\'ED\'E0 \'EF\'E0\'F0\'F2\'E8
+\'E4\'E0 \'ED\'E0 \'F0\'E0\'E7\'F2\'EE\'E2\'E0\'F0\'E8\'F9\'E5 \'D2\'C5\'D6;}
+\par
+\pard\plain\tx1142\li1160\qj\fi-400\sl-274\slmult0\pvpg\phpg\posx1842\posy2689\absh-11648\absw8482\overlay\s30\f0
+{\listtext\pard\plain 4.\'09\tab}
+\ls19\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid\b0\i0\ul0\strike0\scaps0
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'E4\'E0 \'E8\'E7\'E8\'F1\'EA\'E2\'E0
+ \'E2\'F1\'FF\'EA\'E0 \'EF\'E0\'F0\'F2\'E8\'E4\'E0 \'EE\'F2 \'E2\'FA\'E3\'EB\'E8\'F9\'E0 \'E4\'E0 \'EE\'F2\'E3\'EE\'E2\'E0\'F0\'FF
+ \'ED\'E0 \'EA\'E0\'F7\'E5\'F1\'F2\'E2\'E5\'ED\'E8\'F2\'E5 \'EF\'EE\'EA\'E0\'E7\'E0\'F2\'E5\'EB\'E8 \'EF\'EE \'F7\'EB. \'C7.1.;}
+\par
+\pard\plain\tx1142\li1160\qj\fi-400\sl-274\slmult0\pvpg\phpg\posx1842\posy2689\absh-11648\absw8482\overlay\s30\f0
+{\listtext\pard\plain 5.\'09\tab}
+\ls19\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid\b0\i0\ul0\strike0\scaps0
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'E4\'E0 \'EF\'EE\'F1\'EE\'F7\'E8
+ \'EC\'E5\'F2\'EE\'E4\'E0 \'E7\'E0 \'E2\'E7\'E5\'EC\'E0\'ED\'E5 \'ED\'E0 \'EF\'F0\'EE\'E1\'E0 \'EE\'F2 \'EF\'E0\'F0\'F2\'E8\'E4\'E8\'F2
+\'E5, \'E0 \'EF\'F0\'E8 \'E4\'E2\'F3\'F1\'F2\'F0\'E0\'ED\'ED\'EE \'E2\'E7\'E5\'EC\'E0\'ED\'E5 \'ED\'E0 \'EF\'F0\'EE\'E1\'E0,
+ \'EF\'F0\'E5\'E4\'E8 \'F0\'E0\'E7\'F2\'EE\'E2\'E0\'F0\'E2\'E0\'ED\'E5\'F2\'EE \'E4\'E0 \'EE\'EF\'F0\'E5\'E4\'E5\'EB\'E8
+ \'E2\'E0\'EB\'E8\'E4\'ED\'E8\'FF \'E7\'E0 \'EF\'EB\'E0\'F9\'E0\'ED\'E5\'F2\'EE \'EC\'E5\'F2\'EE\'E4;}
+\par
+\pard\plain\tx1422\li400\qj\fi360\sl-274\slmult0\pvpg\phpg\posx1842\posy2689\absh-11648\absw8482\overlay\s30\f0
+{\listtext\pard\plain 6.\'09\tab}
+\ls19\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid\b0\i0\ul0\strike0\scaps0
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'E4\'E0 \'EE\'EF\'F0\'E5\'E4\'E5\'EB\'FF
+ \'EF\'E0\'F0\'F2\'E8\'E4\'E8\'F2\'E5 \'EF\'EE\'E4\'EB\'E5\'E6\'E0\'F9\'E8 \'ED\'E0 \'E0\'F0\'E1\'E8\'F2\'F0\'E0\'E6 \'E8
+ \'E4\'E0 \'EF\'F0\'E5\'E4\'EB\'EE\'E6\'E8 \'EB\'E0\'E1\'EE\'F0\'E0\'F2\'EE\'F0\'E8\'FF, \'F1\'FA\'E3\'EB\'E0\'F1\'F3\'E2\'E0\'ED\'E0
+ \'F1 \'CF\'F0\'EE\'E4\'E0\'E2\'E0\'F7\'E0 \'E7\'E0 \'EF\'F0\'EE\'E2\'E5\'E6\'E4\'E0\'ED\'E5 \'ED\'E0 \'E0\'F0\'E1\'E8\'F2\'F0\'E0\'E6\'ED
+\'E8\'F2\'E5 \'EF\'F0\'EE\'E1\'E8;}
+\par
+\pard\plain\tx1142\fi760\sl-274\slmult0\pvpg\phpg\posx1842\posy2689\absh-11648\absw8482\overlay\s30\f0
+{\listtext\pard\plain 7.\'09\tab}
+\ls19\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid\b0\i0\ul0\strike0\scaps0
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'E4\'E0 \'EF\'EE\'EB\'F3\'F7\'E0\'E2\'E0
+ \'E4\'FA\'EB\'E6\'E8\'EC\'E8\'F2\'E5 \'ED\'E5\'F3\'F1\'F2\'EE\'E9\'EA\'E8 \'E8 \'EE\'E1\'E5\'E7\'F9\'E5\'F2\'E5\'ED\'E8\'FF
+ \'E7\'E0 \'E4\'EE\'EF\'F3\'F1\'ED\'E0\'F2\'EE \'ED\'E5\'E8\'E7\'EF\'FA\'EB\'ED\'E5\'ED\'E8\'E5 \'E8\'EB\'E8 \'ED\'E5\'F2\'EE\'F7\'ED\'EE
+ (\'E7\'E0\'E1\'E0\'E2\'E5\'ED\'EE \'E8\'EB\'E8 \'F7\'E0\'F1\'F2\'E8\'F7\'ED\'EE) \'E8\'E7\'EF\'FA\'EB\'ED\'E5\'ED\'E8\'E5
+ \'ED\'E0 \'EF\'EE\'E5\'F2\'E8\'F2\'E5 \'EE\'F2 \'CF\'F0\'EE\'E4\'E0\'E2\'E0\'F7\'E0 \'E7\'E0\'E4\'FA\'EB\'E6\'E5\'ED\'E8\'FF
+ \'EF\'EE \'C4\'EE\'E3\'EE\'E2\'EE\'F0\'E0;}
+\par
+\pard\plain\tx1142\li400\qj\fi360\sl-274\slmult0\pvpg\phpg\posx1842\posy2689\absh-11648\absw8482\overlay\s30\f0
+{\listtext\pard\plain 8.\'09\tab}
+\ls19\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid\b0\i0\ul0\strike0\scaps0
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'E4\'E0 \'EF\'F0\'E5\'EA\'F0\'E0\'F2\'E8
+ \'C4\'EE\'E3\'EE\'E2\'EE\'F0\'E0 \'E2 \'F3\'E3\'EE\'E2\'EE\'F0\'E5\'ED\'E8\'F2\'E5 \'E2 \'ED\'E5\'E3\'EE \'F1\'EB\'F3\'F7\'E0\'E8.}
+\par
+\pard\plain\sl-180\slmult0\pvpg\phpg\posx10098\posy15177\overlay\s32\aspalpha\aspnum\faauto\adjustright\cgrid\f0\b0\i0\ul0\strike0\scaps0
+\fs18\afs18
+{\cs25\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs18\afs18\charscalex100\expndtw0\cf1\dn0 4}
+\par
+\pard\plain\wrapdefault\aspalpha\aspnum\faauto\adjustright\cgrid\fs2\afs2
+\sect
+\sectd\ltrsect\headery0\footery3\colsx720\sectlinegrid360\sftnbj\sftnrstcont
+\pard\plain\sl-200\slmult0\pvpg\phpg\posx1910\posy2152\absh-247\absw8405\overlay\s31\aspalpha\aspnum\faauto\adjustright\cgrid\f0\b0\i0\ul0
+\strike0\scaps0\fs20\afs20
+{\cs23\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs20\afs20\charscalex100\expndtw0\cf1\dn0 5.2. \'CA\'F3\'EF\'F3\'E2\'E0\'F7\'FA\'F2
+ \'E8\'EC\'E0 \'F1\'EB\'E5\'E4\'ED\'E8\'F2\'E5 \'E7\'E0\'E4\'FA\'EB\'E6\'E5\'ED\'E8\'FF:}
+\par
+\pard\plain\tx1150\li740\qj\sl-274\slmult0\pvpg\phpg\posx1852\posy2679\absh-4752\absw8462\overlay\s30\f0
+{\listtext\pard\plain 1.\'09\tab}
+\ls21\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid\b0\i0\ul0\strike0\scaps0
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'E4\'E0 \'EF\'F0\'E5\'E4\'EE\'F1\'F2\'E0
+\'E2\'FF \'ED\'E0 \'CF\'F0\'EE\'E4\'E0\'E2\'E0\'F7\'E0 \'EC\'E5\'F1\'E5\'F7\'ED\'E0 \'E7\'E0\'FF\'E2\'EA\'E0 \'EF\'EE \'F0\'E5\'E4\'E0
+ \'ED\'E0 \'F7\'EB. 2.1.;}
+\par
+\pard\plain\tx1150\li1180\fi-440\sl-274\slmult0\pvpg\phpg\posx1852\posy2679\absh-4752\absw8462\overlay\s30\f0
+{\listtext\pard\plain 2.\'09\tab}
+\ls21\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid\b0\i0\ul0\strike0\scaps0
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'E4\'E0 \'EF\'F0\'E8\'E5\'EC\'E0
+ \'E4\'EE\'F1\'F2\'E0\'E2\'E5\'ED\'E8\'F2\'E5 \'EF\'E0\'F0\'F2\'E8\'E4\'E8 \'EE\'F2 \'E2\'FA\'E3\'EB\'E8\'F9\'E0 \'F1\'FA\'EE\'E1\'F0\'E0
+\'E7\'ED\'EE \'F3\'F1\'EB\'EE\'E2\'E8\'FF\'F2\'E0 \'ED\'E0 \'C4\'EE\'E3\'EE\'E2\'EE\'F0\'E0;}
+\par
+\pard\plain\tx1150\li1180\fi-440\sl-274\slmult0\pvpg\phpg\posx1852\posy2679\absh-4752\absw8462\overlay\s30\f0
+{\listtext\pard\plain 3.\'09\tab}
+\ls21\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid\b0\i0\ul0\strike0\scaps0
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'E4\'E0 \'E2\'E7\'E8\'EC\'E0,
+ \'F0\'E0\'E7\'F0\'E0\'E1\'EE\'F2\'E2\'E0 \'E8 \'E0\'ED\'E0\'EB\'E8\'E7\'E8\'F0\'E0 \'EA\'EE\'ED\'F2\'F0\'EE\'EB\'ED\'E8\'F2\'E5
+ \'EF\'F0\'EE\'E1\'E8 \'EE\'F2 \'E2\'FA\'E3\'EB\'E8\'F9\'E0, \'F1\'EF\'E0\'E7\'E2\'E0\'E9\'EA\'E8 \'F3\'F1\'EB\'EE\'E2\'E8\'FF\'F2\'E0
+ \'ED\'E0 \'F2\'EE\'E7\'E8 \'C4\'EE\'E3\'EE\'E2\'EE\'F0 \'E8 \'F1\'F2\'E0\'ED\'E4\'E0\'F0\'F2\'E8\'F2\'E5 \'EF\'EE \'F7\'EB.
+ }
+{\cs18\lang1033\langfe1033\f1\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 3.2.;}
+\par
+\pard\plain\tx1150\li1180\fi-440\sl-274\slmult0\pvpg\phpg\posx1852\posy2679\absh-4752\absw8462\overlay\s30\f0
+{\listtext\pard\plain 4.\'09\tab}
+\ls21\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid\b0\i0\ul0\strike0\scaps0
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'E4\'E0 \'EA\'EE\'ED\'F2\'F0\'EE\'EB\'E8
+\'F0\'E0 \'EA\'EE\'EB\'E8\'F7\'E5\'F1\'F2\'E2\'EE\'F2\'EE \'E8 \'EA\'E0\'F7\'E5\'F1\'F2\'E2\'EE\'F2\'EE \'ED\'E0 \'EF\'E0\'F0\'F2\'E8\'E4
+\'E8\'F2\'E5 \'EE\'F2 \'E2\'FA\'E3\'EB\'E8\'F9\'E0 \'F1\'FA\'E3\'EB\'E0\'F1\'ED\'EE }
+{\cs20\lang1033\langfe1033\f1\b\i0\ul\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 HTEEIIM }
+{\cs20\lang1026\langfe1026\b\i0\ul\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'F7\'EB. 319 \'F2 1:}
+\par
+\pard\plain\tx1150\li1180\fi-440\sl-274\slmult0\pvpg\phpg\posx1852\posy2679\absh-4752\absw8462\overlay\s30\f0
+{\listtext\pard\plain 5.\'09\tab}
+\ls21\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid\b0\i0\ul0\strike0\scaps0
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'E4\'E0 \'E8\'E7\'E8\'F1\'EA\'E2\'E0
+ \'E0\'ED\'E0\'EB\'E8\'E7 \'ED\'E0 \'E0\'F0\'E1\'E8\'F2\'F0\'E0\'E6\'ED\'E8 \'EF\'F0\'EE\'E1\'E8 \'E2 \'F1\'EB\'F3\'F7\'E0\'E8\'F2\'E5
+ \'ED\'E0 \'ED\'E5\'F1\'FA\'EE\'F2\'E2\'E5\'F2\'F1\'F2\'E2\'E8\'E5 \'F1 \'E4\'E5\'EA\'EB\'E0\'F0\'E8\'F0\'E0\'ED\'EE\'F2\'EE
+ \'EF\'EE \'F1\'E5\'F0\'F2\'E8\'F4\'E8\'EA\'E0\'F2 \'EA\'E0\'F7\'E5\'F1\'F2\'E2\'EE;}
+\par
+\pard\plain\tx1150\li1180\fi-440\sl-274\slmult0\pvpg\phpg\posx1852\posy2679\absh-4752\absw8462\overlay\s30\f0
+{\listtext\pard\plain 6.\'09\tab}
+\ls21\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid\b0\i0\ul0\strike0\scaps0
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'E4\'E0 \'E8\'E7\'E2\'FA\'F0\'F8\'E2\'E0
+ \'EA\'EE\'ED\'F2\'F0\'EE\'EB\'ED\'E8 \'EF\'F0\'E5\'F2\'E5\'E3\'EB\'FF\'ED\'E8\'FF \'ED\'E0 \'EF\'E0\'F0\'F2\'E8\'E4\'E8
+ \'EE\'F2 \'E2\'FA\'E3\'EB\'E8\'F9\'E0 \'F1\'FA\'E3\'EB\'E0\'F1\'ED\'EE \'F3\'F1\'EB\'EE\'E2\'E8\'FF\'F2\'E0 \'ED\'E0 \'C4\'EE\'E3\'EE\'E2
+\'EE\'F0\'E0;}
+\par
+\pard\plain\tx1150\li1180\fi-440\sl-274\slmult0\pvpg\phpg\posx1852\posy2679\absh-4752\absw8462\overlay\s30\f0
+{\listtext\pard\plain 7.\'09\tab}
+\ls21\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid\b0\i0\ul0\strike0\scaps0
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'E4\'E0 \'E8\'E7\'E8\'F1\'EA\'E2\'E0
+ \'EA\'EE\'F0\'E5\'EA\'F6\'E8\'FF \'ED\'E0 \'E8\'E7\'E4\'E0\'E4\'E5\'ED\'E0 \'E4\'E0\'ED\'FA\'F7\'ED\'E0 \'F4\'E0\'EA\'F2\'F3\'F0\'E0
+ \'E8 \'EF\'F0\'E5\'E8\'E7\'F7\'E8\'F1\'EB\'FF\'E2\'E0\'ED\'E5 \'ED\'E0 \'E4\'FA\'EB\'E6\'E8\'EC\'E8 \'F1\'F3\'EC\'E8, \'EF\'F0\'E5\'E4
+\'E2\'E8\'E4\'E5\'ED\'E8 \'E2 \'F1\'EB\'F3\'F7\'E0\'E8\'F2\'E5 \'ED\'E0 \'F2\'EE\'E7\'E8 \'E4\'EE\'E3\'EE\'E2\'EE\'F0;}
+\par
+\pard\plain\tx1150\li1180\fi-440\sl-274\slmult0\pvpg\phpg\posx1852\posy2679\absh-4752\absw8462\overlay\s30\f0
+{\listtext\pard\plain 8.\'09\tab}
+\ls21\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid\b0\i0\ul0\strike0\scaps0
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'E4\'E0 \'E7\'E0\'EF\'EB\'E0\'F9\'E0
+ \'F4\'E0\'EA\'F2\'F3\'F0\'E8\'F0\'E0\'ED\'E8\'F2\'E5 \'EF\'E0\'F0\'F2\'E8\'E4\'E8 \'EE\'F2 \'E2\'FA\'E3\'EB\'E8\'F9\'E0
+ \'EF\'EE \'F3\'F1\'EB\'EE\'E2\'E8\'FF\'F2\'E0 \'ED\'E0 \'C4\'EE\'E3\'EE\'E2\'EE\'F0\'E0;}
+\par
+\pard\plain\tx1150\li1180\fi-440\sl-274\slmult0\pvpg\phpg\posx1852\posy2679\absh-4752\absw8462\overlay\s30\f0
+{\listtext\pard\plain 9.\'09\tab}
+\ls21\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid\b0\i0\ul0\strike0\scaps0
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'E4\'E0 \'EF\'EE\'EA\'E0\'ED\'E8
+ \'EF\'F0\'E5\'E4\'F1\'F2\'E0\'E2\'E8\'F2\'E5\'EB \'ED\'E0 \'CF\'F0\'EE\'E4\'E0\'E2\'E0\'F7\'E0 \'E7\'E0 \'EF\'F0\'EE\'E2\'E5\'E6\'E4\'E0
+\'ED\'E5 \'ED\'E0 \'E0\'F0\'E1\'E8\'F2\'F0\'E0\'E6\'ED\'E8 \'E0\'ED\'E0\'EB\'E8\'E7\'E8.}
+\par
+\pard\plain\tx442\li740\qj\fi-740\sa262\sl-240\slmult0\outlinelevel0\pvpg\phpg\posx1852\posy7967\absh-6429\absw8462\overlay\s28\f0
+{\listtext\pard\plain VI.\'09\tab}
+\ls1\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid\b\i0\ul0\strike0\scaps0
+{\*\bkmkstart bookmark6}
+{\cs16\lang1026\langfe1026\b\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'CF\'D0\'C5\'D2\'C5\'C3\'CB\'DF\'CD\'C5
+ \'C8 \'D2\'D0\'C0\'CD\'D1\'CF\'CE\'D0\'D2\'C8\'D0\'C0\'CD\'C5}
+{\*\bkmkend bookmark6}
+\par
+\pard\plain\tx688\li740\qj\fi-740\sa244\sl-278\slmult0\pvpg\phpg\posx1852\posy7967\absh-6429\absw8462\overlay\s30\f0
+{\listtext\pard\plain 6.1.\'09\tab}
+\ls23\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid\b0\i0\ul0\strike0\scaps0
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'CF\'F0\'E8\'E5\'EC\'E0\'ED\'E5\'F2\'EE
+ \'ED\'E0 \'E2\'FA\'E3\'EB\'E8\'F9\'E0\'F2\'E0 \'EF\'EE \'EA\'EE\'EB\'E8\'F7\'E5\'F1\'F2\'E2\'EE \'F1\'E5 \'E8\'E7\'E2\'FA\'F0\'F8\'E2\'E0
+ \'EF\'EE \'E4\'E0\'ED\'ED\'E8 \'EE\'F2 \'E6.\'EF. \'E2\'E5\'E7\'ED\'E0\'F2\'E0 \'EF\'F0\'E8 \'CF\'F0\'EE\'E4\'E0\'E2\'E0\'F7\'E0
+ \'EF\'F0\'E8 \'E4\'EE\'F1\'F2\'E0\'E2\'EA\'E0 \'F1 \'C6\'CF \'F2\'F0\'E0\'ED\'F1\'EF\'EE\'F0\'F2, \'EE\'F2\'E3\'EE\'E2\'E0\'F0\'FF\'F9
+\'E0 \'ED\'E0 \'E8\'E7\'E8\'F1\'EA\'E2\'E0\'ED\'E8\'FF\'F2\'E0 \'EF\'EE \'F7\'EB. 6.2. \'C7\'E0 \'ED\'E5\'F2\'ED\'EE \'F2\'E5\'E3\'EB\'EE
+ \'ED\'E0 \'E2\'F1\'E5\'EA\'E8 \'E2\'E0\'E3\'EE\'ED \'F1\'E5 \'EF\'F0\'E8\'E5\'EC\'E0 \'F0\'E0\'E7\'EB\'E8\'EA\'E0\'F2\'E0
+ \'EC\'E5\'E6\'E4\'F3 \'E1\'F0\'F3\'F2\'EE \'E8 \'EF\'F0\'E5\'E4\'E2\'E0\'F0\'E8\'F2\'E5\'EB\'ED\'EE \'E8\'E7\'EC\'E5\'F0\'E5\'ED\'E0\'F2
+\'E0 \'F2\'E0\'F0\'E0 \'ED\'E0 \'E2\'F1\'E5\'EA\'E8 \'E2\'E0\'E3\'EE\'ED.}
+\par
+\pard\plain\tx688\li740\qj\fi-740\sa240\sl-274\slmult0\pvpg\phpg\posx1852\posy7967\absh-6429\absw8462\overlay\s30\f0
+{\listtext\pard\plain 6.2.\'09\tab}
+\ls23\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid\b0\i0\ul0\strike0\scaps0
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'CF\'F0\'EE\'E4\'E0\'E2\'E0\'F7\'FA\'F2
+ \'E5 \'E4\'EB\'FA\'E6\'E5\'ED \'E4\'E0 \'F0\'E0\'E7\'EF\'EE\'EB\'E0\'E3\'E0 \'F1 \'F2\'FA\'F0\'E3\'EE\'E2\'F1\'EA\'E0 \'E6.\'EF.
+ \'E2\'E5\'E7\'ED\'E0, \'EF\'F0\'EE\'E2\'E5\'F0\'E5\'ED\'E0 \'E8 \'EF\'EB\'EE\'EC\'E1\'E8\'F0\'E0\'ED\'E0 \'F1\'FA\'E3\'EB\'E0\'F1\'ED\'EE
+ \'E8\'E7\'E8\'F1\'EA\'E2\'E0\'ED\'E8\'FF\'F2\'E0 \'E8 \'F1 \'E8\'E7\'E4\'E0\'E4\'E5\'ED\'EE \'F3\'E4\'EE\'F1\'F2\'EE\'E2\'E5\'F0\'E5\'ED
+\'E8\'E5 \'EE\'F2 \'EE\'F0\'E3\'E0\'ED\'E8\'E7\'E0\'F6\'E8\'FF, \'EB\'E8\'F6\'E5\'ED\'E7\'E8\'F0\'E0\'ED\'E0 \'EE\'F2 \'C4\'FA\'F0\'E6\'E0
+\'E2\'ED\'E0\'F2\'E0 \'E0\'E3\'E5\'ED\'F6\'E8\'FF \'EF\'EE \'F1\'F2\'E0\'ED\'E4\'E0\'F0\'F2\'E8\'E7\'E0\'F6\'E8\'FF \'E8
+ \'EC\'E5\'F2\'F0\'EE\'EB\'EE\'E3\'E8\'FF. \'C2\'E5\'E7\'ED\'E0\'F2\'E0 \'F2\'F0\'FF\'E1\'E2\'E0 \'E4\'E0 \'E5 \'F1\'ED\'E0\'E1\'E4\'E5
+\'ED\'E0 \'F1 \'EE\'F2\'EF\'E5\'F7\'E0\'F2\'E2\'E0\'F9\'EE \'F3\'F1\'F2\'F0\'EE\'E9\'F1\'F2\'E2\'EE, \'EA\'E0\'F2\'EE \'E7\'E0
+ \'E2\'F1\'E5\'EA\'E8 \'ED\'E0\'F2\'EE\'E2\'E0\'F0\'E5\'ED \'E8 \'EF\'F0\'E5\'F2\'E5\'E3\'EB\'E5\'ED \'E2\'E0\'E3\'EE\'ED
+ \'F1\'E5 \'E8\'E7\'E4\'E0\'E2\'E0 \'EE\'F0\'E8\'E3\'E8\'ED\'E0\'EB\'ED\'E0 \'EA\'E0\'ED\'F2\'E0\'F0\'ED\'E0 \'E1\'E5\'EB\'E5\'E6\'EA\'E0
+, \'EA\'EE\'FF\'F2\'EE \'F1\'EB\'E5\'E4\'E2\'E0 \'E4\'E0 \'F1\'FA\'E4\'FA\'F0\'E6\'E0 \'E8\'ED\'F4\'EE\'F0\'EC\'E0\'F6\'E8\'FF:
+ \'E7\'E0 \'CF\'F0\'EE\'E4\'E0\'E2\'E0\'F7\'E0, \'B9 \'ED\'E0 \'E2\'E0\'E3\'EE\'ED\'E0, \'E4\'E0\'F2\'E0, \'F7\'E0\'F1 \'E8
+ \'EC\'E8\'ED\'F3\'F2\'E0 \'ED\'E0 \'EF\'F0\'E5\'F2\'E5\'E3\'EB\'FF\'ED\'E5 \'E8 \'E8\'E7\'EC\'E5\'F0\'E5\'ED\'E0\'F2\'E0
+ \'F2\'E0\'F0\'E0, \'E1\'F0\'F3\'F2\'EE \'E8 \'ED\'E5\'F2\'EE \'F2\'E5\'E3\'EB\'EE, \'E8\'EC\'E5 \'E8 \'EF\'EE\'E4\'EF\'E8\'F1
+ \'ED\'E0 \'EE\'EF\'E5\'F0\'E0\'F2\'EE\'F0\'E0 \'ED\'E0 \'E5\'EB. \'E2\'E5\'E7\'ED\'E0\'F2\'E0. \'C8\'E7\'E4\'E0\'E4\'E5\'ED\'E0\'F2\'E0
+ \'EE\'F0\'E8\'E3\'E8\'ED\'E0\'EB\'ED\'E0 \'EA\'E0\'ED\'F2\'E0\'F0\'ED\'E0 \'E1\'E5\'EB\'E5\'E6\'EA\'E0 \'F1\'E5 \'EF\'F0\'E8\'EB\'E0\'E3
+\'E0 \'EA\'FA\'EC \'E8\'E7\'E3\'EE\'F2\'E2\'E5\'ED\'E0\'F2\'E0 \'EE\'F2 \'CF\'F0\'EE\'E4\'E0\'E2\'E0\'F7\'E0 \'F2\'EE\'E2\'E0\'F0\'E8\'F2
+\'E5\'EB\'ED\'E8\'F6\'E0.}
+\par
+\pard\plain\tx688\li740\qj\fi-740\sl-274\slmult0\pvpg\phpg\posx1852\posy7967\absh-6429\absw8462\overlay\s30\f0
+{\listtext\pard\plain 6.3.\'09\tab}
+\ls23\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid\b0\i0\ul0\strike0\scaps0
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'CA\'F3\'EF\'F3\'E2\'E0\'F7\'FA\'F2
+ \'E8\'EC\'E0 \'EF\'F0\'E0\'E2\'EE, \'F7\'F0\'E5\'E7 \'EE\'E4\'EE\'E1\'F0\'E5\'ED\'E0 \'EE\'F2 \'E4\'E2\'E5\'F2\'E5 \'F1\'F2\'F0\'E0\'ED
+\'E8 \'EE\'F0\'E3\'E0\'ED\'E8\'E7\'E0\'F6\'E8\'FF, \'EB\'E8\'F6\'E5\'ED\'E7\'E8\'F0\'E0\'ED\'E0 \'EE\'F2 \'C4\'FA\'F0\'E6\'E0\'E2\'ED\'E0
+\'F2\'E0 \'E0\'E3\'E5\'ED\'F6\'E8\'FF \'EF\'EE \'F1\'F2\'E0\'ED\'E4\'E0\'F0\'F2\'E8\'E7\'E0\'F6\'E8\'FF \'E8 \'EC\'E5\'F2\'F0\'EE\'EB\'EE
+\'E3\'E8\'FF, \'ED\'E0 \'EA\'EE\'ED\'F2\'F0\'EE\'EB\'ED\'E8 \'E8\'E7\'EC\'E5\'F0\'E2\'E0\'ED\'E8\'FF \'ED\'E0 \'F2\'E5\'E3\'EB\'EE\'F2\'EE
+ \'EF\'F0\'E8 \'CF\'F0\'EE\'E4\'E0\'E2\'E0\'F7\'E0 \'E8 \'ED\'E0 \'F1\'EE\'E1\'F1\'F2\'E2\'E5\'ED\'E0\'F2\'E0 \'E6.\'EF.
+ \'E2\'E5\'E7\'ED\'E0 \'ED\'E0 \'ED\'E5 \'EF\'EE-\'EC\'E0\'EB\'EA\'EE \'EE\'F2 \'EF\'E5\'F2 (5) \'ED\'E0\'F2\'EE\'E2\'E0\'F0\'E5\'ED\'E8
+ \'E2\'E0\'E3\'EE\'ED\'E0 \'EE\'F2 \'E5\'E4\'ED\'E0 \'EF\'E0\'F0\'F2\'E8\'E4\'E0. \'D0\'E0\'E7\'EB\'E8\'EA\'E0\'F2\'E0 \'E2
+ \'F2\'E5\'E3\'EB\'EE\'F2\'EE \'ED\'E0 \'E2\'FA\'E3\'EB\'E8\'F9\'E0\'F2\'E0 \'ED\'E0\'E4 \'E5\'E4\'E8\'ED \'EF\'F0\'EE\'F6\'E5\'ED\'F2
+ (1%), \'E2\'F1\'EB\'E5\'E4\'F1\'F2\'E2\'E8\'E5 \'ED\'E0}
+\par
+\pard\plain\sl-180\slmult0\pvpg\phpg\posx10103\posy15167\overlay\s32\aspalpha\aspnum\faauto\adjustright\cgrid\f0\b0\i0\ul0\strike0\scaps0
+\fs18\afs18
+{\cs25\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs18\afs18\charscalex100\expndtw0\cf1\dn0 5}
+\par
+\pard\plain\wrapdefault\aspalpha\aspnum\faauto\adjustright\cgrid\fs2\afs2
+\sect
+\sectd\ltrsect\headery0\footery3\colsx720\sectlinegrid360\sftnbj\sftnrstcont
+\pard\plain\li760\qj\sa244\sl-288\slmult0\pvpg\phpg\posx1818\posy2078\absh-12583\absw8486\overlay\s30\aspalpha\aspnum\faauto\adjustright
+\cgrid\f0\b0\i0\ul0\strike0\scaps0
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'ED\'E5\'E8\'E7\'EF\'F0\'E0\'E2\'ED\'E0
+ \'E6.\'EF. \'E2\'E5\'E7\'ED\'E0 \'ED\'E0 \'CF\'F0\'EE\'E4\'E0\'E2\'E0\'F7\'E0, \'F1\'E5 \'EE\'F2\'F7\'E8\'F2\'E0 \'F1\'FA\'F1
+ \'F1\'FA\'F9\'E8\'FF \'EF\'F0\'EE\'F6\'E5\'ED\'F2 \'E7\'E0 \'F6\'FF\'EB\'E0\'F2\'E0 \'EF\'E0\'F0\'F2\'E8\'E4\'E0.}
+\par
+\pard\plain\tx691\li760\qj\fi-760\sa248\sl-283\slmult0\pvpg\phpg\posx1818\posy2078\absh-12583\absw8486\overlay\s30\f0
+{\listtext\pard\plain 6.4.\'09\tab}
+\ls23\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid\b0\i0\ul0\strike0\scaps0
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'D2\'F0\'E0\'ED\'F1\'EF\'EE\'F0\'F2\'E8\'F0
+\'E0\'ED\'E5\'F2\'EE \'ED\'E0 \'E2\'FA\'E3\'EB\'E8\'F9\'E0\'F2\'E0 \'F9\'E5 \'F1\'E5 \'E8\'E7\'E2\'FA\'F0\'F8\'E2\'E0 \'F1
+ \'E2\'E0\'E3\'EE\'ED\'E8 \'F1\'EE\'E1\'F1\'F2\'E2\'E5\'ED\'EE\'F1\'F2 \'ED\'E0 \'CA\'F3\'EF\'F3\'E2\'E0\'F7\'E0.}
+\par
+\pard\plain\tx691\li760\qj\fi-760\sa240\sl-274\slmult0\pvpg\phpg\posx1818\posy2078\absh-12583\absw8486\overlay\s30\f0
+{\listtext\pard\plain 6.5.\'09\tab}
+\ls23\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid\b0\i0\ul0\strike0\scaps0
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'CF\'E0\'F0\'F2\'E8\'E4\'E8\'F2\'E5
+ \'EE\'F2 \'E2\'FA\'E3\'EB\'E8\'F9\'E0\'F2\'E0 \'EF\'EE \'E2\'F1\'FF\'EA\'E0 \'EC\'E5\'F1\'E5\'F7\'ED\'E0 \'E7\'E0\'FF\'E2\'EA\'E0
+ \'F1\'E5 \'E5\'EA\'F1\'EF\'E5\'E4\'E8\'F0\'E0\'F2 \'EE\'F2 \'CF\'F0\'EE\'E4\'E0\'E2\'E0\'F7\'E0 \'EF\'EE \'EF\'EE\'E4\'EF\'E8\'F1\'E0\'ED
+ \'EE\'F2 \'CF\'F0\'EE\'E4\'E0\'E2\'E0\'F7\'E0 \'E8 \'CA\'F3\'EF\'F3\'E2\'E0\'F7\'E0 \'EC\'E5\'F1\'E5\'F7\'E5\'ED \'E3\'F0\'E0\'F4\'E8\'EA
+, \'EA\'EE\'E9\'F2\'EE \'ED\'E5 \'EC\'EE\'E6\'E5 \'E4\'E0 \'E1\'FA\'E4\'E5 \'F3\'E2\'E5\'EB\'E8\'F7\'E0\'E2\'E0\'ED \'F1
+ \'ED\'E5\'E4\'EE\'F1\'F2\'E0\'E2\'E5\'ED\'E8 \'EA\'EE\'EB\'E8\'F7\'E5\'F1\'F2\'E2\'E0 \'EE\'F2 \'EF\'F0\'E5\'E4\'F5\'EE\'E4\'E5\'ED\'E8
+ \'EC\'E5\'F1\'E5\'F6\'E8, \'E0 \'E5 \'F1\'FA\'EE\'E1\'F0\'E0\'E7\'E5\'ED \'F1\'E0\'EC\'EE \'F1 \'EC\'E5\'F1\'E5\'F7\'ED\'E0\'F2\'E0
+ \'E7\'E0\'FF\'E2\'EA\'E0 \'EF\'EE \'F7\'EB. 2.1. \'CF\'F0\'E8 \'EA\'EE\'ED\'F1\'F2\'E0\'F2\'E8\'F0\'E0\'ED\'EE \'ED\'E0\'F0\'F3\'F8\'E5
+\'ED\'E8\'E5 \'ED\'E0 \'F2\'EE\'E7\'E8 \'E3\'F0\'E0\'F4\'E8\'EA, \'EF\'F0\'E5\'F2\'FA\'F0\'EF\'E5\'ED\'E8\'F2\'E5 \'F9\'E5\'F2\'E8
+ \'F1\'E0 \'E7\'E0 \'F1\'EC\'E5\'F2\'EA\'E0 \'ED\'E0 \'E2\'E8\'ED\'EE\'E2\'ED\'E0\'F2\'E0 \'F1\'F2\'F0\'E0\'ED\'E0, \'EE\'F1\'E2\'E5\'ED
+ \'E2 \'F1\'EB\'F3\'F7\'E5\'E9\'F2\'E5 \'ED\'E0 \'F7\'EB. 9.1}
+\par
+\pard\plain\tx691\li760\qj\fi-760\sa236\sl-274\slmult0\pvpg\phpg\posx1818\posy2078\absh-12583\absw8486\overlay\s30\f0
+{\listtext\pard\plain 6.6.\'09\tab}
+\ls23\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid\b0\i0\ul0\strike0\scaps0
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'CA\'F3\'EF\'F3\'E2\'E0\'F7\'FA\'F2
+ \'E5\'EA\'F1\'EF\'E5\'E4\'E8\'F0\'E0 \'EF\'F0\'E0\'E7\'ED\'E8\'F2\'E5 \'E2\'E0\'E3\'EE\'ED\'E8 \'F1\'FA\'EE\'E1\'F0\'E0\'E7\'ED\'EE
+ \'EC\'E5\'F1\'E5\'F7\'ED\'E8\'FF \'E3\'F0\'E0\'F4\'E8\'EA \'EF\'EE \'F7\'EB. 6.5. \'CF\'F0\'E8 \'ED\'E0\'F0\'F3\'F8\'E5\'ED\'E8\'E5
+ \'ED\'E0 \'F2\'EE\'E7\'E8 \'E3\'F0\'E0\'F4\'E8\'EA \'EE\'F2 \'F1\'F2\'F0\'E0\'ED\'E0 \'ED\'E0 \'CA\'F3\'EF\'F3\'E2\'E0\'F7\'E0,
+ \'F2\'EE\'E9 \'E5 \'E4\'EB\'FA\'E6\'E5\'ED \'E2 \'E4\'E5\'F1\'E5\'F2\'E4\'ED\'E5\'E2\'E5\'ED (10) \'F1\'F0\'EE\'EA \'E4\'E0
+ \'EE\'F2\'F1\'F2\'F0\'E0\'ED\'E8 \'F2\'EE\'E2\'E0 \'ED\'E0\'F0\'F3\'F8\'E5\'ED\'E8\'E5 \'F7\'F0\'E5\'E7 \'F3\'E2\'E5\'EB\'E8\'F7\'E0\'E2
+\'E0\'ED\'E5 \'E8\'EB\'E8 \'ED\'E0\'EC\'E0\'EB\'FF\'E2\'E0\'ED\'E5 \'ED\'E0 \'E1\'F0\'EE\'FF \'ED\'E0 \'E2\'E0\'E3\'EE\'ED\'E8\'F2\'E5
+ \'E2 \'F0\'E0\'EC\'EA\'E8\'F2\'E5 \'ED\'E0 \'E4\'E5\'E9\'F1\'F2\'E2\'E0\'F9\'E8\'FF \'EC\'E5\'F1\'E5\'F7\'E5\'ED \'E3\'F0\'E0\'F4\'E8\'EA
+.}
+\par
+\pard\plain\tx691\li760\qj\fi-760\sa244\sl-278\slmult0\pvpg\phpg\posx1818\posy2078\absh-12583\absw8486\overlay\s30\f0
+{\listtext\pard\plain 6.7.\'09\tab}
+\ls23\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid\b0\i0\ul0\strike0\scaps0
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'CA\'F3\'EF\'F3\'E2\'E0\'F7\'FA\'F2
+ \'E5 \'E4\'EB\'FA\'E6\'E5\'ED \'E4\'E0 \'E8\'E7\'EF\'F0\'E0\'F9\'E0 \'F1\'E0\'EC\'EE \'F2\'E5\'F5\'ED\'E8\'F7\'E5\'F1\'EA\'E8
+ \'E8\'E7\'EF\'F0\'E0\'E2\'ED\'E8 \'E2\'E0\'E3\'EE\'ED\'E8. \'CF\'F0\'E8 \'EA\'EE\'ED\'F1\'F2\'E0\'F2\'E8\'F0\'E0\'ED\'E5
+ \'ED\'E0 \'ED\'E5\'E8\'E7\'EF\'F0\'E0\'E2\'ED\'E8 \'E2\'E0\'E3\'EE\'ED\'E8, \'F2\'E5 \'ED\'FF\'EC\'E0 \'E4\'E0 \'F1\'E5
+ \'F2\'EE\'E2\'E0\'F0\'FF\'F2 \'E8 \'CF\'F0\'EE\'E4\'E0\'E2\'E0\'F7\'FA\'F2 \'F9\'E5 \'F3\'E2\'E5\'E4\'EE\'EC\'E8 \'CA\'F3\'EF\'F3\'E2\'E0
+\'F7\'E0 \'E7\'E0 \'F2\'EE\'E2\'E0, \'EA\'E0\'EA\'F2\'EE \'E5 \'EF\'F0\'E5\'E4\'E2\'E8\'E4\'E5\'ED\'EE \'E2 \'F7\'EB. 6.11.}
+\par
+\pard\plain\tx691\li760\qj\fi-760\sa240\sl-274\slmult0\pvpg\phpg\posx1818\posy2078\absh-12583\absw8486\overlay\s30\f0
+{\listtext\pard\plain 6.8.\'09\tab}
+\ls23\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid\b0\i0\ul0\strike0\scaps0
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'CF\'F0\'E8 \'EA\'EE\'ED\'F1\'F2\'E0\'F2
+\'E8\'F0\'E0\'ED\'E5 \'ED\'E0 \'E4\'F0\'E5\'E1\'ED\'E8 \'EF\'EE\'E2\'F0\'E5\'E4\'E8 \'EF\'EE \'E2\'E0\'E3\'EE\'ED\'E8\'F2\'E5,
+ \'F1\'EE\'E1\'F1\'F2\'E2\'E5\'ED\'EE\'F1\'F2 \'ED\'E0 \'CA\'F3\'EF\'F3\'E2\'E0\'F7\'E0, \'ED\'E5 \'EF\'F0\'E5\'E4\'F1\'F2\'E0\'E2\'EB\'FF
+\'E2\'E0\'F9\'E8 \'EE\'EF\'E0\'F1\'ED\'EE\'F1\'F2 \'E8 \'F0\'E8\'F1\'EA \'E7\'E0 \'F2\'FF\'F5\'ED\'E0\'F2\'E0 \'ED\'EE\'F0\'EC\'E0\'EB\'ED
+\'E0 \'E5\'EA\'F1\'EF\'EB\'EE\'E0\'F2\'E0\'F6\'E8\'FF, \'F1\'FA\'F9\'E8\'F2\'E5 \'F9\'E5 \'F1\'E5 \'EF\'F0\'E8\'E5\'EC\'E0\'F2
+ \'E8 \'ED\'E0\'F2\'EE\'E2\'E0\'F0\'FF\'F2 \'EE\'F2 \'CF\'F0\'EE\'E4\'E0\'E2\'E0\'F7\'E0, \'EA\'E0\'F2\'EE \'E7\'E0 \'F3\'F1\'F2\'E0\'ED
+\'EE\'E2\'E5\'ED\'E8\'F2\'E5 \'EF\'EE\'E2\'F0\'E5\'E4\'E8 \'F1\'E5 \'F1\'FA\'F1\'F2\'E0\'E2\'FF \'E4\'E2\'F3\'F1\'F2\'F0\'E0\'ED\'E5\'ED
+ \'EF\'F0\'EE\'F2\'EE\'EA\'EE\'EB \'EC\'E5\'E6\'E4\'F3 \'CF\'F0\'EE\'E4\'E0\'E2\'E0\'F7\'E0 \'E8 \'EF\'F0\'E5\'E2\'EE\'E7\'E2\'E0\'F7\'E0
+ , \'EA\'EE\'E9\'F2\'EE \'ED\'E5\'E7\'E0\'E1\'E0\'E2\'ED\'EE \'F1\'E5 \'E8\'E7\'EF\'F0\'E0\'F9\'E0 \'ED\'E0 \'CA\'F3\'EF\'F3\'E2\'E0\'F7
+\'E0.}
+\par
+\pard\plain\tx691\li760\qj\fi-760\sa240\sl-274\slmult0\pvpg\phpg\posx1818\posy2078\absh-12583\absw8486\overlay\s30\f0
+{\listtext\pard\plain 6.9.\'09\tab}
+\ls23\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid\b0\i0\ul0\strike0\scaps0
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'CF\'F0\'EE\'E4\'E0\'E2\'E0\'F7\'FA\'F2
+ \'E5 \'E4\'EB\'FA\'E6\'E5\'ED \'E4\'E0 \'ED\'E5 \'EE\'F2\'EA\'EB\'EE\'ED\'FF\'E2\'E0 \'EF\'EE \'ED\'E8\'EA\'E0\'EA\'FA\'E2
+ \'EF\'EE\'E2\'EE\'E4 \'E8\'E7\'EF\'F0\'E0\'F2\'E5\'ED\'E8\'F2\'E5 \'EC\'F3 \'EF\'F0\'E0\'E7\'ED\'E8 \'E2\'E0\'E3\'EE\'ED\'E8,
+ \'F1\'EE\'E1\'F1\'F2\'E2\'E5\'ED\'EE\'F1\'F2 \'ED\'E0 \'CA\'F3\'EF\'F3\'E2\'E0\'F7\'E0. \'CF\'F0\'E8 \'ED\'E0\'F0\'F3\'F8\'E5\'ED\'E8\'E5
+, \'CF\'F0\'EE\'E4\'E0\'E2\'E0\'F7\'FA\'F2 \'E4\'FA\'EB\'E6\'E8 \'ED\'E0 \'CA\'F3\'EF\'F3\'E2\'E0\'F7\'E0 \'ED\'E0\'E5\'EC
+ \'EF\'EE \'F1\'F2\'EE \'EB\'E5\'E2\'E0 (100 \'EB\'E2.) \'ED\'E0 \'E2\'E0\'E3\'EE\'ED \'ED\'E0 \'E4\'E5\'ED. \'C2\'F0\'E5\'EC\'E5\'F2\'EE
+ \'E7\'E0 \'E7\'E0\'E1\'E0\'E2\'E0 \'F1\'E5 \'F3\'F1\'F2\'E0\'ED\'EE\'E2\'FF\'E2\'E0 \'EF\'EE \'F2\'F0\'E0\'ED\'F1\'EF\'EE\'F0\'F2\'ED\'E8
+\'F2\'E5 \'E4\'EE\'EA\'F3\'EC\'E5\'ED\'F2\'E8 \'ED\'E0 \'EF\'F0\'E5\'E2\'EE\'E7\'E2\'E0\'F7\'E0 \'E8 \'EF\'EE\'E4\'EF\'E8\'F1\'E0\'ED\'E8
+\'F2\'E5 \'E4\'E2\'F3\'F1\'F2\'F0\'E0\'ED\'ED\'E8 \'EF\'F0\'E5\'E4\'E0\'E2\'E0\'F2\'E5\'EB\'ED\'E8 \'EF\'F0\'EE\'F2\'EE\'EA\'EE\'EB\'E8
+, \'EF\'EE\'E4\'EF\'E8\'F1\'E0\'ED\'E8 \'EC\'E5\'E6\'E4\'F3 \'CF\'F0\'EE\'E4\'E0\'E2\'E0\'F7\'E0 \'E8 \'EF\'F0\'E5\'E2\'EE\'E7\'E2\'E0\'F7
+\'E0 \'E8 \'F1\'FA\'EE\'F2\'E2\'E5\'F2\'ED\'EE \'CA\'F3\'EF\'F3\'E2\'E0\'F7\'E0 \'E8 \'EF\'F0\'E5\'E2\'EE\'E7\'E2\'E0\'F7\'E0.}
+\par
+\pard\plain\tx691\li760\qj\fi-760\sa240\sl-274\slmult0\pvpg\phpg\posx1818\posy2078\absh-12583\absw8486\overlay\s30\f0
+{\listtext\pard\plain 6.10.\'09\tab}
+\ls23\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid\b0\i0\ul0\strike0\scaps0
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'C2\'F1\'FF\'EA\'E0 \'ED\'E0\'F2\'EE\'E2
+\'E0\'F0\'E5\'ED\'E0 \'EF\'E0\'F0\'F2\'E8\'E4\'E0 \'EE\'F2 \'E2\'FA\'E3\'EB\'E8\'F9\'E0 \'F1\'E5 \'EF\'F0\'E5\'E4\'E0\'E2\'E0
+ \'EE\'F2 \'CF\'F0\'EE\'E4\'E0\'E2\'E0\'F7\'E0 \'ED\'E0 \'EF\'F0\'E5\'E2\'EE\'E7\'E2\'E0\'F7\'E0 \'F1 \'F2\'EE\'E2\'E0\'F0\'E8\'F2\'E5\'EB
+\'ED\'E8\'F6\'E8 \'F1 \'EF\'F0\'E8\'EB\'EE\'E6\'E5\'ED\'E8 \'EE\'F0\'E8\'E3\'E8\'ED\'E0\'EB\'ED\'E8 \'EA\'E0\'ED\'F2\'E0\'F0\'ED\'E8
+ \'E1\'E5\'EB\'E5\'E6\'EA\'E8 \'E8 \'EE\'EF\'E8\'F1 \'ED\'E0 \'E1\'F0\'EE\'FF \'E8 \'ED\'EE\'EC\'E5\'F0\'E0\'F2\'E0 \'ED\'E0
+ \'E2\'E0\'E3\'EE\'ED\'E8\'F2\'E5.}
+\par
+\pard\plain\tx691\li760\qj\fi-760\sl-274\slmult0\pvpg\phpg\posx1818\posy2078\absh-12583\absw8486\overlay\s30\f0
+{\listtext\pard\plain 6.11.\'09\tab}
+\ls23\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid\b0\i0\ul0\strike0\scaps0
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'CF\'F0\'E8 \'EA\'EE\'ED\'F1\'F2\'E0\'F2
+\'E8\'F0\'E0\'ED\'E5 \'ED\'E0 \'ED\'E5\'E8\'E7\'EF\'F0\'E0\'E2\'ED\'EE\'F1\'F2\'E8 \'ED\'E0 \'EF\'F0\'E0\'E7\'ED\'E8\'F2\'E5
+ \'E2\'E0\'E3\'EE\'ED\'E8\'F2\'E5, \'F1\'EE\'E1\'F1\'F2\'E2\'E5\'ED\'EE\'F1\'F2 \'ED\'E0 \'CA\'F3\'EF\'F3\'E2\'E0\'F7\'E0
+ \'E8 \'EF\'F0\'E5\'E4\'E0\'E4\'E5\'ED\'E8 \'ED\'E0 \'CF\'F0\'EE\'E4\'E0\'E2\'E0\'F7\'E0 \'F1 \'E2\'E5\'E4\'EE\'EC\'EE\'F1\'F2
+ \'C4\'CF-14 \'E8 \'F3\'F1\'F2\'E0\'ED\'EE\'E2\'E5\'ED\'E8 \'F1 \'E4\'E2\'F3\'F1\'F2\'F0\'E0\'ED\'ED\'EE \'EF\'EE\'E4\'EF\'E8\'F1\'E0\'ED
+ \'EF\'F0\'EE\'F2\'EE\'EA\'EE\'EB \'EC\'E5\'E6\'E4\'F3 \'CF\'F0\'EE\'E4\'E0\'E2\'E0\'F7\'E0 \'E8 \'EF\'F0\'E5\'E2\'EE\'E7\'E2\'E0\'F7\'E0
+, \'ED\'E5\'E8\'E7\'EF\'F0\'E0\'E2\'ED\'EE\'F1\'F2\'E8\'F2\'E5 \'F1\'E5 \'EE\'F2\'F1\'F2\'F0\'E0\'ED\'FF\'E2\'E0\'F2 \'EE\'F2
+ \'CA\'F3\'EF\'F3\'E2\'E0\'F7\'E0 \'E7\'E0 \'F1\'EC\'E5\'F2\'EA\'E0 \'ED\'E0 \'E2\'E8\'ED\'EE\'E2\'ED\'E0\'F2\'E0 \'F1\'F2\'F0\'E0\'ED\'E0
+ \'F1\'FA\'E3\'EB\'E0\'F1\'ED\'EE \'A7105 \'EE\'F2 \'D3\'C6.}
+\par
+\pard\plain\sl-200\slmult0\pvpg\phpg\posx10069\posy15156\overlay\s31\aspalpha\aspnum\faauto\adjustright\cgrid\f0\b0\i0\ul0\strike0\scaps0
+\fs20\afs20
+{\cs23\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs20\afs20\charscalex100\expndtw0\cf1\dn0 6}
+\par
+\pard\plain\wrapdefault\aspalpha\aspnum\faauto\adjustright\cgrid\fs2\afs2
+\sect
+\sectd\ltrsect\headery0\footery3\colsx720\sectlinegrid360\sftnbj\sftnrstcont
+\pard\plain\tx705\li740\qj\fi-740\sa244\sl-283\slmult0\pvpg\phpg\posx1828\posy2350\absh-12270\absw8467\overlay\s30\f0
+{\listtext\pard\plain 6.12.\'09\tab}
+\ls23\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid\b0\i0\ul0\strike0\scaps0
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'CF\'F0\'E8 \'EC\'E8\'ED\'F3\'F1\'EE\'E2
+\'E8 \'F2\'E5\'EC\'EF\'E5\'F0\'E0\'F2\'F3\'F0\'E8, \'EF\'F0\'E5\'E4\'E8\'E7\'E2\'E8\'EA\'E2\'E0\'F9\'E8 \'E7\'E0\'EC\'F0\'FA\'E7\'E2\'E0
+\'ED\'E5 \'ED\'E0 \'E2\'FA\'E3\'EB\'E8\'F9\'E0\'F2\'E0, \'CA\'F3\'EF\'F3\'E2\'E0\'F7\'FA\'F2 \'E8 \'CF\'F0\'EE\'E4\'E0\'E2\'E0\'F7\'FA\'F2
+ \'F1\'FA\'E3\'EB\'E0\'F1\'F3\'E2\'E0\'F2 \'E2 \'EE\'EF\'E5\'F0\'E0\'F2\'E8\'E2\'E5\'ED \'EF\'EE\'F0\'FF\'E4\'FA\'EA \'F2\'EE\'E2\'E0\'F0
+\'E5\'ED\'E5\'F2\'EE \'E8 \'E5\'EA\'F1\'EF\'E5\'E4\'E8\'F0\'E0\'ED\'E5\'F2\'EE \'ED\'E0 \'EF\'E0\'F0\'F2\'E8\'E4\'E8\'F2\'E5
+ \'EE\'F2 \'E2\'FA\'E3\'EB\'E8\'F9\'E0\'F2\'E0.}
+\par
+\pard\plain\tx756\li740\qj\fi-580\sa271\sl-278\slmult0\pvpg\phpg\posx1828\posy2350\absh-12270\absw8467\overlay\s30\f0
+{\listtext\pard\plain 6.13.\'09\tab}
+\ls23\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid\b0\i0\ul0\strike0\scaps0
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'C2\'F1\'E8\'F7\'EA\'E8 \'F0\'E0\'E7\'F5
+\'EE\'E4\'E8 \'E7\'E0 \'E4\'E5\'ED\'E3\'F3\'E1\'E8 \'EF\'F0\'E8 \'C6\'CF \'F2\'F0\'E0\'ED\'F1\'EF\'EE\'F0\'F2, \'EF\'EE\'EB\'F3\'F7\'E5
+\'ED\'E8 \'E2\'F1\'EB\'E5\'E4\'F1\'F2\'E2\'E8\'E5 \'ED\'E0 \'E7\'E0\'EC\'F0\'FA\'E7\'ED\'E0\'EB\'E8 \'E2\'FA\'E3\'EB\'E8\'F9\'E0
+ \'EF\'F0\'E5\'E7 \'E7\'E8\'EC\'ED\'E8\'FF \'EF\'E5\'F0\'E8\'EE\'E4 \'E8 \'F0\'E0\'E7\'F5\'EE\'E4\'E8 \'EF\'EE \'F0\'E0\'E7\'EC\'F0\'E0
+\'E7\'FF\'E2\'E0\'ED\'E5 \'ED\'E0 \'E2\'F1\'FF\'EA\'E0 \'EF\'E0\'F0\'F2\'E8\'E4\'E0 (\'F0\'E0\'E7\'F5\'EE\'E4\'E8\'F2\'E5
+ \'E7\'E0 \'F0\'E0\'E7\'EC\'F0\'E0\'E7\'FF\'E2\'E0\'ED\'E5, \'E4\'EE\'EF\'FA\'EB\'ED\'E8\'F2\'E5\'EB\'ED\'E8 \'EC\'E0\'ED\'E5\'E2\'F0\'E8
+ \'E8 \'EB\'EE\'EA\'EE\'EC\'EE\'F2\'E8\'E2) \'F1\'E5 \'EF\'EE\'E4\'E5\'EB\'FF\'F2 \'EF\'EE \'F0\'E0\'E2\'ED\'EE \'F1\'EB\'E5\'E4
+ \'E4\'EE\'EA\'E0\'E7\'E2\'E0\'ED\'E5\'F2\'EE \'E8\'EC \'F1 \'E4\'E2\'F3\'F1\'F2\'F0\'E0\'ED\'ED\'EE \'EF\'EE\'E4\'EF\'E8\'F1\'E0\'ED\'E8
+ \'EF\'F0\'EE\'F2\'EE\'EA\'EE\'EB\'E8 \'F1 \'EE\'EF\'E8\'F1\'E0\'ED\'E8 \'E2\'E0\'E3\'EE\'ED\'E8 \'EC\'E5\'E6\'E4\'F3 \'CF\'F0\'EE\'E4\'E0
+\'E2\'E0\'F7\'E0 \'E8 \'CA\'F3\'EF\'F3\'E2\'E0\'F7\'E0, \'E0 \'EF\'F0\'E8 \'EE\'F2\'F1\'FA\'F1\'F2\'E2\'E8\'E5 \'ED\'E0 \'EF\'F0\'E5\'E4
+\'F1\'F2\'E0\'E2\'E8\'F2\'E5\'EB \'ED\'E0 \'CF\'F0\'EE\'E4\'E0\'E2\'E0\'F7\'E0 \'E2 \'EF\'F0\'E8\'F1\'FA\'F1\'F2\'E2\'E8\'E5
+ \'ED\'E0 \'ED\'E5\'E7\'E0\'E2\'E8\'F1\'E8\'EC \'EA\'EE\'ED\'F2\'F0\'EE\'EB\'E5\'ED \'EE\'F0\'E3\'E0\'ED.}
+\par
+\pard\plain\tx538\li740\qj\fi-740\sa266\sl-240\slmult0\outlinelevel0\pvpg\phpg\posx1828\posy2350\absh-12270\absw8467\overlay\s28\f0
+{\listtext\pard\plain VII.\'09\tab}
+\ls1\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid\b\i0\ul0\strike0\scaps0
+{\*\bkmkstart bookmark7}
+{\cs16\lang1026\langfe1026\b\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'D6\'C5\'CD\'C0}
+{\*\bkmkend bookmark7}
+\par
+\pard\plain\tx705\li740\qj\fi-740\sa236\sl-274\slmult0\pvpg\phpg\posx1828\posy2350\absh-12270\absw8467\overlay\s30\f0
+{\listtext\pard\plain 7.1.\'09\tab}
+\ls25\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid\b0\i0\ul0\strike0\scaps0
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'D6\'E5\'ED\'E0\'F2\'E0 \'ED\'E0
+ \'E8\'E7\'E4\'E0\'E4\'E5\'ED\'E0\'F2\'E0 \'EE\'F2 \'CF\'F0\'EE\'E4\'E0\'E2\'E0\'F7\'E0 \'E4\'E0\'ED\'FA\'F7\'ED\'E0 \'F4\'E0\'EA\'F2\'F3
+\'F0\'E0 \'F1\'EB\'E5\'E4\'E2\'E0 \'E4\'E0 \'E5 \'F1\'FA\'EE\'E1\'F0\'E0\'E7\'E5\'ED\'E0 \'F1 \'E4\'E5\'E9\'F1\'F2\'E2\'E0\'F9\'E0\'F2\'E0
+ \'EA\'FA\'EC \'E4\'E5\'ED\'FF \'ED\'E0 \'E4\'EE\'F1\'F2\'E0\'E2\'EA\'E8\'F2\'E5 \'E1\'E0\'E7\'EE\'E2\'E0 \'F6\'E5\'ED\'E0
+ \'E8 \'F1\'E5 \'EE\'F1\'ED\'EE\'E2\'E0\'E2\'E0 \'ED\'E0 \'E4\'E5\'E9\'F1\'F2\'E2\'E8\'F2\'E5\'EB\'ED\'EE\'F2\'EE \'F2\'E5\'E3\'EB\'EE
+ \'ED\'E0 \'EF\'E0\'F0\'F2\'E8\'E4\'E0\'F2\'E0.}
+\par
+\pard\plain\tx705\tx4968\li740\qj\fi-740\sl-278\slmult0\pvpg\phpg\posx1828\posy2350\absh-12270\absw8467\overlay\s30\f0
+{\listtext\pard\plain 7.2.\'09\tab}
+\ls25\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid\b0\i0\ul0\strike0\scaps0
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'C1\'E0\'E7\'EE\'E2\'E0 \'F6\'E5\'ED\'E0
+ \'EE\'E7\'ED\'E0\'F7\'E0\'E2\'E0 \'F6\'E5\'ED\'E0\'F2\'E0 \'EE\'F2 95\tab ( \'E4\'E5\'E2\'E5\'E4\'E5\'F1\'E5\'F2 \'E8 \'EF\'E5\'F2
+ ) \'EB\'E2. \'F4\'F0\'E0\'ED\'EA\'EE}
+\par
+\pard\plain\li740\qj\sl-278\slmult0\pvpg\phpg\posx1828\posy2350\absh-12270\absw8467\overlay\s30\aspalpha\aspnum\faauto\adjustright\cgrid
+\f0\b0\i0\ul0\strike0\scaps0
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'E3\'E0\'F0\'E0 \'84\'D0\'E0\'E7\'EF\'F0
+\'E5\'E4\'E5\'EB\'E8\'F2\'E5\'EB\'ED\'E0\'94- \'E3\'F0. \'CF\'E5\'F0\'ED\'E8\'EA \'E7\'E0 \'F2\'EE\'ED \'F3\'F1\'EB\'EE\'E2\'ED\'EE
+ \'E3\'EE\'F0\'E8\'E2\'EE \'E1\'E5\'E7 \'C4\'C4\'D1, \'E8 \'E5 \'E2\'E0\'EB\'E8\'E4\'ED\'E0 \'EF\'F0\'E5\'E7 \'F6\'E5\'EB\'E8\'FF
+ \'F1\'F0\'EE\'EA \'ED\'E0 \'C4\'EE\'E3\'EE\'E2\'EE\'F0\'E0. \'C1\'E0\'E7\'EE\'E2\'E0\'F2\'E0 \'F6\'E5\'ED\'E0 \'F1\'E5 \'EE\'F1\'ED\'EE
+\'E2\'E0\'E2\'E0 \'ED\'E0 \'ED\'E5\'F2\'ED\'E0 \'EA\'E0\'EB\'EE\'F0\'E8\'F7\'ED\'E0 \'F1\'F2\'EE\'E9\'ED\'EE\'F1\'F2 \'EE\'F2
+ \'F1\'E5\'E4\'E5\'EC \'F5\'E8\'EB\'FF\'E4\'E8 (7 000) \'EA\'E8\'EB\'EE\'EA\'E0\'EB\'EE\'F0\'E8\'E8 \'ED\'E0 \'EA\'E8\'EB\'EE\'E3\'F0\'E0
+\'EC \'E8 \'F1\'E5 \'EF\'EE\'EB\'E7\'E2\'E0 \'E7\'E0 \'E8\'E7\'F7\'E8\'F1\'EB\'FF\'E2\'E0\'ED\'E5 \'ED\'E0 \'EA\'F0\'E0\'E9\'ED\'E0\'F2
+\'E0 \'F6\'E5\'ED\'E0 \'ED\'E0 \'E2\'F1\'FF\'EA\'E0 \'EF\'E0\'F0\'F2\'E8\'E4\'E0 \'EE\'F2 \'E2\'FA\'E3\'EB\'E8\'F9\'E0, \'EF\'F0\'E8\'EB
+\'E0\'E3\'E0\'E9\'EA\'E8 \'F1\'EB\'E5\'E4\'ED\'E0\'F2\'E0 \'F4\'EE\'F0\'EC\'F3\'EB\'E0:}
+\par
+\pard\plain\li740\qj\sa280\sl-240\slmult0\pvpg\phpg\posx1828\posy2350\absh-12270\absw8467\overlay\s30\aspalpha\aspnum\faauto\adjustright
+\cgrid\f0\b0\i0\ul0\strike0\scaps0
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 (\'C4\'CD\'CA\'D1 * \'F5 \'C1\'E0\'E7\'EE
+\'E2\'E0 \'F6\'E5\'ED\'E0) / 7 000 = \'CA\'F0\'E0\'E9\'ED\'E0 \'F6\'E5\'ED\'E0 (\'EB\'E5\'E2\'E0 \'ED\'E0 \'EC\'E5\'F2\'F0\'E8\'F7\'E5\'ED
+ \'F2\'EE\'ED),}
+\par
+\pard\plain\li740\qj\sa267\sl-274\slmult0\pvpg\phpg\posx1828\posy2350\absh-12270\absw8467\overlay\s30\aspalpha\aspnum\faauto\adjustright
+\cgrid\f0\b0\i0\ul0\strike0\scaps0
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 *\'EA\'FA\'E4\'E5\'F2\'EE \'C4\'CD\'CA\'D1
+ \'EE\'E7\'ED\'E0\'F7\'E0\'E2\'E0 \'C4\'E5\'E9\'F1\'F2\'E2\'E8\'F2\'E5\'EB\'ED\'E0\'F2\'E0 \'CD\'E5\'F2\'ED\'E0 \'CA\'E0\'EB\'EE\'F0\'E8
+\'F7\'ED\'E0 \'D1\'F2\'EE\'E9\'ED\'EE\'F1\'F2 \'ED\'E0 \'EF\'E0\'F0\'F2\'E8\'E4\'E0\'F2\'E0,}
+\par
+\pard\plain\tx705\li740\qj\fi-740\sa142\sl-240\slmult0\outlinelevel0\pvpg\phpg\posx1828\posy2350\absh-12270\absw8467\overlay\s28\f0
+{\listtext\pard\plain VIII.\'09\tab}
+\ls1\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid\b\i0\ul0\strike0\scaps0
+{\*\bkmkstart bookmark8}
+{\cs16\lang1026\langfe1026\b\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'CF\'CB\'C0\'D9\'C0\'CD\'C5}
+{\*\bkmkend bookmark8}
+\par
+\pard\plain\tx705\li740\qj\fi-740\sa240\sl-278\slmult0\pvpg\phpg\posx1828\posy2350\absh-12270\absw8467\overlay\s30\f0
+{\listtext\pard\plain 8.1.\'09\tab}
+\ls27\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid\b0\i0\ul0\strike0\scaps0
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'CF\'F0\'EE\'E4\'E0\'E2\'E0\'F7\'FA\'F2
+ \'E5 \'E4\'EB\'FA\'E6\'E5\'ED \'E4\'E0 \'E8\'E7\'E4\'E0\'E4\'E5 \'ED\'E0 \'CA\'F3\'EF\'F3\'E2\'E0\'F7\'E0 \'E4\'E0\'ED\'FA\'F7\'ED\'E0
+ \'F4\'E0\'EA\'F2\'F3\'F0\'E0 \'E7\'E0 \'E2\'F1\'FF\'EA\'E0 \'EF\'E0\'F0\'F2\'E8\'E4\'E0 \'EE\'F2 \'E2\'FA\'E3\'EB\'E8\'F9\'E0
+ \'F1\'FA\'E3\'EB\'E0\'F1\'ED\'EE \'F1\'E5\'F0\'F2\'E8\'F4\'E8\'EA\'E0\'F2 \'E7\'E0 \'EA\'E0\'F7\'E5\'F1\'F2\'E2\'EE. \'C4\'E0\'ED\'FA\'F7
+\'ED\'E8\'F2\'E5 \'F4\'E0\'EA\'F2\'F3\'F0\'E8 \'F1\'E5 \'EF\'F0\'E5\'E4\'F1\'F2\'E0\'E2\'FF\'F2 \'ED\'E0 \'CA\'F3\'EF\'F3\'E2\'E0\'F7\'E0
+ \'E2 \'EA\'F0\'E0\'FF \'ED\'E0 \'E2\'F1\'FF\'EA\'E0 \'E4\'E5\'F1\'E5\'F2\'E4\'ED\'E5\'E2\'EA\'E0, \'EA\'E0\'EB\'E5\'ED\'E4\'E0\'F0\'E5
+\'ED \'EC\'E5\'F1\'E5\'F6, \'EA\'E0\'F2\'EE \'EF\'EB\'E0\'F9\'E0\'ED\'E5\'F2\'EE \'ED\'E0 \'F1\'F2\'EE\'E9\'ED\'EE\'F1\'F2\'F2\'E0
+ \'EF\'EE \'F2\'FF\'F5 \'F1\'E5 \'EE\'F1\'FA\'F9\'E5\'F1\'F2\'E2\'FF\'E2\'E0 \'E2 \'E1\'FA\'EB\'E3\'E0\'F0\'F1\'EA\'E8 \'EB\'E5\'E2\'E0
+ \'F7\'F0\'E5\'E7 \'E4\'E8\'F0\'E5\'EA\'F2\'E5\'ED \'E1\'E0\'ED\'EA\'EE\'E2 \'EF\'F0\'E5\'E2\'EE\'E4.}
+\par
+\pard\plain\tx705\li740\qj\fi-740\sa240\sl-278\slmult0\pvpg\phpg\posx1828\posy2350\absh-12270\absw8467\overlay\s30\f0
+{\listtext\pard\plain 8.2.\'09\tab}
+\ls27\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid\b0\i0\ul0\strike0\scaps0
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'CF\'F0\'E5\'E4\'EE\'F1\'F2\'E0\'E2\'E5\'ED
+\'E8\'F2\'E5 \'EF\'EE \'F7\'EB. 8.1. \'E4\'E0\'ED\'FA\'F7\'ED\'E8 \'F4\'E0\'EA\'F2\'F3\'F0\'E8 \'F1\'E5 \'EF\'EB\'E0\'F9\'E0\'F2
+ \'E4\'EE 7 \'EA\'E0\'EB\'E5\'ED\'E4\'E0\'F0\'ED\'E8 \'E4\'ED\'E8 \'EE\'F2 \'E4\'E0\'F2\'E0\'F2\'E0 \'ED\'E0 \'E8\'E7\'E4\'E0\'E2\'E0\'ED
+\'E5\'F2\'EE \'E8\'EC. \'C1\'E0\'ED\'EA\'EE\'E2\'E8\'FF\'F2 \'EF\'F0\'E5\'E2\'EE\'E4 \'F1\'E5 \'EF\'F0\'E8\'E5\'EC\'E0 \'E7\'E0
+ \'E8\'E7\'E2\'FA\'F0\'F8\'E5\'ED \'F1\'EB\'E5\'E4 \'E7\'E0\'E2\'E5\'F0\'FF\'E2\'E0\'ED\'E5 \'ED\'E0 \'E1\'E0\'ED\'EA\'EE\'E2\'E0\'F2\'E0
+ \'F1\'EC\'E5\'F2\'EA\'E0 \'ED\'E0 \'CF\'F0\'EE\'E4\'E0\'E2\'E0\'F7\'E0.}
+\par
+\pard\plain\tx705\li740\qj\fi-740\sl-278\slmult0\pvpg\phpg\posx1828\posy2350\absh-12270\absw8467\overlay\s30\f0
+{\listtext\pard\plain 8.3.\'09\tab}
+\ls27\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid\b0\i0\ul0\strike0\scaps0
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'C0\'EA\'EE \'E8\'E7\'E4\'E0\'E4\'E5\'ED
+\'E0\'F2\'E0 \'EE\'F2 \'CF\'F0\'EE\'E4\'E0\'E2\'E0\'F7\'E0 \'E4\'E0\'ED\'FA\'F7\'ED\'E0 \'F4\'E0\'EA\'F2\'F3\'F0\'E0 \'EF\'EE\'E4\'EB\'E5
+\'E6\'E8 \'ED\'E0 \'EA\'EE\'F0\'E8\'E3\'E8\'F0\'E0\'ED\'E5 \'E2 \'F1\'EB\'F3\'F7\'E0\'E8\'F2\'E5 \'EF\'F0\'E5\'E4\'E2\'E8\'E4\'E5\'ED\'E8
+ \'E2 \'F0\'E0\'E7\'E4\'E5\'EB III, \'F2\'EE \'CF\'F0\'EE\'E4\'E0\'E2\'E0\'F7\'E0 \'EE\'F2\'EC\'E5\'ED\'FF \'F2\'E0\'E7\'E8
+ \'F4\'E0\'EA\'F2\'F3\'F0\'E0 \'E8 \'EF\'F0\'E5\'E4\'F1\'F2\'E0\'E2\'FF \'ED\'E0 \'CA\'F3\'EF\'F3\'E2\'E0\'F7\'E0 \'ED\'EE\'E2\'E0
+ \'E4\'E0\'ED\'FA\'F7\'ED\'E0 \'F4\'E0\'EA\'F2\'F3\'F0\'E0 \'F1 \'EF\'F0\'E5\'E8\'E7\'F7\'E8\'F1\'EB\'E5\'ED\'E0 \'EA\'F0\'E0\'E9\'ED\'E0
+ \'F6\'E5\'ED\'E0}
+\par
+\pard\plain\sl-180\slmult0\pvpg\phpg\posx10089\posy15163\overlay\s32\aspalpha\aspnum\faauto\adjustright\cgrid\f0\b0\i0\ul0\strike0\scaps0
+\fs18\afs18
+{\cs25\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs18\afs18\charscalex100\expndtw0\cf1\dn0 7}
+\par
+\pard\plain\wrapdefault\aspalpha\aspnum\faauto\adjustright\cgrid\fs2\afs2
+\sect
+\sectd\ltrsect\headery0\footery3\colsx720\sectlinegrid360\sftnbj\sftnrstcont
+\pard\plain\li740\sl-240\slmult0\pvpg\phpg\posx1837\posy2121\overlay\s30\aspalpha\aspnum\faauto\adjustright\cgrid\f0\b0\i0\ul0\strike0\scaps0
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'F1\'FA\'E3\'EB\'E0\'F1\'ED\'EE
+ \'F7\'EB. 7.2.}
+\par
+\pard\plain\tx677\li740\qj\fi-740\sa271\sl-278\slmult0\pvpg\phpg\posx1837\posy2642\absh-12016\absw8448\overlay\s30\f0
+{\listtext\pard\plain 8.4.\'09\tab}
+\ls27\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid\b0\i0\ul0\strike0\scaps0
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'D2\'F0\'E0\'ED\'F1\'EF\'EE\'F0\'F2\'ED\'E8
+\'F2\'E5 \'F0\'E0\'E7\'F5\'EE\'E4\'E8 \'E8 \'F0\'E0\'E7\'F5\'EE\'E4\'E8\'F2\'E5 \'E7\'E0 \'ED\'E0\'F2\'EE\'E2\'E0\'F0\'E2\'E0\'ED\'E5
+ \'ED\'E0 \'E4\'EE\'E3\'EE\'E2\'EE\'F0\'E5\'ED\'E8\'F2\'E5 \'EA\'EE\'EB\'E8\'F7\'E0\'F1\'F2\'E2\'E0 \'E2\'FA\'E3\'EB\'E8\'F9\'E0
+ \'EE\'F2 \'F0\'F3\'E4\'ED\'E8\'EA \'84\'C1\'E5\'EB\'E0 \'E2\'EE\'E4\'E0\'94 \'E4\'EE \'E3\'E0\'F0\'E0 \'84\'D0\'E0\'E7\'EF\'F0\'E5\'E4
+\'E5\'EB\'E8\'F2\'E5\'EB\'ED\'E0\'94- \'E3\'F0. \'CF\'E5\'F0\'ED\'E8\'EA \'F1\'E0 \'E7\'E0 \'F1\'EC\'E5\'F2\'EA\'E0 \'ED\'E0
+ \'CF\'F0\'EE\'E4\'E0\'E2\'E0\'F7\'E0, \'E0 \'EE\'F2 \'E3\'E0\'F0\'E0 \'84\'D0\'E0\'E7\'EF\'F0\'E5\'E4\'E5\'EB\'E8\'F2\'E5\'EB\'ED\'E0\'94
+- \'E3\'F0. \'CF\'E5\'F0\'ED\'E8\'EA \'E4\'EE \'D2\'C5\'D6 \'84\'C1\'EE\'E1\'EE\'E2 \'E4\'EE\'EB\'94 \'F1\'E0 \'E7\'E0 \'F1\'EC\'E5\'F2
+\'EA\'E0 \'ED\'E0 \'CA\'F3\'EF\'F3\'E2\'E0\'F7\'E0.}
+\par
+\pard\plain\tx438\li740\qj\fi-740\sa251\sl-240\slmult0\outlinelevel0\pvpg\phpg\posx1837\posy2642\absh-12016\absw8448\overlay\s28\f0
+{\listtext\pard\plain IX.\'09\tab}
+\ls1\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid\b\i0\ul0\strike0\scaps0
+{\*\bkmkstart bookmark9}
+{\cs16\lang1026\langfe1026\b\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'CD\'C5\'CF\'D0\'C5\'CE\'C4\'CE\'CB\'C8\'CC
+\'C0 \'D1\'C8\'CB\'C0}
+{\*\bkmkend bookmark9}
+\par
+\pard\plain\tx677\li740\qj\fi-740\sa240\sl-274\slmult0\pvpg\phpg\posx1837\posy2642\absh-12016\absw8448\overlay\s30\f0
+{\listtext\pard\plain 9.1.\'09\tab}
+\ls29\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid\b0\i0\ul0\strike0\scaps0
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'C2 \'F1\'EB\'F3\'F7\'E0\'E9,
+ \'F7\'E5 \'ED\'FF\'EA\'EE\'FF \'EE\'F2 \'F1\'F2\'F0\'E0\'ED\'E8\'F2\'E5 \'ED\'E5 \'EC\'EE\'E6\'E5 \'E4\'E0 \'E8\'E7\'EF\'FA\'EB\'ED\'E8
+ \'E7\'E0\'E4\'FA\'EB\'E6\'E5\'ED\'E8\'FF\'F2\'E0 \'F1\'E8 \'EF\'EE \'F2\'EE\'E7\'E8 \'E4\'EE\'E3\'EE\'E2\'EE\'F0 \'EF\'EE\'F0\'E0\'E4\'E8
+ \'ED\'E5\'EF\'F0\'E5\'E4\'E2\'E8\'E4\'E5\'ED\'EE \'E8\'EB\'E8 \'ED\'E5\'EF\'F0\'E5\'EE\'E4\'EE\'F2\'E2\'F0\'E0\'F2\'E8\'EC\'EE
+ \'F1\'FA\'E1\'E8\'F2\'E8\'E5 \'EE\'F2 \'E8\'E7\'E2\'FA\'ED\'F0\'E5\'E4\'E5\'ED \'F5\'E0\'F0\'E0\'EA\'F2\'E5\'F0 \'EA\'E0\'F2\'EE:
+ \'E2\'EE\'E9\'ED\'E8, \'E7\'E0\'EC\'F0\'FA\'E7\'E2\'E0\'ED\'E5, \'EF\'EE\'E6\'E0\'F0\'E8, \'ED\'E0\'E2\'EE\'E4\'ED\'E5\'ED\'E8\'FF,
+ \'F1\'E2\'EB\'E8\'F7\'E0\'ED\'E8\'FF \'ED\'E0 \'E7\'E5\'EC\'ED\'E8 \'EC\'E0\'F1\'E8, \'F1\'F2\'E8\'F5\'E8\'E9\'ED\'E8 \'E1\'E5\'E4\'F1
+\'F2\'E2\'E8\'FF, \'EE\'E1\'F9\'E0 \'EC\'E8\'ED\'FC\'EE\'F0\'F1\'EA\'E0 \'F1\'F2\'E0\'F7\'EA\'E0, \'EB\'EE\'EA\'E0\'F3\'F2,
+ \'EA\'E0\'EA\'F2\'EE \'E8 \'E0\'E2\'E0\'F0\'E8\'E9\'ED\'E8 \'F1\'E8\'F2\'F3\'E0\'F6\'E8\'E8 , \'E8\'E7\'E8\'F1\'EA\'E2\'E0\'F9\'E8
+ \'EF\'EE-\'EF\'F0\'EE\'E4\'FA\'EB\'E6\'E8\'F2\'E5\'EB\'ED\'EE \'E2\'F0\'E5\'EC\'E5 \'E7\'E0 \'F0\'E5\'EC\'EE\'ED\'F2 \'E8\'EB\'E8
+ \'E4\'F0\'F3\'E3\'E8 \'EE\'E1\'F1\'F2\'EE\'FF\'F2\'E5\'EB\'F1\'F2\'E2\'E0, \'ED\'E5\'E7\'E0\'E2\'E8\'F1\'E5\'F9\'E8 \'EE\'F2
+ \'F1\'F2\'F0\'E0\'ED\'E8\'F2\'E5, \'EA\'EE\'EB\'E8\'F7\'E5\'F1\'F2\'E2\'E0\'F2\'E0 \'E2\'FA\'E3\'EB\'E8\'F9\'E0 \'ED\'E5\'E4\'EE\'F1\'F2
+\'E0\'E2\'E5\'ED\'E8 \'E7\'E0 \'E2\'F0\'E5\'EC\'E5\'F2\'EE \'ED\'E0 \'ED\'E5\'EF\'F0\'E5\'E4\'EE\'EB\'E8\'EC\'E0 \'F1\'E8\'EB\'E0
+ \'F1\'E5 \'F0\'E0\'E7\'EF\'F0\'E5\'E4\'E5\'EB\'FF\'F2 \'E2 \'F1\'EB\'E5\'E4\'E2\'E0\'F9\'E8\'F2\'E5 \'EC\'E5\'F1\'E5\'F6\'E8
+ \'F1 \'E4\'EE\'EF\'FA\'EB\'ED\'E8\'F2\'E5\'EB\'ED\'EE \'F1\'EF\'EE\'F0\'E0\'E7\'F3\'EC\'E5\'ED\'E8\'E5, \'EF\'EE\'E4\'EF\'E8\'F1\'E0\'ED
+\'EE \'EC\'E5\'E6\'E4\'F3 \'F1\'F2\'F0\'E0\'ED\'E8\'F2\'E5.}
+\par
+\pard\plain\tx677\li740\qj\fi-740\sa236\sl-274\slmult0\pvpg\phpg\posx1837\posy2642\absh-12016\absw8448\overlay\s30\f0
+{\listtext\pard\plain 9.2.\'09\tab}
+\ls29\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid\b0\i0\ul0\strike0\scaps0
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'D1\'F2\'F0\'E0\'ED\'E0\'F2\'E0,
+ \'E7\'E0 \'EA\'EE\'FF\'F2\'EE \'E5 \'F1\'F2\'E0\'ED\'E0\'EB\'EE \'ED\'E5\'E2\'FA\'E7\'EC\'EE\'E6\'ED\'EE \'E8\'E7\'EF\'FA\'EB\'ED\'E5\'ED
+\'E8\'E5\'F2\'EE \'ED\'E0 \'E7\'E0\'E4\'FA\'EB\'E6\'E5\'ED\'E8\'FF\'F2\'E0 \'E9 \'EF\'EE \'E4\'EE\'E3\'EE\'E2\'EE\'F0\'E0,
+ \'F2\'F0\'FF\'E1\'E2\'E0 \'ED\'E5\'E7\'E0\'E1\'E0\'E2\'ED\'EE \'E4\'E0 \'F3\'E2\'E5\'E4\'EE\'EC\'E8 \'E4\'F0\'F3\'E3\'E0\'F2\'E0
+ \'F1\'F2\'F0\'E0\'ED\'E0 \'E2 \'EF\'E8\'F1\'EC\'E5\'ED\'E0 \'F4\'EE\'F0\'EC\'E0 \'E7\'E0 \'ED\'E0\'F1\'F2\'FA\'EF\'E2\'E0\'ED\'E5\'F2\'EE
+ \'E8 \'EF\'F0\'E5\'EA\'F0\'E0\'F2\'FF\'E2\'E0\'ED\'E5\'F2\'EE \'ED\'E0 \'F2\'E5\'E7\'E8 \'EE\'E1\'F1\'F2\'EE\'FF\'F2\'E5\'EB\'F1\'F2\'E2
+\'E0.}
+\par
+\pard\plain\tx677\li740\qj\fi-740\sa244\sl-278\slmult0\pvpg\phpg\posx1837\posy2642\absh-12016\absw8448\overlay\s30\f0
+{\listtext\pard\plain 9.3.\'09\tab}
+\ls29\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid\b0\i0\ul0\strike0\scaps0
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'C2 \'F1\'EB\'F3\'F7\'E0\'E9,
+ \'F7\'E5 \'EF\'EE\'F1\'EE\'F7\'E5\'ED\'E8\'F2\'E5 \'E2 \'F7\'EB. 9.1., \'EE\'E1\'F1\'F2\'EE\'FF\'F2\'E5\'EB\'F1\'F2\'E2\'E0
+ \'ED\'E0 \'ED\'E5\'EF\'F0\'E5\'EE\'E4\'EE\'EB\'E8\'EC\'E0 \'F1\'E8\'EB\'E0 \'EF\'F0\'EE\'E4\'FA\'EB\'E6\'E0\'F2 \'E4\'E0
+ \'E1\'FA\'E4\'E0\'F2 \'E2 \'F1\'E8\'EB\'E0 \'EF\'EE\'E2\'E5\'F7\'E5 \'EE\'F2 \'F8\'E5\'F1\'F2\'E4\'E5\'F1\'E5\'F2 (60) \'E4\'ED\'E8,
+ \'E2\'F1\'FF\'EA\'E0 \'EE\'F2 \'F1\'F2\'F0\'E0\'ED\'E8\'F2\'E5 \'EF\'EE \'F2\'EE\'E7\'E8 \'C4\'EE\'E3\'EE\'E2\'EE\'F0 \'E8\'EC\'E0
+ \'EF\'F0\'E0\'E2\'EE \'E4\'E0 \'EF\'F0\'E5\'EA\'F0\'E0\'F2\'E8 \'EF\'EE-\'ED\'E0\'F2\'E0\'F2\'FA\'F8\'ED\'EE\'F2\'EE \'E8\'E7\'EF\'FA\'EB
+\'ED\'E5\'ED\'E8\'E5 \'ED\'E0 \'E7\'E0\'E4\'FA\'EB\'E6\'E5\'ED\'E8\'FF\'F2\'E0 \'EF\'EE \'ED\'E5\'E3\'EE \'E8 \'E2 \'F2\'E0\'EA\'FA\'E2
+ \'F1\'EB\'F3\'F7\'E0\'E9 \'ED\'E8\'EA\'EE\'FF \'EE\'F2 \'F1\'F2\'F0\'E0\'ED\'E8\'F2\'E5 \'ED\'FF\'EC\'E0 \'E4\'E0 \'E8\'E7\'E8\'F1\'EA
+\'E2\'E0 \'EE\'F2 \'E4\'F0\'F3\'E3\'E0\'F2\'E0 \'F1\'F2\'F0\'E0\'ED\'E0 \'EA\'EE\'EC\'EF\'E5\'ED\'F1\'E0\'F6\'E8\'FF \'E7\'E0
+ \'E5\'E2\'E5\'ED\'F2\'F3\'E0\'EB\'ED\'E8\'F2\'E5 \'F9\'E5\'F2\'E8.}
+\par
+\pard\plain\tx677\li740\qj\fi-740\sa267\sl-274\slmult0\pvpg\phpg\posx1837\posy2642\absh-12016\absw8448\overlay\s30\f0
+{\listtext\pard\plain 9.4.\'09\tab}
+\ls29\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid\b0\i0\ul0\strike0\scaps0
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'CD\'E0\'F1\'F2\'FA\'EF\'E8\'EB\'E8\'F2\'E5
+ \'EE\'E1\'F1\'F2\'EE\'FF\'F2\'E5\'EB\'F1\'F2\'E2\'E0 \'EA\'E0\'F2\'E5\'E3\'EE\'F0\'E8\'E7\'E8\'F0\'E0\'ED\'E8 \'EA\'E0\'F2\'EE
+ \'ED\'E5\'EF\'F0\'E5\'EE\'E4\'EE\'EB\'E8\'EC\'E0 \'F1\'E8\'EB\'E0 \'F1\'E5 \'F3\'E4\'EE\'F1\'F2\'EE\'E2\'E5\'F0\'FF\'E2\'E0\'F2
+ \'E5 \'EF\'E8\'F1\'EC\'E5\'ED \'E4\'EE\'EA\'F3\'EC\'E5\'ED\'F2, \'E8\'E7\'E4\'E0\'E4\'E5\'ED \'EE\'F2 \'EA\'EE\'EC\'EF\'E5\'F2\'E5\'ED
+\'F2\'E5\'ED \'EE\'F0\'E3\'E0\'ED - \'C1\'D2\'CF\'CF, \'CE\'E1\'EB\'E0\'F1\'F2\'E5\'ED \'F1\'FA\'E2\'E5\'F2, \'CC\'C5 \'E8
+ \'E4\'F0.}
+\par
+\pard\plain\tx438\li740\qj\fi-740\sa262\sl-240\slmult0\outlinelevel0\pvpg\phpg\posx1837\posy2642\absh-12016\absw8448\overlay\s28\f0
+{\listtext\pard\plain X.\'09\tab}
+\ls1\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid\b\i0\ul0\strike0\scaps0
+{\*\bkmkstart bookmark10}
+{\cs16\lang1026\langfe1026\b\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'D1\'C0\'CD\'CA\'D6\'C8\'C8}
+{\*\bkmkend bookmark10}
+\par
+\pard\plain\tx677\li740\qj\fi-740\sa240\sl-278\slmult0\pvpg\phpg\posx1837\posy2642\absh-12016\absw8448\overlay\s30\f0
+{\listtext\pard\plain 10.1.\'09\tab}
+\ls31\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid\b0\i0\ul0\strike0\scaps0
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'C7\'E0 \'ED\'E5\'E8\'E7\'EF\'FA\'EB\'ED
+\'E5\'ED\'E8\'E5 \'F9\'E5 \'F1\'E5 \'F1\'F7\'E8\'F2\'E0 \'E2\'F1\'FF\'EA\'EE \'EF\'FA\'EB\'ED\'EE \'E8\'EB\'E8 \'F7\'E0\'F1\'F2\'E8\'F7
+\'ED\'EE \'ED\'E5\'E8\'E7\'EF\'FA\'EB\'ED\'E5\'ED\'E8\'E5 \'E8\'EB\'E8 \'ED\'E5\'F2\'EE\'F7\'ED\'EE (\'E7\'E0\'E1\'E0\'E2\'E5\'ED\'EE
+ \'E8\'EB\'E8 \'F7\'E0\'F1\'F2\'E8\'F7\'ED\'EE) \'E8\'E7\'EF\'FA\'EB\'ED\'E5\'ED\'E8\'E5 \'ED\'E0 \'EF\'EE\'E5\'F2\'E8\'F2\'E5
+ \'E7\'E0\'E4\'FA\'EB\'E6\'E5\'ED\'E8\'FF \'EF\'EE \'C4\'EE\'E3\'EE\'E2\'EE\'F0\'E0 , \'F1 \'E8\'E7\'EA\'EB\'FE\'F7\'E5\'ED\'E8\'E5
+ \'ED\'E0 \'F1\'EB\'F3\'F7\'E0\'E8\'F2\'E5 \'E2 \'F0\'E0\'E7\'E4\'E5\'EB }
+{\cs19\lang1026\langfe1026\b\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 IX.}
+\par
+\pard\plain\tx677\li740\qj\fi-740\sa271\sl-278\slmult0\pvpg\phpg\posx1837\posy2642\absh-12016\absw8448\overlay\s30\f0
+{\listtext\pard\plain 10.2.\'09\tab}
+\ls31\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid\b0\i0\ul0\strike0\scaps0
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'C7\'E0 \'E4\'EE\'EF\'F3\'F1\'ED\'E0\'F2
+\'EE \'E7\'E0\'EA\'FA\'F1\'ED\'E5\'ED\'E8\'E5 \'ED\'E0 \'EF\'EB\'E0\'F9\'E0\'ED\'E8\'FF\'F2\'E0 \'E7\'E0 \'E4\'EE\'F1\'F2\'E0\'E2\'E5\'ED
+\'E8 \'E2\'FA\'E3\'EB\'E8\'F9\'E0 \'F1\'EB\'E5\'E4 \'F1\'F0\'EE\'EA\'EE\'E2\'E5\'F2\'E5 \'EF\'EE \'F7\'EB. 8.2. \'CA\'F3\'EF\'F3\'E2\'E0
+\'F7\'FA\'F2 \'E4\'FA\'EB\'E6\'E8 \'ED\'E5\'F3\'F1\'F2\'EE\'E9\'EA\'E0 \'E2 \'F0\'E0\'E7\'EC\'E5\'F0 \'ED\'E0 \'E7\'E0\'EA\'EE\'ED\'ED\'E0
+\'F2\'E0 \'EB\'E8\'F5\'E2\'E0 \'E7\'E0 \'EF\'F0\'EE\'F1\'F0\'EE\'F7\'E8\'E5\'F2\'EE.}
+\par
+\pard\plain\tx677\li740\qj\fi-740\sl-240\slmult0\pvpg\phpg\posx1837\posy2642\absh-12016\absw8448\overlay\s30\f0
+{\listtext\pard\plain 10.3.\'09\tab}
+\ls31\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid\b0\i0\ul0\strike0\scaps0
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'D2\'C5\'D6 \'93 \'C1\'EE\'E1\'EE\'E2
+ \'E4\'EE\'EB\'94 \'C5\'C0\'C4 \'ED\'E5 \'E4\'FA\'EB\'E6\'E8 \'ED\'E5\'F3\'F1\'F2\'EE\'E9\'EA\'E8 \'EF\'EE \'ED\'E0\'F1\'F2\'EE\'FF\'F9
+\'E8\'FF \'E4\'EE\'E3\'EE\'E2\'EE\'F0 \'EF\'F0\'E8}
+\par
+\pard\plain\li740\sl-240\slmult0\pvpg\phpg\posx1837\posy2642\absh-12016\absw8448\overlay\s30\aspalpha\aspnum\faauto\adjustright\cgrid\f0
+\b0\i0\ul0\strike0\scaps0
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'EF\'F0\'E5\'E4\'F1\'F2\'F0\'EE\'F7\'ED\'EE
+ \'EF\'F0\'E5\'EA\'F0\'E0\'F2\'FF\'E2\'E0\'ED\'E5 \'ED\'E0 \'E4\'EE\'E3\'EE\'E2\'EE\'F0\'E0, \'E0\'EA\'EE \'F2\'EE\'E2\'E0
+ \'F1\'E5 \'E4\'FA\'EB\'E6\'E8 \'ED\'E0}
+\par
+\pard\plain\sl-200\slmult0\pvpg\phpg\posx10093\posy15152\overlay\s31\aspalpha\aspnum\faauto\adjustright\cgrid\f0\b0\i0\ul0\strike0\scaps0
+\fs20\afs20
+{\cs23\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs20\afs20\charscalex100\expndtw0\cf1\dn0 8}
+\par
+\pard\plain\wrapdefault\aspalpha\aspnum\faauto\adjustright\cgrid\fs2\afs2
+\sect
+\sectd\ltrsect\headery0\footery3\colsx720\sectlinegrid360\sftnbj\sftnrstcont
+\pard\plain\li720\qj\sl-288\slmult0\pvpg\phpg\posx1845\posy2078\absh-633\absw8434\overlay\s30\aspalpha\aspnum\faauto\adjustright\cgrid\f0
+\b0\i0\ul0\strike0\scaps0
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'EE\'E1\'F1\'F2\'EE\'FF\'F2\'E5\'EB\'F1\'F2
+\'E2\'E0 \'E2 \'E5\'ED\'E5\'F0\'E3\'E8\'E9\'ED\'E0\'F2\'E0 \'F1\'E8\'F1\'F2\'E5\'EC\'E0, \'E2\'EE\'E4\'E5\'F9\'E8 \'E4\'EE
+ \'ED\'E0\'EC\'E0\'EB\'E5\'ED\'E8\'E5 \'ED\'E0 \'EF\'EE\'F2\'F0\'E5\'E1\'ED\'EE\'F1\'F2\'E8\'F2\'E5 \'EE\'F2 \'E5\'EB. \'E5\'ED\'E5\'F0
+\'E3\'E8\'FF.}
+\par
+\pard\plain\tx484\li720\qj\fi-720\sl-240\slmult0\outlinelevel0\pvpg\phpg\posx1845\posy3254\overlay\s28\f0
+{\listtext\pard\plain XI.\'09\tab}
+\ls1\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid\b\i0\ul0\strike0\scaps0
+{\*\bkmkstart bookmark11}
+{\cs16\lang1026\langfe1026\b\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'C4\'D0\'D3\'C3\'C8 \'D0\'C0\'C7\'CF\'CE\'D0
+\'C5\'C4\'C1\'C8}
+{\*\bkmkend bookmark11}
+\par
+\pard\plain\tx676\li720\qj\fi-720\sa236\sl-274\slmult0\pvpg\phpg\posx1845\posy3773\absh-4782\absw8434\overlay\s30\f0
+{\listtext\pard\plain 12.1.\'09\tab}
+\ls33\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid\b0\i0\ul0\strike0\scaps0
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'D1\'EF\'EE\'F0\'EE\'E2\'E5\'F2\'E5,
+ \'E2\'FA\'E7\'ED\'E8\'EA\'ED\'E0\'EB\'E8 \'EE\'F2\'ED\'EE\'F1\'ED\'EE \'F2\'FA\'EB\'EA\'F3\'E2\'E0\'ED\'E5\'F2\'EE \'E8
+ \'E8\'E7\'EF\'FA\'EB\'ED\'E5\'ED\'E8\'E5\'F2\'EE \'ED\'E0 \'F2\'EE\'E7\'E8 \'C4\'EE\'E3\'EE\'E2\'EE\'F0, \'F1\'E5 \'F3\'F0\'E5\'E6\'E4
+\'E0\'F2 \'F7\'F0\'E5\'E7 \'EF\'F0\'E5\'E3\'EE\'E2\'EE\'F0\'E8 \'ED\'E0 \'EE\'F1\'ED\'EE\'E2\'E0\'F2\'E0 \'ED\'E0 \'E4\'EE\'E1\'F0\'E0
+ \'E2\'EE\'EB\'FF, \'EA\'EE\'F0\'E5\'EA\'F2\'ED\'EE\'F1\'F2 \'E8 \'E2\'E7\'E0\'E8\'EC\'E5\'ED \'E8\'ED\'F2\'E5\'F0\'E5\'F1.
+ \'CF\'F0\'E8 \'ED\'E5\'E2\'FA\'E7\'EC\'EE\'E6\'ED\'EE\'F1\'F2 \'E7\'E0 \'EF\'EE\'F1\'F2\'E8\'E3\'E0\'ED\'E5 \'ED\'E0 \'F1\'EF\'EE\'F0\'E0
+\'E7\'F3\'EC\'E5\'ED\'E8\'E5, \'F1\'EF\'EE\'F0\'FA\'F2 \'F1\'E5 \'EE\'F2\'ED\'E0\'F1\'FF \'E4\'EE \'EA\'EE\'EC\'EF\'E5\'F2\'E5\'ED\'F2\'ED
+\'E8\'FF \'F1\'FA\'E4.}
+\par
+\pard\plain\tx676\li720\qj\fi-720\sl-278\slmult0\pvpg\phpg\posx1845\posy3773\absh-4782\absw8434\overlay\s30\f0
+{\listtext\pard\plain 12.2.\'09\tab}
+\ls33\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid\b0\i0\ul0\strike0\scaps0
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'D2\'EE\'E7\'E8 \'C4\'EE\'E3\'EE\'E2\'EE
+\'F0 \'EC\'EE\'E6\'E5 \'E4\'E0 \'E1\'FA\'E4\'E5 \'E8\'E7\'EC\'E5\'ED\'FF\'ED, \'EF\'F0\'E5\'EA\'F0\'E0\'F2\'FF\'E2\'E0\'ED
+ \'E8\'EB\'E8 \'E4\'EE\'EF\'FA\'EB\'E2\'E0\'ED \'F1 \'E0\'ED\'E5\'EA\'F1 \'E2 \'F1\'EB\'E5\'E4\'ED\'E8\'F2\'E5 \'F1\'EB\'F3\'F7\'E0\'E8
+:}
+\par
+\pard\plain\tx1130\li720\qj\sl-278\slmult0\pvpg\phpg\posx1845\posy3773\absh-4782\absw8434\overlay\s30\f0
+{\listtext\pard\plain 1.\'09\tab}
+\ls35\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid\b0\i0\ul0\strike0\scaps0
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'EF\'EE \'E2\'E7\'E0\'E8\'EC\'ED\'EE
+ \'F1\'FA\'E3\'EB\'E0\'F1\'E8\'E5 \'ED\'E0 \'F1\'F2\'F0\'E0\'ED\'E8\'F2\'E5, \'E8\'E7\'F0\'E0\'E7\'E5\'ED\'EE \'E2 \'EF\'E8\'F1\'EC\'E5
+\'ED\'E0 \'F4\'EE\'F0\'EC\'E0;}
+\par
+\pard\plain\tx1130\li720\qj\sl-278\slmult0\pvpg\phpg\posx1845\posy3773\absh-4782\absw8434\overlay\s30\f0
+{\listtext\pard\plain 2.\'09\tab}
+\ls35\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid\b0\i0\ul0\strike0\scaps0
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'EF\'F0\'E8 \'ED\'E0\'F1\'F2\'FA\'EF\'E2
+\'E0\'ED\'E5 \'ED\'E0 \'F1\'FA\'E1\'E8\'F2\'E8\'FF \'EF\'EE \'F3\'F1\'EB\'EE\'E2\'E8\'FF\'F2\'E0 \'ED\'E0 \'F0\'E0\'E7\'E4\'E5\'EB
+ IX \'EE\'F2 \'C4\'EE\'E3\'EE\'E2\'EE\'F0\'E0;}
+\par
+\pard\plain\tx1130\li720\qj\sa240\sl-278\slmult0\pvpg\phpg\posx1845\posy3773\absh-4782\absw8434\overlay\s30\f0
+{\listtext\pard\plain 3.\'09\tab}
+\ls35\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid\b0\i0\ul0\strike0\scaps0
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'EF\'F0\'E8 \'EF\'F0\'EE\'EC\'FF\'ED\'E0
+ \'E2 \'ED\'EE\'F0\'EC\'E0\'F2\'E8\'E2\'ED\'E0\'F2\'E0 \'F3\'F0\'E5\'E4\'E1\'E0.}
+\par
+\pard\plain\tx676\li720\qj\fi-720\sa540\sl-278\slmult0\pvpg\phpg\posx1845\posy3773\absh-4782\absw8434\overlay\s30\f0
+{\listtext\pard\plain 12.3.\'09\tab}
+\ls33\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid\b0\i0\ul0\strike0\scaps0
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'C4\'EE\'E3\'EE\'E2\'EE\'F0\'FA\'F2
+ \'F1\'E5 \'F1\'EA\'EB\'FE\'F7\'E2\'E0 \'E7\'E0 \'F1\'F0\'EE\'EA \'EE\'F2 3 (\'F2\'F0\'E8) \'EC\'E5\'F1\'E5\'F6\'E0 \'E8
+ \'E2\'EB\'E8\'E7\'E0 \'E2 \'F1\'E8\'EB\'E0 \'EE\'F2 \'E4\'E0\'F2\'E0\'F2\'E0 \'ED\'E0 \'EF\'EE\'E4\'EF\'E8\'F1\'E2\'E0\'ED\'E5\'F2\'EE
+ \'EC\'F3.}
+\par
+\pard\plain\tx676\li720\qj\fi-720\sl-278\slmult0\pvpg\phpg\posx1845\posy3773\absh-4782\absw8434\overlay\s30\f0
+{\listtext\pard\plain 12.4.\'09\tab}
+\ls33\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid\b0\i0\ul0\strike0\scaps0
+{\cs18\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'D2\'EE\'E7\'E8 \'C4\'EE\'E3\'EE\'E2\'EE
+\'F0 \'E5 \'F1\'FA\'F1\'F2\'E0\'E2\'E5\'ED \'E2 \'E4\'E2\'E0 \'E5\'E4\'ED\'E0\'EA\'E2\'E8 \'E5\'EA\'E7\'E5\'EC\'EF\'EB\'FF\'F0\'E0,
+ \'ED\'E0 \'E1\'FA\'EB\'E3\'E0\'F0\'F1\'EA\'E8 \'E5\'E7\'E8\'EA, \'EF\'EE \'E5\'E4\'E8\'ED \'E7\'E0 \'E2\'F1\'FF\'EA\'E0
+ \'EE\'F2 \'F1\'F2\'F0\'E0\'ED\'E8\'F2\'E5.}
+\par
+\pard\plain\sl-240\slmult0\pvpg\phpg\posx1811\posy11150\overlay\s33\aspalpha\aspnum\faauto\adjustright\cgrid\f0\b\i0\ul0\strike0\scaps0
+{\cs26\lang1026\langfe1026\b\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'D1\'F2\'E0\'ED\'E8\'F1\'EB\'E0}
+\par
+\pard\plain\sl-240\slmult0\pvpg\phpg\posx1811\posy11418\overlay\s34\aspalpha\aspnum\faauto\adjustright\cgrid\f0\b\i0\ul0\strike0\scaps0
+{\cs27\lang1026\langfe1026\b\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'D3\'EF\'F0\'E0\'E2\'E8\'F2\'E5..}
+\par
+\pard\plain\sl-240\slmult0\outlinelevel0\pvpg\phpg\posx1816\posy10756\overlay\s28\aspalpha\aspnum\faauto\adjustright\cgrid\f0\b\i0\ul0\strike0
+\scaps0
+{\*\bkmkstart bookmark12}
+{\cs16\lang1026\langfe1026\b\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'CA\'D3\'CF\'D3\'C2\'C0}
+{\*\bkmkend bookmark12}
+\par
+\pard\plain\pvpg\phpg\posx2896\posy10070\overlay\aspalpha\aspnum\faauto\adjustright\cgrid\fs0\afs0
+{
+{\pict\pngblip\picwgoal1987\pichgoal1546
+89504E470D0A1A0A0000000D49484452000000CF000000A101000000004804D6D80000000970485973000017120000171201679FD2520000082E4944415458857DD7CD8F
+DC481500700F1DE19548E2A01CD848ADF6C21EB8444AA245A457E9741D90E082B4FC071B84C81C4062420E99219DA9694D340D028D575C588921E6C83D27A4CD768F1A61
+0E4BBC1C5144DA8EA378D1AED4F63AA4CBB8ECC77B65BB3F6676B0349D4EFFBACA55AF5EBD726B70FC1A96FF68C7A5E0FF8FF8099457EDBE803290275102C549F70A4F26
+17FE73124D607A120DB1DD31BA8A7F53605F446ACC3829FB840E7178E671521D49C02E57A930849180CDD23ABE0B92BAA635E0C930A376475AC16CB4068227901E251C77
+F1355BF21092E12A65348A3049F135397A2FC0E94CE46DFAC2B10E331B43D1C0101E276136DE855D6CEBAE12DEB9D8D6398C3014BF3FD22A01B9DDE2F03EE7F0BB159AE1
+6464D1E4C0B633B804EA76CBF782D7F984C9B460653497E8F3BBAF71C153295919FB9A12EA448308F1030ED4704E18EDC77903FCC92B2EA04C44AD0C03ADB08D347642F3
+1F0097E723C4EF14DFE01FFEB30183D0B5C750FC78854CCE9E34409FBA7600F21DFC305744D96A3EE8E93A9C9ADAC92188F3F8414C942B3A90378D620D86E257E0ADE307
+7DA2580DE50F45D3282E009326FCED67D8D379A2D98CE8023C30E4B582172DFE2D0C469E94F3C276AD6BD065E26E8103625B349B90E829C71CBA7F077A3CE248C6A387B8
+44A1A20EC7D90F66450FE39483741EE2BA81E522E147482CFC6F0A9F6D6F81085E9C45E24452408A9DBB710AB997C1613C6A527A4F900426E5842886EC6502BBE28DEB80
+2B6B23C5619E3938FA9D355C9A19E862638B969D21258EE048EF699A3E6361AACB1B89DA8148A1F5090F30D078DDE4D3C4101A66C6A4E048AE59D084347D674787BF67C6
+AB53066E31498B62B1820978D9D0ADDFAEC1E443737AD6C4B5C8891EF0C28CE139335A5CE3073DB365980829D10187FE0CEE17C601FC897F20BB4D9DE1BE4988DA80E95C
+9C92171FC1457328BAAF7FCFC4EC7290E426913C23DF6670496751AFFDCCC014B5886E0144202EA4C08A77021E6DF423176B804D1453C4BC2479755B1A9F70CFDF8D1CCC
+4A86940614B1C32479B12E0DC14763270D24A5AC06B14369DD0893EF3BC294ECCF8E1B27AA906A18420C666184CFFE050273E68E358CE2906A0792852B22CD69900E239E
+5AAFCCDB2FB75CAA1D1A46179B09EE8E331641EABE60DECD4D9B1209C9B469DB4DF63EE73EA4E1F36D6FBDC3685B6AE09843CAB689F373A43CF6A43FED70AAB1480CC907
+7BEF250490467E164FDF57855483C70CB7A003C3333E8C2195B767727D878281B4CF70E506D07DD7C77A9277D7B1FAED31AA9648DBB49CD0C524D071A6E644AC1B26554B
+0D0EB6FF4885B8074EF14DDA1643B9A19B85DA9507BDE827052BEE4D5D893DD39ADF73EC5C5147160DDC3A5B5337233A4D9BC44E15B525EC62A4B389FD820AC977142544
+059223A04886F63E15121DFF0257D5282C3B7C16411183DD216A287214DDC50E628C10EC5171828754951C4B11A606C6290FA0AFCA4FA248952F49EF03C8C760C96A5B43
+F25755A364565379D1B0B38AA89503F980AA04D517624FD528119444D3356AF297490589CA05DD90F20F29A2D9B998378B9A09A2A4FE882B62A56444528D493B3C045AAE
+F26CC77A46CB21E624B95D1F67B3F3AAC3DD39996645A1D415BD3927DCA1D54927AF525654343E4C0B5E1187A77714FDA8A2187345852E9F61FD239215F523898701862B
+7F04F0993A946539AFC37E2CBB34DFF41EBEFC5B9148147978E07669BE1EBE147E46278D50855AF3FB20B689C221CE76AA282A29E84379F0D0F14B1B04E9F90A196AB186
+257DE4579409D1FEB8B9F96DC64CCBFAB5A307C9C817022B5BD88FA2A8FD838BEDCBCD9669E8FAB831F677BC486C726C45A45D6CB791CEE806D11B15EDDC4A457BF4D3F6
+2FBAA6F915DB721A41B2E10B891D06B61A0616FBEAC23AD92BA34184118804548F3DB840AB44A19954AD6415C3C485F218CEDDBAC37485F2F96326F650535CB54AAA94A2
+055A26BB4E00D52A3C81B0952B96C85A34C28C9A2CB77261996CE19444396F2D880EC074899C258239A5470803C6E392C411C2073D58A6704158274045A8DACB4B94C0A7
+105865AB04AA0784F20AC0AB091FE05628440AED05A54B548C6B2A6EAD925B04A0EA10D25639CF39E161B64CF56F02A0A57B8FD7F4F651BA3A7CCC4AEA40D1A81E82E94E
+0CEEC08392A0294CBD7A74C64DA699482D5E518FE9F355F154D56956F480A88EAF27883A15EDF7BA060435A96DDBAEC8EA20F9358D90645BBDD7768CCE7543DB68788751
+AF01DE2FD960A46D082AE9DA9E7E70DDD86BDFF2C741EB1C781F75DFF247373AF480A80DF4836BC65EF3B21F38AD3678079D5BFEE1A8D956AD1ABF79CB1828DA6F73AFD3
+D9F00F774BBAFFE65FAE1AA7BA9A3F1EEC5F06AFD7DEF0C7BBCD2B6A185746970C8DEF788DC1E9359C3291DED454875FF50CE34B26B53A7DAE22A34933D306AF45E697F5
+D3977F88D4E17DA2DD9A4E474C43FAFAD8415A139D45ABBDE62633B0F3B5B1D36CF7D6221CFCEED98E22ADBBD9D5B4CE396DFCAC73EEC668B37B65A47DB7B7A662587458
+7C0DB646B42EBB053306B259D6101C658BA543ACF016FDC0A1352D36794D96A9767F52D7457A7AAAC82997B82A01D3AABC2A0AABED7ABD4AAB684181DA27CA318B531E04
+738A8339E11A0B3370E694AA0ED4FF9FB23CADEF4D24847A47776AE1D86160CE496ED3A754ACA14B27E6704160B22A9F605B87C5A5A8FC5A8653D631FBF325B2AAFB6605
+C3204AB1448EA3E234C90B365EDA4E44E344FDB2705245B365F245BD65D952D95124EA43F908453431461DD229B442898E3F242CDCF654E62D7799327CD0B0D5979176CC
+A3348BABAAF23187D92A658257BFC7E168ABE5BA7184F2B26ED06A67C7683EE864899E0CEA06EA5A8C02FE07DAEE83A3FFA6B50F0000000049454E44AE426082
+}
+}
+\par
+\pard\plain\pvpg\phpg\posx6275\posy10132\overlay\aspalpha\aspnum\faauto\adjustright\cgrid\fs0\afs0
+{
+{\pict\pngblip\picwgoal4157\pichgoal1574
+89504E470D0A1A0A0000000D49484452000001B1000000A4010000000031C72D800000000970485973000017120000171201679FD252000007C5494441546881D5D9CF6F
+EB481D00706753E105854E57201124ABC39F90BDF9896C8D7887BDF20770E863FF00F2E01244D44995525FDEE295387041EADFC0896393B5F4FC0E4F9B2B8715F53C2322
+24A48E8944A7D49D6166ECC4E32476FC8CA8C4AC143FBBFE78C6DFF9ED3578A3848C668E3773ACA17B7C62F7F0C46EF9C4EEAEA15B3474B70DDDBCA1BB69E8AE1ABAEB86
+CEF9DF3A8A8AE70CD57321ACE3C8D69529D8703BC789B0BD79656C16CF93DDEE4768D37D563C7FDCE962B2F1787E1E14CFEF773ACA0CA778056CB8879D2E41D356B1A460
+232ECB9D8E2166B4E4719D6B6723FFDD4EB4066218C62F47079DD9173D282E18C5EC45B7DDE93CAEE02A21D6E2B59C8A82068DCDF8DEEE76383BBAF2E7716A6C865774F7
+9D6ED5D0FCF4F09007A8DA254EC1F12D77B5DBB1ACBA22D1E6D07B383E593B03EE724E890BD343CC19947D83A19A2EEBDFB17853BCC3B132C760E6A87A44B2E950D9FCEE
+A6D98AFF646CEBBB59E662CEE1B613DDBDC41194FE3D568DB5BE4BA0FA45916AACC9C65F69A94B5F50B9E8BD9C6A62CC896450B7DC7DB923A95BA89B365D5CEE54D3562E
+D976CB7297D6BC13A8CA7A0F970606CA9EEFA838D475AACF7B0BF993E717ED77AA692B17E4F53E4E0F8B0AA7FADC3C5077AD5D361E56392EFB7C10A852AD1CCBC6DFA0CA
+B92B17E7EE04AAE3BCCAC9C02CA4A36B97206FBF232B97AC1D45E9BCE4553919D048DEC7D0AA1E685611954E0674A99CB372B16A996A18AC584F88802E65C4B9D359BB74
+24772A9D0868ACCA65ADEE89B281AEDA892E78AFDC78754FB0EA26958EACDC54968E025902D54DF63851A6D44D64E9485BC511EC77A24C54B9B674182B24AB400DDF15EB
+33903AD6A622039FA842AA86B0C7B93C913D2D794605702992E58B6AB82875744845958004CAFB65AB55CDA0C2119EC8F641127ACE4596A67C4D5AC35194BC1407CC86D3
+AE581A9C4FB332EE73A264BF12079FD9D430B2E5A57CC77D8E0336E4323C36970B1FAAEA0EA665AD74011B49CDFF909E22F5AC7498AF7498F591CCE19576CD5DB9B1D133
+98C1C7A2F4D336BFA19D7CCD48A413CDE6ADE6FC95F3C9C84E46CEC264283CE7F3E43877F4ECC49153E8542F433AADA46E7806174038CC3DDD314738BC5E96A814EB6EC0
+E02D489C30E4AEEE3874A05C03E98EA6C3BC74893DE0207366C179D093014C67FB34898ACFDDA97474E5BCF54D01F4292C3A51F191E6CC5BF06F1862D6162ECFF0EF3094
+5382BE3D12D5B276BD2937E7E09F300C985F700920B27E0BDB2A903B53B93B10B693596269E54C40D2E61BEB1737774E28DD0284B347CC0C2D2E09904BE9A2F3D534A63B
+330CEF437EA8B96C015B7051B66C4F1DB801531387D4582F7655F25631CC53AC39C2849BBB387C204537DF76B4E0E035B8F1717827461FE079DEDC8FA2F83EA649929C9D
+A133E85CAB4D8372E964664C84A323C701D73EC6CA01D375FDC80F09A1C3E1A8DF3F3901503C2C08826819DFD367A96B8543C86C669B7086FD1985CCF45CD7C51813E5FA
+7DEBF8503CCA7427137F26AFF65297063731677C3C05BE1AA6E7F2C9511C534A47A39393136842CF7303DF574F3BD29C0875CCCB9308D58D08D122120525E3824B7B7149
+FABD7E12E8EEB1D29D17DCBCE01EEBBA4877D5491F6078DCD011AF99A3F59D3E30C9CE55D761FDE43D5CA14DB0FAAE98FE5F9CF9C4AEFDC4EEA386EEFB0D5DB7A1B39A3A
+D4CC1D6FBBA4CE638E9D2D17E65FAECEB9FE9930FB6251E6C8D9DA4DB9FE358A9CE6FF863B1CCA1DD31DD6F6B81056BA33DDF9DA9E1A5EED70ABB992BF19E9CED55DBE1F
+63079DEEC7B3B970D4F95D08C6BD1FA0379F9884F67896BFC9763A7E68D903DF152E861F87E6E48B017FF3CC7C3B3AEA8377E63931E55E62D80E0FBE09418BC379C1FDC2
+FF54B8E8B776E84FFE3CE06F7F68BEEADBC3E00E74C973E1DED91F857FB3FA9F5E3850DB17772CFBD7CF7F2EDD2B1B47137ACADF7EC77C250A11DD1D5A032CC63EBFDB0B
+FF65D99F5DC20D879E23E1A69DE10BEC0AF755EAF0DD617F1009177C383C65961D09A7EDDFBF6519C890CEA7CAFD847F659AC4324EF15DC71E04C2BDEE0AD7B5F1A503A3
+DC7DC3B2478693BB1E9F9BE65F2DFB54E667B7C5FB4DFBC3013BB25B63C75B16E232FA31145B1B9C0C5F468170B7A6FB5A967329FEF452ACE67CB1BC65DFB5D105F4E282
+1BFEEC1811142636C13E1DF05BCFBD94EE4FB28A56EEC0462EF0EE75D7B55F742041E4D02651E62EC4C3A2EF016B38E0FEE3EC6B9BB08EFD8970B4E8F005240E812D62FA
+B487821B77DCB1870B135883171CDF87967056BF5D744CB49DFB4B276DA4E9CA91B578BF7B023C7326DA0B3549BF15B2CEB1790975A7A770FB927CB2DCAD26FC6A8CBC92
+EF75BBDDFAEBADD89BA027754199433B1D5DBBF2EF9F95A9B9739ED4454FEDF2EFDEAC5D52697B1C37AB96E51B69A939F7A1BE8B3537593673FE5D7D4735375B4C11E777
+89638A89C8D9E7E0DAE1DBD9C440ED19F8E0A06D5F8D9D70A66FA2CB5D78E3BBC6C94BECBADFF6FFE87DED10FC1A96B904E5E524C2C9892070811FBBD25DD67214FAAE18
+B8B07B097C2C5C58911FD39D231C08437001FCD0942E29774EEE1224DD18BBBF11F971E15AA4D4F12D7784FD49E666EFCADD75EEFEC2E5FBF5B0F8CD5CF9FB713777AFB8
+8C67EAC83F7E2A5C793CF965EE3E97AE6B88FA13EE434BB8712D77CECFDB46FF680A3F00136AD9C27D094ADD974EA1BF83ADFF9F5592A61BAE9E4A07E6268E367432FDF7
+AEB0DEDC9BFE0302C3C3F0B999E3890000000049454E44AE426082
+}
+}
+\par
+\pard\plain\sl-240\slmult0\outlinelevel0\pvpg\phpg\posx1821\posy11577\overlay\s28\aspalpha\aspnum\faauto\adjustright\cgrid\f0\b\i0\ul0\strike0
+\scaps0
+{\*\bkmkstart bookmark13}
+{\cs16\lang1026\langfe1026\b\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 "\'D2\'C8\'C1\'C8\'C5\'CB"\'C5\'CE\'CE\'C4}
+{\*\bkmkend bookmark13}
+\par
+\pard\plain\sl-240\slmult0\pvpg\phpg\posx6808\posy11711\overlay\s33\aspalpha\aspnum\faauto\adjustright\cgrid\f0\b\i0\ul0\strike0\scaps0
+{\cs26\lang1026\langfe1026\b\i0\ul0\strike0\scaps0\fs24\afs24\charscalex100\expndtw0\cf1\dn0 \'C2\'FA\'E3\'EB\'E8\'F9\'E0
+ \'EF\'E5\'F0\'ED\'E8\'EA\'94 \'CE\'CE\'C4}
+\par
+\pard\plain\sl-180\slmult0\pvpg\phpg\posx10057\posy15182\overlay\s32\aspalpha\aspnum\faauto\adjustright\cgrid\f0\b0\i0\ul0\strike0\scaps0
+\fs18\afs18
+{\cs25\lang1026\langfe1026\b0\i0\ul0\strike0\scaps0\fs18\afs18\charscalex100\expndtw0\cf1\dn0 9}
+\par
+\pard\plain\wrapdefault\aspalpha\aspnum\faauto\adjustright\cgrid\fs2\afs2
+\par
+}

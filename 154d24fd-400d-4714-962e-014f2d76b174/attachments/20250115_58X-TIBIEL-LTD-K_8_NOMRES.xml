@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NominationResponse_Document Version="EGAS51" Release="2">
+  <Identification v="NOMRES20250115A008"/>
+  <Version v="8"/>
+  <Type v="08G"/>
+  <CreationDateTime v="2025-01-15T23:04:01+02:00" />
+  <ValidityPeriod v="2025-01-15T07:00:00+02:00/2025-01-16T07:00:00+02:00" />
+  <ContractReference v="58X-TIBIEL-LTD-K" />
+  <ContractType v="CT"/>
+  <issuer_MarketParticipant.identification v="21X-BG-A-A0A0A-C" codingScheme="305" />
+  <issuer_MarketParticipant.marketRole.code v="ZSO"/>
+  <recipient_MarketParticipant.identification v="58X-TIBIEL-LTD-K" codingScheme="305" />
+  <recipient_MarketParticipant.marketRole.code v="ZSH" />
+  <nomination_Document.identification v="NOMINT20250115A005" />
+  <nomination_Document.version v="5"/>
+
+  <ConnectionPoint>
+    <identification v="21Z000000000020C" codingScheme="ZSO" />
+    <measureUnit.code v="KW2" />
+    <NominationType>
+      <type v="A02" />
+      <Account>
+        <internalAccount v="58X-TIBIEL-LTD-K" codingScheme="305" />
+        <externalAccount v="58X-TIBIEL-LTD-K" codingScheme="305" />
+        <InformationOrigin_TimeSeries>
+          <type v="14G" />
+          <Period>
+            <timeInterval v="2025-01-15T07:00:00+02:00/2025-01-16T07:00:00+02:00" />
+            <direction.code v="Z03" />
+            <quantity.amount v="1000000" />
+          </Period>
+        </InformationOrigin_TimeSeries>
+      </Account>
+    </NominationType>
+  </ConnectionPoint>
+  <ConnectionPoint>
+    <identification v="58ZC025P01RUSE-E" codingScheme="ZSO" />
+    <measureUnit.code v="KW2" />
+    <NominationType>
+      <type v="A01" />
+      <Account>
+        <internalAccount v="58X-TIBIEL-LTD-K" codingScheme="305" />
+        <InformationOrigin_TimeSeries>
+          <type v="16G" />
+          <Period>
+            <timeInterval v="2025-01-15T07:00:00+02:00/2025-01-16T07:00:00+02:00" />
+            <direction.code v="Z03" />
+            <quantity.amount v="80000" />
+          </Period>
+        </InformationOrigin_TimeSeries>
+      </Account>
+    </NominationType>
+  </ConnectionPoint>
+  <ConnectionPoint>
+    <identification v="58ZC033P01IVAN-6" codingScheme="ZSO" />
+    <measureUnit.code v="KW2" />
+    <NominationType>
+      <type v="A01" />
+      <Account>
+        <internalAccount v="58X-TIBIEL-LTD-K" codingScheme="305" />
+        <InformationOrigin_TimeSeries>
+          <type v="16G" />
+          <Period>
+            <timeInterval v="2025-01-15T07:00:00+02:00/2025-01-16T07:00:00+02:00" />
+            <direction.code v="Z03" />
+            <quantity.amount v="30000" />
+          </Period>
+        </InformationOrigin_TimeSeries>
+      </Account>
+    </NominationType>
+  </ConnectionPoint>
+  <ConnectionPoint>
+    <identification v="58ZC041P03PLEN-U" codingScheme="ZSO" />
+    <measureUnit.code v="KW2" />
+    <NominationType>
+      <type v="A01" />
+      <Account>
+        <internalAccount v="58X-TIBIEL-LTD-K" codingScheme="305" />
+        <InformationOrigin_TimeSeries>
+          <type v="16G" />
+          <Period>
+            <timeInterval v="2025-01-15T07:00:00+02:00/2025-01-16T07:00:00+02:00" />
+            <direction.code v="Z03" />
+            <quantity.amount v="800000" />
+          </Period>
+        </InformationOrigin_TimeSeries>
+      </Account>
+    </NominationType>
+  </ConnectionPoint>
+  <ConnectionPoint>
+    <identification v="58ZC057P01PERN-U" codingScheme="ZSO" />
+    <measureUnit.code v="KW2" />
+    <NominationType>
+      <type v="A01" />
+      <Account>
+        <internalAccount v="58X-TIBIEL-LTD-K" codingScheme="305" />
+        <InformationOrigin_TimeSeries>
+          <type v="16G" />
+          <Period>
+            <timeInterval v="2025-01-15T07:00:00+02:00/2025-01-16T07:00:00+02:00" />
+            <direction.code v="Z03" />
+            <quantity.amount v="8000" />
+          </Period>
+        </InformationOrigin_TimeSeries>
+      </Account>
+    </NominationType>
+  </ConnectionPoint>
+  <ConnectionPoint>
+    <identification v="58ZC057P03PERN-G" codingScheme="ZSO" />
+    <measureUnit.code v="KW2" />
+    <NominationType>
+      <type v="A01" />
+      <Account>
+        <internalAccount v="58X-TIBIEL-LTD-K" codingScheme="305" />
+        <InformationOrigin_TimeSeries>
+          <type v="16G" />
+          <Period>
+            <timeInterval v="2025-01-15T07:00:00+02:00/2025-01-16T07:00:00+02:00" />
+            <direction.code v="Z03" />
+            <quantity.amount v="0" />
+          </Period>
+        </InformationOrigin_TimeSeries>
+      </Account>
+    </NominationType>
+  </ConnectionPoint>
+  <ConnectionPoint>
+    <identification v="58ZC059P02BURG-S" codingScheme="ZSO" />
+    <measureUnit.code v="KW2" />
+    <NominationType>
+      <type v="A01" />
+      <Account>
+        <internalAccount v="58X-TIBIEL-LTD-K" codingScheme="305" />
+        <InformationOrigin_TimeSeries>
+          <type v="16G" />
+          <Period>
+            <timeInterval v="2025-01-15T07:00:00+02:00/2025-01-16T07:00:00+02:00" />
+            <direction.code v="Z03" />
+            <quantity.amount v="300000" />
+          </Period>
+        </InformationOrigin_TimeSeries>
+      </Account>
+    </NominationType>
+  </ConnectionPoint>
+  <ConnectionPoint>
+    <identification v="58ZC072P02DIMI-R" codingScheme="ZSO" />
+    <measureUnit.code v="KW2" />
+    <NominationType>
+      <type v="A01" />
+      <Account>
+        <internalAccount v="58X-TIBIEL-LTD-K" codingScheme="305" />
+        <InformationOrigin_TimeSeries>
+          <type v="16G" />
+          <Period>
+            <timeInterval v="2025-01-15T07:00:00+02:00/2025-01-16T07:00:00+02:00" />
+            <direction.code v="Z03" />
+            <quantity.amount v="4000" />
+          </Period>
+        </InformationOrigin_TimeSeries>
+      </Account>
+    </NominationType>
+  </ConnectionPoint>
+  <ConnectionPoint>
+    <identification v="58ZC102P01TPVR-G" codingScheme="ZSO" />
+    <measureUnit.code v="KW2" />
+    <NominationType>
+      <type v="A01" />
+      <Account>
+        <internalAccount v="58X-TIBIEL-LTD-K" codingScheme="305" />
+        <InformationOrigin_TimeSeries>
+          <type v="16G" />
+          <Period>
+            <timeInterval v="2025-01-15T07:00:00+02:00/2025-01-16T07:00:00+02:00" />
+            <direction.code v="Z03" />
+            <quantity.amount v="30000" />
+          </Period>
+        </InformationOrigin_TimeSeries>
+      </Account>
+    </NominationType>
+  </ConnectionPoint>
+  <ConnectionPoint>
+    <identification v="58ZC104P01VRTZ-W" codingScheme="ZSO" />
+    <measureUnit.code v="KW2" />
+    <NominationType>
+      <type v="A01" />
+      <Account>
+        <internalAccount v="58X-TIBIEL-LTD-K" codingScheme="305" />
+        <InformationOrigin_TimeSeries>
+          <type v="16G" />
+          <Period>
+            <timeInterval v="2025-01-15T07:00:00+02:00/2025-01-16T07:00:00+02:00" />
+            <direction.code v="Z03" />
+            <quantity.amount v="70000" />
+          </Period>
+        </InformationOrigin_TimeSeries>
+      </Account>
+    </NominationType>
+  </ConnectionPoint>
+</NominationResponse_Document>

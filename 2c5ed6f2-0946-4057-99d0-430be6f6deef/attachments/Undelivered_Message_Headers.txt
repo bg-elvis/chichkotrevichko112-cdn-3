@@ -1,0 +1,24 @@
+Return-Path: <tbl_ood@mail.bg>
+Received: from mail.bg (php4w3.internal [10.0.0.37])
+	by mx4.mail.bg (Postfix) with ESMTPA id 860392E4BD
+	for <valentinqa.koleva@customs.bg>; Mon, 19 Jul 2021 15:17:49 +0300 (EEST)
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=mail.bg; s=default;
+	t=1626697070; bh=E0MY6J4toCQ0o6CWlWTP8INf45FUruhexH6tVS7PmzU=;
+	h=Message-ID:Date:Subject:From:To:MIME-Version:Content-Type;
+	b=oUcJEbJIOQBHh1DRUgtF5ysCEVV+2IsjkuT+pwnwlS/J8xd2MiQgiMfKUm12gtigt
+	 dH3JUfIQnuXdLNIjGo9yYtpi80O1sV/XAPSlbu7vREO/c8zQl5X1j5fpOE0NDaEw7m
+	 b0v2X4PbDtkOoXHTGLr/WD3pw+m4wC6ajWiRbjNU=
+Message-ID: <fb22a49f4165a9b55ea028fb5a93212e.mailbg@mail.bg>
+Date: Mon, 19 Jul 2021 12:17:49 -0000
+Subject:
+ =?utf-8?B?0L7RgiDQlNC10LrQsNGA0YIg0JrQvtGA0L/QvtGA0LXQudGI0YrQvSDQldCe?=
+ =?utf-8?B?0J7QlCAtINC/0YDQtdC00YHRgtCw0LLRj9C90LUg0L3QsCDQtNC+0LrRg9C8?=
+ =?utf-8?B?0LXQvdGC0Lgg0L/QviDQv9C40YHQvNC+?=
+From: tbl_ood@mail.bg
+To: valentinqa.koleva@customs.bg
+User-Agent: Mail.BG Webmail
+MIME-Version: 1.0
+Content-Type: multipart/mixed;boundary="----=_20210719121749_14978"
+X-Priority: 3 (Normal)
+Importance: Normal
+X-Composed: 2021-07-19T12:17:49+00:00

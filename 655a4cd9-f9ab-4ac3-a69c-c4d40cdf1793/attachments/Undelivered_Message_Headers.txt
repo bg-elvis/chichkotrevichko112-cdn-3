@@ -1,0 +1,28 @@
+Return-Path: <tbl_ood@mail.bg>
+Received: from mail.bg (php3w3.internal [10.0.0.36])
+	by mx5.mail.bg (Postfix) with ESMTPA id 185F18093A56
+	for <noreply@mX.insa.bg>; Fri,  4 Sep 2020 13:51:48 +0300 (EEST)
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=mail.bg; s=default;
+	t=1599216708; bh=GX4gGCjCNdK/cRC1WowaBdrd1Lvi37ATA8W3y4ZAehM=;
+	h=Message-ID:In-Reply-To:References:Date:Subject:From:To:
+	 MIME-Version:Content-Type;
+	b=n4OtTY/BKlonh9n9zA6+LsHPxtVc9y81cDeKSG24qfBPSDrO445N299WOPk0zGkRv
+	 zlEEYssgg+C2ncZgLcSffSNr1Na8JVOiZ5+b4D0MLsYh8ZqOaH0TH+7KHrJmncO5gW
+	 IGjOojrTthAmUURLkvT/d4BUbsNbWy9OGzo6alyo=
+Message-ID: <31a8cb77d579b41568edf71abf36fff2.mailbg@mail.bg>
+In-Reply-To: <202009041008.084A8pNq094157@mX>
+References: <202009041008.084A8pNq094157@mX>
+Date: Fri, 4 Sep 2020 10:51:48 -0000
+Subject:
+ =?utf-8?B?UkU6INCY0L3RhNC+0YDQvNCw0YbQuNGPINC+0YIg0JjQndCh0JAg0J7QmdCb?=
+ =?utf-8?B?INCe0J7QlA==?=
+From: tbl_ood@mail.bg
+To: =?utf-8?B?0JjQndCh0JAg0J7QmdCbINCe0J7QlA==?= <noreply@mX.insa.bg>
+User-Agent: Mail.BG Webmail
+MIME-Version: 1.0
+Content-Type: multipart/mixed;boundary="----=_20200904105148_76118"
+X-Confirm-Reading-To: 
+Disposition-Notification-To: 
+X-Priority: 3 (Normal)
+Importance: Normal
+X-Composed: 2020-09-04T10:51:48+00:00

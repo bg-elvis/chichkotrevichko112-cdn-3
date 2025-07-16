@@ -1,0 +1,11 @@
+Reporting-MTA: dns; mx4.mail.bg
+X-Postfix-Queue-ID: 860392E4BD
+X-Postfix-Sender: rfc822; tbl_ood@mail.bg
+Arrival-Date: Mon, 19 Jul 2021 15:17:49 +0300 (EEST)
+
+Final-Recipient: rfc822; valentinqa.koleva@customs.bg
+Original-Recipient: rfc822;valentinqa.koleva@customs.bg
+Action: failed
+Status: 5.0.0
+Remote-MTA: dns; mail.customs.bg
+Diagnostic-Code: smtp; 550 #5.1.0 Address rejected.

@@ -1,0 +1,23 @@
+Return-Path: <tbl_ood@mail.bg>
+Received: from mail.bg (php5w3.internal [10.0.0.38])
+	by mx5.mail.bg (Postfix) with ESMTPA id 881788108749
+	for <monov@brikel-bg.com>; Tue, 14 Apr 2020 09:51:59 +0300 (EEST)
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=mail.bg; s=default;
+	t=1586847119; bh=wKtT1sSOBKQGeZJJ1yZ+EZ8BZXrqC8xshayPwT8SdXs=;
+	h=Message-ID:Date:Subject:From:To:MIME-Version:Content-Type;
+	b=hh7VJUXSq0HovafobgmaIXkwBhanSuf2z/LsTotlWr3b5dyGNsrHmdCWTzF90n1mH
+	 rO4mPS8ETOF5KZwwpJg+pctO80Dbvy0hHuNQPM7gC4rP7WcP0JDtxpDq6/DLNe+slY
+	 kFOtqSu1VCdwm4MzPnnqUd0RT4jeJvU/JK5oMfPE=
+Message-ID: <7191e6922b8d214a832d87e20cee8a3c.mailbg@mail.bg>
+Date: Tue, 14 Apr 2020 06:51:59 -0000
+Subject: =?utf-8?B?RldEOiDQn9GA0LjQu9C+0LbQtdC90LjQtSAxNNCxIA==?=
+From: tbl_ood@mail.bg
+To: monov@brikel-bg.com <monov@brikel-bg.com>
+User-Agent: Mail.BG Webmail
+MIME-Version: 1.0
+Content-Type: multipart/mixed;boundary="----=_20200414065159_20732"
+X-Confirm-Reading-To: 
+Disposition-Notification-To: 
+X-Priority: 3 (Normal)
+Importance: Normal
+X-Composed: 2020-04-14T06:51:59+00:00

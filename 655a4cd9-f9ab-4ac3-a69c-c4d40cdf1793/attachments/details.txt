@@ -1,0 +1,11 @@
+Reporting-MTA: dns; mx5.mail.bg
+X-Postfix-Queue-ID: 185F18093A56
+X-Postfix-Sender: rfc822; tbl_ood@mail.bg
+Arrival-Date: Fri,  4 Sep 2020 13:51:48 +0300 (EEST)
+
+Final-Recipient: rfc822; noreply@mX.insa.bg
+Original-Recipient: rfc822;noreply@mX.insa.bg
+Action: failed
+Status: 4.4.1
+Diagnostic-Code: X-Postfix; connect to mX.insa.bg[193.68.155.4]:25: Connection
+    timed out
